@@ -1,0 +1,59 @@
+{
+  "id": "mizuki",
+  "title": "水城跡",
+  "titleEn": "Mizuki Fortification Ruins",
+  "kana": "みずき",
+  "type": "castle",
+  "eras": [
+    "飛鳥時代"
+  ],
+  "summary": "大宰府を守るために築かれた古代の大堤",
+  "description": "水城は、664年に築かれた古代の防衛施設です。前の年の白村江の戦いで唐と新羅の連合軍に敗れた朝廷が、大宰府を外からの攻撃から守るため、博多湾側から続く平野をふさぐように土の堤を造りました。堤は長さおよそ1.2キロメートル、高さはおよそ9メートルにもなり、博多側には水をたたえた堀があったと考えられています。日本書紀にも、大きな堤を築いて水をためたことが記されています。現在も緑におおわれた堤の高まりがはっきりと残り、国の特別史跡に指定されています。",
+  "descriptionEn": "Mizuki is an ancient defensive embankment built in 664, the year after Japan's defeat by the allied Tang and Silla forces at the Battle of Baekgang. Stretching about 1.2 kilometers across the plain and rising about 9 meters, it blocked the approach from Hakata Bay to Dazaifu, with a water-filled moat on the Hakata side. The grassy embankment still survives clearly today and is a Special Historic Site.",
+  "kidsDescription": "みずきは、いまから1300年以上むかしに作られた、とても長い土のかべです。外国からせめてくる人たちから、だざいふをまもるために作られました。かべの前には水をためたほりもありました。いまも、みどりの土手のように見ることができます。",
+  "highlights": [
+    "平野を横切る長い土の堤",
+    "東門跡と西門跡",
+    "大野城の山並みとの眺め"
+  ],
+  "prefecture": "福岡県",
+  "city": "福岡県",
+  "lat": 33.5181,
+  "lng": 130.4928,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mizuki_zenkei.JPG/960px-Mizuki_zenkei.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mizuki_zenkei.JPG/330px-Mizuki_zenkei.JPG",
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mizuki_zenkei.JPG"
+  },
+  "chapters": [
+    {
+      "title": "国を守る大きな堤",
+      "text": "663年、朝鮮半島の白村江で、日本と百済の軍は唐と新羅の連合軍に大敗しました。大陸からの攻撃をおそれた朝廷は、翌年の664年、大宰府へと続く平野に大きな堤を築きました。これが水城です。日本書紀には、筑紫に大きな堤を築いて水をため、水城と名づけたと記されています。さらにその翌年には、背後の山に大野城、南の山に基肄城が築かれ、水城とともに大宰府を守るしくみが整えられました。北部九州の各地には、見張りや連絡のためののろしの施設も置かれたと考えられています。",
+      "titleEn": "A Great Embankment to Defend the Nation",
+      "textEn": "In 663, Japan and its ally Baekje suffered a major defeat against Tang and Silla at the Battle of Baekgang. Fearing invasion, the court built a great embankment across the plain leading to Dazaifu in 664, which the Nihon Shoki records as Mizuki. The next year, Ono Castle and Kii Castle were built on nearby mountains, forming a defensive system around Dazaifu together with Mizuki."
+    },
+    {
+      "title": "堤に込められた技術",
+      "text": "水城の堤は、土を薄く重ねては突き固める作業をくり返して造られています。発掘調査では、堤の下を通って内側から外側の堀へ水を送ったとみられる木の管も見つかり、当時の高い土木技術がうかがえます。堤には東と西に門があり、大宰府と博多の港を結ぶ道がここを通っていました。奈良時代、大宰府の長官だった大伴旅人が都へ帰るとき、水城で見送りの人と別れの歌を交わしたことが万葉集に残されています。水城は、守りの施設であると同時に、人々が行き交う大宰府の入り口でもあったのです。",
+      "titleEn": "The Technology Behind the Embankment",
+      "textEn": "The embankment was built by repeatedly piling up thin layers of earth and pounding them firm. Excavations also found wooden conduits that likely carried water under the embankment to the outer moat. Gates on the east and west let the road between Dazaifu and the port of Hakata pass through, and the Manyoshu records a farewell exchange of poems here when the governor Otomo no Tabito returned to the capital."
+    },
+    {
+      "title": "堤の前に立って",
+      "text": "水城跡に立つと、緑におおわれた堤が平野を横切るように長く続いているのがわかります。今では道路や鉄道が堤を通り抜けている場所もありますが、その大きさは今も見る人を圧倒します。堤の博多側は、かつて水をたたえた堀があったところです。堤の高さと堀の広さを思い浮かべると、ここを越えて攻め込むことがどれほど難しかったか想像できるでしょう。東門跡や西門跡では、門があった場所を示す跡を見ることができます。振り返れば、大野城のある四王寺山も望めます。",
+      "titleEn": "Standing Before the Embankment",
+      "textEn": "From the site, you can see the green embankment running in a long line across the plain. Roads and railways now cut through it in places, but its size is still impressive. The Hakata side was once a water-filled moat, so imagine how hard it would have been for an army to cross, and look for the east and west gate sites and the view toward Mount Shioji, home of Ono Castle.",
+      "localOnly": true
+    },
+    {
+      "title": "土でできた大きなかべ",
+      "text": "みずきは、土をうすくしいて、とんとんと強くかためることを何回もくりかえして作られました。高さはおよそ9メートルで、3かいだてのたてものくらいあります。きかいのない時代に、たくさんの人が力を合わせて作ったのです。どれくらいの人が、どれくらいの時間をかけたのか、そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11548410"
+}

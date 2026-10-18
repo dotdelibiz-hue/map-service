@@ -1,0 +1,59 @@
+{
+  "id": "hikone-castle",
+  "title": "彦根城",
+  "titleEn": "Hikone Castle",
+  "kana": "ひこねじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "国宝の天守が江戸時代から残る井伊家の名城",
+  "description": "彦根城は、徳川家康の重臣だった井伊直政の跡を継いだ井伊家によって、江戸時代の初めに築かれた城です。1604年ごろに工事が始まり、20年近くをかけて完成しました。江戸時代から残る天守は国宝に指定されており、国宝の天守をもつ5つの城のひとつです。城跡は国の特別史跡で、天秤櫓や太鼓門櫓などの建物や、城を囲む堀と石垣がよく残っています。井伊家は江戸時代を通じて彦根藩を治め、幕末には大老の井伊直弼を出しました。城のすぐそばには、大名庭園の玄宮園もあります。",
+  "descriptionEn": "Hikone Castle was built in the early Edo period by the Ii family, leading retainers of Tokugawa Ieyasu, with construction beginning around 1604 and taking almost twenty years. Its original keep is a National Treasure, one of only five castle keeps in Japan with that status, and the site is a Special Historic Site with well-preserved moats, stone walls and turrets. The Ii family ruled the Hikone domain throughout the Edo period and produced the powerful chief minister Ii Naosuke, and their garden, Genkyu-en, lies next to the castle.",
+  "kidsDescription": "ひこねじょうは、しがけんのひこねしにあるお城です。400年いじょうまえにたてられたてんしゅがいまものこっていて、日本のたからもの、こくほうになっています。お城のまわりにはほりや石がきがあり、むかしのお城のようすがよくわかります。",
+  "highlights": [
+    "国宝の天守と多彩な破風",
+    "天秤櫓と廊下橋",
+    "大名庭園の玄宮園"
+  ],
+  "prefecture": "滋賀県",
+  "city": "彦根市",
+  "lat": 35.276389,
+  "lng": 136.251667,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E5%BD%A6%E6%A0%B9%E5%9F%8E%E3%81%AE%E5%A4%A9%E5%AE%88%E9%96%A3.jpg/960px-%E5%BD%A6%E6%A0%B9%E5%9F%8E%E3%81%AE%E5%A4%A9%E5%AE%88%E9%96%A3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E5%BD%A6%E6%A0%B9%E5%9F%8E%E3%81%AE%E5%A4%A9%E5%AE%88%E9%96%A3.jpg/330px-%E5%BD%A6%E6%A0%B9%E5%9F%8E%E3%81%AE%E5%A4%A9%E5%AE%88%E9%96%A3.jpg",
+    "author": "高菜明太",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%BD%A6%E6%A0%B9%E5%9F%8E%E3%81%AE%E5%A4%A9%E5%AE%88%E9%96%A3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "井伊家と築城",
+      "text": "彦根城を築いたのは、徳川家康に仕えた井伊家です。関ヶ原の戦いのあと、井伊直政は近江の佐和山城を与えられましたが、まもなく亡くなりました。その跡を継いだ子の代に、新しい城を彦根山に築くことが決まり、1604年ごろに工事が始まりました。工事には幕府の命令で周辺の大名も加わり、近くの城から運ばれた石や建物の材料も使われたと伝えられています。こうして20年近くをかけて、城と城下町が整えられていきました。",
+      "titleEn": "The Ii Family and the Castle",
+      "textEn": "Hikone Castle was built by the Ii family, retainers of Tokugawa Ieyasu. After the Battle of Sekigahara, Ii Naomasa received Sawayama Castle but died soon afterward, and under his son a new castle was planned on Mount Hikone, with work starting around 1604. Neighboring lords were ordered by the shogunate to help, stone and building materials are said to have been brought from nearby castles, and the castle and town took almost twenty years to complete."
+    },
+    {
+      "title": "城が残された歴史",
+      "text": "井伊家は江戸時代を通じて彦根藩を治め、将軍を支える重要な役目を担いました。幕末には藩主の井伊直弼が大老となり、開国をめぐる難しい判断に関わりましたが、1860年に江戸城の桜田門外で命を落としました。明治時代になると、全国の多くの城が取り壊されました。彦根城も取り壊しの危機にありましたが、保存されることになり、天守をはじめとする建物が今に伝わっています。そのおかげで、今も江戸時代の城の姿を間近に見ることができるのです。",
+      "titleEn": "How the Castle Survived",
+      "textEn": "The Ii family ruled Hikone throughout the Edo period and held key roles supporting the shogun. In the final years of the shogunate, lord Ii Naosuke became chief minister and made difficult decisions about opening Japan to the world, but he was assassinated outside Edo Castle's Sakurada Gate in 1860. In the Meiji era many castles were torn down, and Hikone Castle also faced demolition, but it was preserved, which is why its original keep can still be seen today."
+    },
+    {
+      "title": "城を歩いて見たいもの",
+      "text": "石段を登っていくと、まず天秤櫓が見えてきます。中央の門を挟んで左右に櫓がのびる形が、てんびんばかりに似ていることから、この名で呼ばれています。手前には、深い堀切に架かる廊下橋があり、敵を防ぐための工夫が感じられます。さらに進むと、国宝の天守が姿を現します。小ぶりながら、屋根にはさまざまな形の破風が組み合わされ、とても華やかな印象です。天守の上からは琵琶湖を見渡せます。帰りには、池の向こうに天守を望む玄宮園にも立ち寄ってみてください。",
+      "titleEn": "Walking the Castle Grounds",
+      "textEn": "Climbing the stone steps, you first reach the Tenbin Turret, named because its wings on either side of the central gate resemble a balance scale, approached by a bridge over a deep dry moat built for defense. Further on stands the National Treasure keep, small but richly decorated with gables of many shapes, with views over Lake Biwa from the top. On the way back, visit Genkyu-en garden, where the keep can be seen rising beyond the pond.",
+      "localOnly": true
+    },
+    {
+      "title": "てんしゅのやねを見てみよう",
+      "text": "彦根城のてんしゅのやねをよく見ると、さんかくの形や、まるくカーブした形など、いろいろなかざりがついています。これは、はふというやねのかざりです。ちいさめのてんしゅですが、はふがたくさんあって、とてもおしゃれなお城です。いくつのはふがあるか、下から見上げてかぞえてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1012374"
+}

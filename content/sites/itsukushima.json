@@ -1,0 +1,60 @@
+{
+  "id": "itsukushima",
+  "title": "厳島（宮島）",
+  "titleEn": "Itsukushima (Miyajima)",
+  "kana": "いつくしま",
+  "type": "shrine",
+  "eras": [
+    "平安時代",
+    "戦国時代"
+  ],
+  "summary": "海に浮かぶ社殿と大鳥居の神の島",
+  "description": "厳島は瀬戸内海に浮かぶ島で、宮島とも呼ばれます。島そのものが古くから神の島としてあがめられ、国の特別史跡と特別名勝に指定されています。平安時代の終わりには平清盛が厚く信仰し、海の上に建つような厳島神社の社殿が整えられました。満ち潮のときには社殿と大鳥居が海に浮かんで見え、厳島神社は1996年に世界遺産に登録されました。戦国時代には、毛利元就が陶晴賢の軍を破った厳島の戦いの舞台にもなりました。島の中央の弥山には原始林が広がっています。",
+  "descriptionEn": "Itsukushima, also called Miyajima, is an island in the Seto Inland Sea long revered as an island of the gods, and is designated a Special Historic Site and Special Place of Scenic Beauty. At the end of the Heian period, Taira no Kiyomori devoted himself to Itsukushima Shrine and developed its buildings, which appear to float on the sea at high tide along with the great torii gate; the shrine was inscribed as a World Heritage Site in 1996. The island was also the stage for the 1555 Battle of Itsukushima, and primeval forest covers Mt. Misen at its center.",
+  "kidsDescription": "いつくしまは、かみさまのしまとして、むかしからだいじにされてきたしまです。うみの上にたっているような大きなとりいや、じんじゃのたてものがゆうめいです。しおがひくと、とりいのちかくまであるいていけることもあるんですよ。",
+  "highlights": [
+    "海に立つ大鳥居",
+    "回廊でつながる社殿",
+    "弥山の原始林"
+  ],
+  "prefecture": "広島県",
+  "city": "廿日市市",
+  "lat": 34.275556,
+  "lng": 132.307778,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Miyajima_Island.jpg/960px-Miyajima_Island.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Miyajima_Island.jpg/330px-Miyajima_Island.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyajima_Island.jpg"
+  },
+  "chapters": [
+    {
+      "title": "神の島と平清盛",
+      "text": "厳島は、島そのものが神としてあがめられてきました。そのため、社殿は島の土地をなるべく避けるように、海辺の浅瀬に建てられたともいわれています。厳島神社は飛鳥時代に始まったと伝えられ、平安時代の終わりに平清盛が深く信仰したことで大きく発展しました。清盛は、海の上に社殿を回廊でつなぐ壮大な建物を整え、平家一門の繁栄を祈りました。平家の人々が奉納した平家納経は、今も神社の宝として大切に伝えられています。",
+      "titleEn": "The Island of the Gods and Taira no Kiyomori",
+      "textEn": "The whole island has long been worshipped as sacred, and it is said that the shrine was built over the shallow shore partly to avoid disturbing the sacred land. Itsukushima Shrine is said to date back to the Asuka period and flourished greatly at the end of the Heian period through the devotion of Taira no Kiyomori, who developed its grand halls linked by corridors over the sea. The Heike Nokyo sutras dedicated by the Taira clan are still treasured by the shrine."
+    },
+    {
+      "title": "厳島の戦い",
+      "text": "戦国時代の1555年、厳島は大きな戦いの舞台となりました。中国地方で勢力を広げていた毛利元就が、主君を倒して力を持った陶晴賢の大軍を、この島で迎え撃ったのです。元就は嵐の夜に海を渡り、島に陣を構えていた陶軍に奇襲をかけたと伝えられています。この戦いに勝利した毛利氏は、やがて中国地方の大部分を治める大名へと成長しました。毛利氏はその後も厳島神社を大切にし、社殿の修理などを行いました。",
+      "titleEn": "The Battle of Itsukushima",
+      "textEn": "In 1555 the island became the stage of a major battle, when Mori Motonari confronted the large army of Sue Harukata, who had seized power by overthrowing his lord. Motonari is said to have crossed the sea on a stormy night and launched a surprise attack on Sue's forces camped on the island. Victory set the Mori on the path to ruling most of the Chugoku region, and they continued to care for the shrine."
+    },
+    {
+      "title": "島で見てほしいもの",
+      "text": "厳島神社では、まず海の中に立つ大鳥居を眺めてみてください。現在の大鳥居は明治時代に建てられたもので、柱は海の底に埋め込まれているのではなく、鳥居そのものの重さで立っているといわれています。満ち潮のときは社殿と鳥居が海に浮かんで見え、引き潮のときは鳥居の近くまで砂浜を歩けることもあります。潮の満ち引きで景色ががらりと変わるのも、この島ならではの魅力です。時間があれば、弥山の原始林や、豊臣秀吉ゆかりの千畳閣にも足を延ばしてみてください。",
+      "titleEn": "What to See on the Island",
+      "textEn": "Begin by gazing at the great torii gate standing in the sea; the current gate dates from the Meiji era and is said to stand by its own weight rather than being buried in the seabed. At high tide the shrine and gate seem to float, and at low tide you may be able to walk across the sand to the gate. If you have time, explore the primeval forest of Mt. Misen or the Senjokaku hall associated with Toyotomi Hideyoshi.",
+      "localOnly": true
+    },
+    {
+      "title": "うみにうかぶとりい",
+      "text": "いつくしまの大きなとりいは、うみの中にたっています。でも、はしらはうみのそこにうめこまれているのではなく、とりいのおもさだけでたっているといわれています。しおがみちるとうみにうかんで見え、しおがひくと、あるいてちかくまで行けることもあります。ふしぎですね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q875301"
+}

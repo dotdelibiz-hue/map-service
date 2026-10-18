@@ -1,0 +1,61 @@
+{
+  "id": "hitoyoshi-castle",
+  "title": "人吉城跡",
+  "titleEn": "Hitoyoshi Castle Ruins",
+  "kana": "ひとよしじょう",
+  "type": "castle",
+  "eras": [
+    "鎌倉時代",
+    "戦国時代",
+    "江戸時代"
+  ],
+  "summary": "相良氏が長く治めた球磨川沿いの城跡",
+  "description": "人吉城は、球磨川とその支流の胸川を天然の堀として築かれた城です。鎌倉時代の初めにこの地に入った相良氏が拠点とし、以後35代、およそ670年にわたって治め続けました。一つの家が同じ土地をこれほど長く治めた例は全国でも珍しいものです。城跡には多くの石垣が残り、特に石垣の上の部分に平たい石を張り出させた武者返しは、幕末に西洋の技術を取り入れて築かれた珍しいものです。復元された櫓や長塀、発掘で見つかった石造りの地下室の遺構を見られる歴史館もあります。三日月の模様の石が出たことから繊月城とも呼ばれ、国の史跡に指定されています。",
+  "descriptionEn": "Hitoyoshi Castle used the Kuma River and its tributary, the Mune River, as natural moats. The Sagara clan, who arrived in the early Kamakura period, ruled from here for 35 generations and about 670 years, a rare record in Japan. Many stone walls survive, including unusual walls topped with projecting flat stones built in the late Edo period using Western techniques, along with reconstructed turrets and walls and a museum displaying a mysterious stone underground chamber; the site is a National Historic Site also known as Sengetsu Castle.",
+  "kidsDescription": "ひとよしじょうは、くまがわという大きな川のそばにあったおしろです。さがらというおなじ家が、とても長いあいだ、このあたりをおさめていました。石がきのいちばん上の石がひさしのように出ていて、てきがのぼれないようになっています。",
+  "highlights": [
+    "張り出しのある武者返し石垣",
+    "復元された多門櫓と長塀",
+    "歴史館の地下室遺構"
+  ],
+  "prefecture": "熊本県",
+  "city": "人吉市",
+  "lat": 32.211083,
+  "lng": 130.766492,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Hitoyoshi_3.jpg/960px-Hitoyoshi_3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Hitoyoshi_3.jpg/330px-Hitoyoshi_3.jpg",
+    "author": "Fraxinus2",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitoyoshi_3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "相良氏の長い歴史",
+      "text": "人吉城の歴史は、鎌倉時代の初めに相良氏がこの地に入ったことから始まります。相良氏は球磨川の流れる人吉盆地を拠点とし、戦国時代には球磨地方をまとめる大名へと成長しました。周りの強い大名との争いの中でも領地を守り抜き、豊臣秀吉や徳川家康の時代を経て、江戸時代には人吉藩の藩主となりました。そして明治時代まで、35代、およそ670年にわたってこの地を治め続けたのです。一つの家がこれほど長く同じ土地を治めた例は珍しく、人吉球磨には相良氏のもとで育まれた豊かな文化が今も残っています。",
+      "titleEn": "The Long History of the Sagara Clan",
+      "textEn": "Hitoyoshi Castle's history began when the Sagara clan arrived in the early Kamakura period. Based in the Hitoyoshi Basin along the Kuma River, they grew into the daimyo of the Kuma region in the Sengoku period and kept their lands through the eras of Hideyoshi and Ieyasu. Ruling for 35 generations and about 670 years until the Meiji era, the Sagara left a rich culture that still survives in the region."
+    },
+    {
+      "title": "珍しい石垣と謎の地下室",
+      "text": "人吉城跡で特に注目したいのが、石垣のいちばん上に平たい石を張り出させた武者返しです。これは幕末に、西洋の城づくりの技術を参考にして築かれたといわれ、このような形の石垣は、ほかには北海道の五稜郭など、国内でもごくわずかしかありません。また、城内の屋敷跡の発掘調査では、石を積んで造られた地下室が見つかりました。何のために造られたのかは、今もはっきりとはわかっていません。この地下室は人吉城歴史館の中で保存され、見学することができます。",
+      "titleEn": "Unusual Walls and a Mysterious Cellar",
+      "textEn": "Look especially for the walls topped with projecting flat stones, built in the late Edo period with reference to Western fortification techniques; walls of this kind exist at only a few places in Japan, such as Goryokaku in Hokkaido. Excavations of a residence site in the castle also uncovered a stone-lined underground room whose purpose is still unclear. It is preserved and on view inside the Hitoyoshi Castle History Museum."
+    },
+    {
+      "title": "球磨川沿いの石垣を歩く",
+      "text": "人吉城跡を訪れたら、まず球磨川沿いに続く長い石垣を眺めてみてください。川が城を守る堀の役目を果たしていたことがよくわかります。石垣の上の端に目を向けると、平たい石がひさしのように張り出した武者返しを見つけられるでしょう。城の入り口付近には、復元された多門櫓や角櫓、長塀が並び、城の姿を思い描く手がかりになります。石段を上って本丸のあたりまで進むと、人吉の町並みや周りの山々を見渡せます。歴史館では、謎の地下室の遺構もぜひ見てみてください。",
+      "titleEn": "Walking Along the Riverside Walls",
+      "textEn": "Start by viewing the long stone walls along the Kuma River, which clearly served as the castle's moat, and look for the projecting flat stones along their tops. Near the entrance, reconstructed turrets and a long wall help you picture the castle, and climbing the stone steps toward the main enclosure rewards you with views of Hitoyoshi and the surrounding mountains. Be sure to see the mysterious underground chamber in the history museum.",
+      "localOnly": true
+    },
+    {
+      "title": "670年もつづいたとのさま",
+      "text": "ひとよしをおさめた、さがらという家は、およそ670年ものあいだ、ずっとおなじ土地をおさめつづけました。35代も、おやからこどもへと受けつがれたのです。こんなに長くつづいた家は、日本でもめずらしいそうです。あなたのおじいさんのおじいさんのそのまた先まで、どれくらいさかのぼれるか考えてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q8011484"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "shuri-castle",
+  "title": "首里城",
+  "titleEn": "Shuri Castle",
+  "kana": "しゅりじょう",
+  "type": "castle",
+  "eras": [
+    "室町時代",
+    "江戸時代"
+  ],
+  "summary": "琉球王国の王たちが暮らした丘の上の王城",
+  "description": "首里城は、那覇市の首里の丘に築かれた、琉球王国の王城です。15世紀に琉球が一つの王国にまとめられてから、1879年に王国が終わるまで、国王の住まいであると同時に、政治や外交、祭祀の中心でもありました。中国や日本の影響を受けながら、独自の文化を映した華やかな建物が建ち並んでいました。城は何度も火災にあい、1945年の沖縄戦ではすべてを失いましたが、1992年に正殿などが復元されました。2019年の火災で再び正殿などが焼失し、その後、正殿の再建が進められてきました。首里城跡は琉球王国のグスク及び関連遺産群の一つとして世界遺産に登録されています。",
+  "descriptionEn": "Shuri Castle, on a hill in Shuri, Naha, was the royal castle of the Ryukyu Kingdom, serving as the king's residence and the center of government, diplomacy and ritual from the 15th-century unification of Ryukyu until the kingdom ended in 1879. Its splendid buildings reflected a unique culture shaped by Chinese and Japanese influences. Repeatedly lost to fire and completely destroyed in the Battle of Okinawa in 1945, it was restored in 1992, and after a 2019 fire destroyed the main hall again, its reconstruction has been under way; the castle site is part of the World Heritage Site of Gusuku Sites of the Kingdom of Ryukyu.",
+  "kidsDescription": "しゅりじょうは、むかし沖縄にあった、りゅうきゅう王国の王さまのおしろです。赤いりっぱなたてものがあり、外国からのお客さんもむかえました。せんそうや火事で何どもなくなりましたが、そのたびに、みんなの力でたてなおされてきました。",
+  "highlights": [
+    "守礼門と歓会門",
+    "曲線を描く城壁",
+    "世界遺産の園比屋武御嶽石門"
+  ],
+  "prefecture": "沖縄県",
+  "city": "那覇市",
+  "lat": 26.217031,
+  "lng": 127.719475,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Naha_Shuri_Castle51s3s4200.jpg/960px-Naha_Shuri_Castle51s3s4200.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Naha_Shuri_Castle51s3s4200.jpg/330px-Naha_Shuri_Castle51s3s4200.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naha_Shuri_Castle51s3s4200.jpg"
+  },
+  "chapters": [
+    {
+      "title": "琉球王国の中心",
+      "text": "首里城は、那覇の街を見下ろす首里の丘に築かれた城です。15世紀の前半、尚巴志によって琉球の島々が一つの王国にまとめられると、首里城は王国の中心となりました。それから1879年に王国が終わるまで、およそ450年にわたり、国王が暮らし、政治や儀式が行われる場所でした。琉球は中国や日本、東南アジアの国々と盛んに交易を行い、首里城には各国からの使者が訪れました。赤い正殿をはじめとする建物には、中国と日本の様式が取り入れられ、琉球ならではの華やかな文化が表現されていました。",
+      "titleEn": "The Heart of the Ryukyu Kingdom",
+      "textEn": "Shuri Castle stands on a hill overlooking Naha. After Sho Hashi united Ryukyu into one kingdom in the first half of the 15th century, the castle became its center for about 450 years, until the kingdom ended in 1879, as the king's residence and the stage for government and ceremonies. Ryukyu traded actively with China, Japan and Southeast Asia, and the red main hall and other buildings combined Chinese and Japanese styles into a uniquely Ryukyuan splendor."
+    },
+    {
+      "title": "失われ、よみがえる城",
+      "text": "首里城は、その長い歴史の中で、何度も火災にあい、そのたびに建て直されてきました。1945年の沖縄戦では、城の地下に日本軍の司令部が置かれたこともあり、激しい攻撃によって城はすべて失われました。戦後、城跡には大学が置かれましたが、その移転後に復元の取り組みが進められ、1992年に正殿などがよみがえりました。しかし2019年、火災によって正殿をはじめとする建物が再び焼失してしまいます。その後、正殿は2026年秋の完成をめざして再建が進められてきました。多くの人々の思いが、首里城を何度もよみがえらせているのです。",
+      "titleEn": "A Castle Lost and Reborn",
+      "textEn": "Over its long history, Shuri Castle burned and was rebuilt many times. In the Battle of Okinawa in 1945, with the Japanese army's headquarters beneath it, the castle was completely destroyed. After a university that occupied the site relocated, restoration brought the main hall back in 1992, but a fire in 2019 destroyed it again, and its reconstruction has been carried out with completion targeted for autumn 2026, carried by the hopes of many people."
+    },
+    {
+      "title": "城門と石垣をめぐる",
+      "text": "首里城を訪れたら、まず守礼門をくぐってみましょう。その近くには、国王が外出の際に旅の安全を祈った園比屋武御嶽石門があり、世界遺産にも登録されています。石垣に沿って進むと、城の正門にあたる歓会門が現れます。首里城の石垣は、なめらかな曲線を描きながら丘を取り巻いているのが特徴で、見る角度によって美しい表情を見せます。高台からは那覇の街並みや遠くの海を見渡せます。正殿の再建の歩みにも目を向けながら、琉球王国の栄華と、城を守り続けてきた人々の思いを感じてみてください。",
+      "titleEn": "Touring the Gates and Walls",
+      "textEn": "Begin by passing through the Shureimon gate, near which stands the Sonohyan-utaki Stone Gate, a World Heritage component where the king prayed for safe travels. Following the walls, you reach Kankaimon, the main gate, and notice how the stone walls wrap around the hill in smooth curves. From the heights you can see Naha and the distant sea, so take in both the reconstruction of the main hall and the glory of the Ryukyu Kingdom.",
+      "localOnly": true
+    },
+    {
+      "title": "なんどもよみがえるおしろ",
+      "text": "しゅりじょうは、火事やせんそうで、なんどもこわれてしまいました。でも、そのたびに、たくさんの人たちが力を合わせて、たてなおしてきました。むかしのえや、のこっていたきろくをしらべて、もとのすがたに近づけているのです。みんなが大切に思う気もちが、おしろをよみがえらせているのですね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q907052"
+}

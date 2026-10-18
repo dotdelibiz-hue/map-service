@@ -1,0 +1,59 @@
+{
+  "id": "yoshimi-hundred-caves",
+  "title": "吉見百穴",
+  "titleEn": "Yoshimi Hyakuana",
+  "kana": "よしみひゃくあな",
+  "type": "kofun",
+  "eras": [
+    "古墳時代"
+  ],
+  "summary": "丘の斜面に200以上の穴が並ぶ古墳時代の横穴墓群",
+  "description": "吉見百穴は、凝灰岩の丘の斜面に200を超える横穴が掘られた、古墳時代後期の横穴墓群です。6世紀の終わりから7世紀ごろにかけて、この地域の人々の墓としてつくられたと考えられています。明治時代に発掘を行った坪井正五郎は、先住民の住まいだとする説を唱えましたが、現在では墓であったことがはっきりしています。穴の中には、国の天然記念物に指定されたヒカリゴケが自生しています。また、太平洋戦争の末期には、丘の地下に軍需工場の建設が進められ、その跡も残されています。",
+  "descriptionEn": "Yoshimi Hyakuana is a group of over 200 tunnel tombs carved into a tuff hillside in the late Kofun period, around the late 6th to 7th centuries. In the Meiji period, the anthropologist Tsuboi Shogoro excavated it and suggested the holes were dwellings of an ancient people, but they are now known to be tombs. Luminous moss, a designated Natural Monument, grows inside some of the holes, and remains of an underground munitions factory built near the end of the Pacific War can also be seen.",
+  "kidsDescription": "吉見百穴は、岩の山に、あながたくさんならんでいるふしぎな場所です。むかしの人のおはかで、およそ1400年前ごろにつくられました。あなの中には、光って見える小さなこけが生えています。たくさんのあなを、ぜひ数えてみてください。",
+  "highlights": [
+    "斜面に並ぶ200以上の横穴",
+    "穴の中で光るヒカリゴケ",
+    "戦時中の地下軍需工場跡"
+  ],
+  "prefecture": "埼玉県",
+  "city": "吉見町",
+  "lat": 36.0392,
+  "lng": 139.422,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hundred_Caves_of_Yoshimi_-_front_b_-_2018-4-1.jpg/960px-Hundred_Caves_of_Yoshimi_-_front_b_-_2018-4-1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hundred_Caves_of_Yoshimi_-_front_b_-_2018-4-1.jpg/330px-Hundred_Caves_of_Yoshimi_-_front_b_-_2018-4-1.jpg",
+    "author": "Nesnad",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hundred_Caves_of_Yoshimi_-_front_b_-_2018-4-1.jpg"
+  },
+  "chapters": [
+    {
+      "title": "斜面に並ぶ横穴の墓",
+      "text": "吉見百穴は、やわらかい凝灰岩の丘の斜面に、たくさんの穴を掘ってつくられたお墓です。古墳時代の終わりごろ、土を盛り上げた古墳とは別に、崖に横穴を掘ってお墓にする方法が各地で広まりました。穴の中には遺体を安置する場所がつくられ、入り口は石などでふさがれていたと考えられています。穴の数は200を超え、ひとつの丘にこれほど多くの横穴墓が集まっている例は珍しく、当時の人々の暮らしや信仰を知る手がかりとなっています。",
+      "titleEn": "Tombs in the Hillside",
+      "textEn": "Yoshimi Hyakuana consists of tombs carved into the soft tuff of a hillside. Toward the end of the Kofun period, besides building earthen mounds, people in various regions began digging horizontal tunnel tombs into cliffs, each with a chamber inside and an entrance thought to have been sealed with stones. Over 200 such tombs cluster on this single hill, a rare example that offers clues to the lives and beliefs of the time."
+    },
+    {
+      "title": "住まいか墓か",
+      "text": "吉見百穴が広く知られるようになったのは、明治時代のことです。1887年、のちに日本の人類学の基礎を築いた坪井正五郎が、ここで大がかりな発掘を行いました。坪井は、これらの穴を、アイヌの伝説に出てくる小人のような人々、コロボックルの住まいではないかと考えました。この説は大きな話題となりましたが、その後の研究が進み、現在では、古墳時代の人々のお墓であることがはっきりしています。一つの遺跡をめぐって、さまざまな考えがぶつかり合ったことも、この場所の歴史の一部なのです。",
+      "titleEn": "Dwellings or Tombs?",
+      "textEn": "Yoshimi Hyakuana became widely known in the Meiji period when, in 1887, Tsuboi Shogoro, later a founder of Japanese anthropology, carried out a large excavation here. He proposed that the holes were homes of the Korpokkur, small people from Ainu legend. The idea drew much attention, but later research established that they were tombs of the Kofun period."
+    },
+    {
+      "title": "現地で見たいところ",
+      "text": "現地では、まず斜面全体を見渡して、穴がいくつもの段になって並んでいる様子を眺めてください。いくつかの穴は近くからのぞくことができ、中に遺体を安置した台のような段差が残っているものもあります。また、穴の奥で緑色にほのかに光って見えるヒカリゴケを探してみましょう。光の当たり方によって、見え方が変わります。丘のふもとには、戦争の末期に掘られた地下工場の大きな入り口も残っており、平和の大切さを考えるきっかけにもなります。",
+      "titleEn": "What to Look For",
+      "textEn": "Take in the whole slope first and see how the holes are arranged in tiers. You can peer into some of them, where raised platforms for laying the dead remain, and look for the faint green glow of luminous moss deep inside. At the foot of the hill, the large entrances of an underground factory dug near the end of the war remain, a reminder to reflect on the value of peace.",
+      "localOnly": true
+    },
+    {
+      "title": "ひかるこけのふしぎ",
+      "text": "吉見百穴のあなの中には、ヒカリゴケという小さなこけが生えています。くらいところで、みどり色にキラキラ光って見えるのです。でも、じつはこけが自分で光っているのではありません。入ってきたわずかな光をはねかえして、光っているように見えるのです。ねこの目がくらいところで光るのと、すこしにていますね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11414302"
+}

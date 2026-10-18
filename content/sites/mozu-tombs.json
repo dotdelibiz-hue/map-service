@@ -1,0 +1,58 @@
+{
+  "id": "mozu-tombs",
+  "title": "百舌鳥古墳群",
+  "titleEn": "Mozu Kofun Group",
+  "kana": "もずこふんぐん",
+  "type": "kofun",
+  "eras": [
+    "古墳時代"
+  ],
+  "summary": "日本最大の仁徳天皇陵古墳を中心とする古墳群",
+  "description": "百舌鳥古墳群は、大阪府堺市に広がる古墳時代の古墳群です。4世紀の終わりごろから5世紀の後半にかけて築かれ、かつては100基を超える古墳がありましたが、現在は40基あまりが残っています。中心となる仁徳天皇陵古墳は大仙古墳とも呼ばれ、墳丘の長さが約486メートルと日本最大の前方後円墳です。大きさも形もさまざまな古墳が集まり、当時の王たちの力を今に伝えています。2019年には古市古墳群とともに世界遺産に登録されました。いたすけ古墳など、一部の古墳は国の史跡に指定されています。",
+  "descriptionEn": "The Mozu Kofun Group is a cluster of ancient burial mounds in Sakai, Osaka, built from the late 4th to the late 5th century. Of more than 100 mounds that once stood here, over 40 survive, including the Nintoku-tenno-ryo Kofun, also called Daisen Kofun, which at about 486 meters long is the largest keyhole-shaped tomb in Japan. The mounds of many sizes and shapes reflect the power of the rulers of the time, and in 2019 they were inscribed on the World Heritage List together with the Furuichi Kofun Group. Some mounds, such as Itasuke Kofun, are designated National Historic Sites.",
+  "kidsDescription": "もずこふんぐんは、大阪のさかいしにある、たくさんのこふんのあつまりです。こふんは、むかしのえらい人のおはかです。なかでも、にんとくてんのうりょうこふんは日本でいちばん大きなこふんで、上から見ると、かぎあなのような形をしています。",
+  "highlights": [
+    "日本最大の仁徳天皇陵古墳",
+    "森のような墳丘と水をたたえた濠",
+    "市民が守ったいたすけ古墳"
+  ],
+  "prefecture": "大阪府",
+  "city": "堺市",
+  "lat": 34.563889,
+  "lng": 135.4875,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mozu_Kofun_Group_Aerial_photograph_2007.jpg/960px-Mozu_Kofun_Group_Aerial_photograph_2007.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mozu_Kofun_Group_Aerial_photograph_2007.jpg/330px-Mozu_Kofun_Group_Aerial_photograph_2007.jpg",
+    "author": "国土地理院",
+    "license": "Attribution",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mozu_Kofun_Group_Aerial_photograph_2007.jpg"
+  },
+  "chapters": [
+    {
+      "title": "巨大古墳が築かれた時代",
+      "text": "百舌鳥古墳群は、大阪湾に近い台地の上に、4世紀の終わりごろから5世紀の後半にかけて築かれた古墳の集まりです。この時代、各地の有力者は、自らの力を示すように大きな古墳を造りました。中でも百舌鳥と、近くの古市の地域には、ひときわ巨大な古墳が集まっています。海に近い百舌鳥の古墳は、大阪湾を船で行き来する人々からもよく見えたと考えられています。古墳の表面には石が葺かれ、埴輪が並べられていました。",
+      "titleEn": "The Age of the Giant Tombs",
+      "textEn": "The Mozu Kofun Group was built on a plateau near Osaka Bay from the late 4th to the late 5th century, when powerful leaders built huge mounds to display their strength. The Mozu area and nearby Furuichi hold some of the largest of all, and the Mozu mounds near the coast are thought to have been clearly visible to people traveling by boat on Osaka Bay. Their surfaces were once covered with stones and lined with clay figures called haniwa."
+    },
+    {
+      "title": "日本最大の古墳",
+      "text": "百舌鳥古墳群の中心となる仁徳天皇陵古墳は、大仙古墳とも呼ばれ、墳丘の長さが約486メートルある日本最大の前方後円墳です。まわりは三重の濠で囲まれ、地上からは全体の形を見渡せないほどの大きさです。宮内庁によって仁徳天皇の陵として管理されており、墳丘の中に入ることはできません。このほか、日本で三番目の大きさをもつ履中天皇陵古墳などの大型古墳もあります。1950年代には、いたすけ古墳が開発で壊されそうになりましたが、市民の保存運動によって守られました。",
+      "titleEn": "Japan's Largest Tomb",
+      "textEn": "At the heart of the group is the Nintoku-tenno-ryo Kofun, also called Daisen Kofun, the largest keyhole-shaped tomb in Japan at about 486 meters long, surrounded by a triple moat and too large to take in from the ground. It is managed by the Imperial Household Agency as the tomb of Emperor Nintoku, so the mound itself cannot be entered. Other large mounds include the Richu-tenno-ryo Kofun, the third largest in Japan, and in the 1950s Itasuke Kofun was saved from development by a citizens' preservation movement."
+    },
+    {
+      "title": "古墳のそばで",
+      "text": "古墳の周りを歩いてみると、森のように見える墳丘と、水をたたえた濠が、町の中に突然あらわれることに驚くでしょう。仁徳天皇陵古墳の正面には拝所が設けられ、静かに手を合わせる人の姿も見られます。陵墓として大切に守られている場所なので、静かに見学しましょう。周りに沿って歩くと、その大きさを自分の足で実感できます。近くの大仙公園には、古墳や出土品について学べる博物館もあります。形や大きさの違う古墳を、地図を見ながら巡ってみてください。",
+      "titleEn": "Standing by the Tombs",
+      "textEn": "Walking around the mounds, you may be surprised to see forest-covered hills and water-filled moats appear suddenly among city streets. In front of the Nintoku-tenno-ryo Kofun is a worship area where people quietly pay their respects, so please visit calmly, and walking along its edge lets you feel its size for yourself. Nearby Daisen Park has a museum about the mounds and their finds, and with a map you can explore tombs of many shapes and sizes.",
+      "localOnly": true
+    },
+    {
+      "title": "かぎあなの形をさがそう",
+      "text": "にんとくてんのうりょうこふんは、上から見ると、まるとしかくをくっつけた、かぎあなのような形をしています。でも、とても大きいので、そばに立つと、こんもりした森にしか見えません。まわりをぐるりと一しゅうあるくと、1時間ほどかかるといわれます。こんなに大きなおはかを、むかしの人はどうやってつくったのでしょうか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q4250584"
+}

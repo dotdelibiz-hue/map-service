@@ -1,0 +1,60 @@
+{
+  "id": "ichijodani-asakura-ruins",
+  "title": "一乗谷朝倉氏遺跡",
+  "titleEn": "Ichijodani Asakura Family Historic Ruins",
+  "kana": "いちじょうだにあさくらしいせき",
+  "type": "ruins",
+  "eras": [
+    "室町時代",
+    "戦国時代"
+  ],
+  "summary": "戦国大名朝倉氏の城下町が眠る谷",
+  "description": "一乗谷朝倉氏遺跡は、戦国大名の朝倉氏が5代、約100年にわたって本拠とした城下町の跡です。福井市の東南、山に囲まれた細長い谷に、当主の館や武家屋敷、寺院、町家などが立ち並んでいました。1573年に織田信長に攻められて焼き払われましたが、その後は田畑の下に眠り続けたため、町の跡が驚くほど良い状態で残りました。遺跡全体が特別史跡に、4つの庭園跡が特別名勝に指定されています。現在は町並みの一部が原寸で復原され、戦国時代の城下町の暮らしを体感することができます。",
+  "descriptionEn": "Ichijodani is the site of the castle town that the Asakura, a Sengoku-period daimyo family, ruled for five generations and about a century. Lords' residences, samurai houses, temples and townhouses filled this narrow valley until Oda Nobunaga burned it in 1573. Buried under farmland for centuries, the town survived remarkably well and is now a Special Historic Site, with four gardens designated Special Places of Scenic Beauty. Part of the streetscape has been rebuilt at full scale, letting visitors experience a Sengoku town.",
+  "kidsDescription": "いちじょうだにには、450ねんほどまえ、あさくらしというおとのさまと、たくさんのひとがくらすまちがありました。たたかいでもえてしまいましたが、つちのしたにのこっていたあとがみつかり、いまはむかしのまちなみがふっかつしています。",
+  "highlights": [
+    "原寸で復原された町並",
+    "朝倉館跡と唐門",
+    "湯殿跡庭園などの庭園跡"
+  ],
+  "prefecture": "福井県",
+  "city": "福井市",
+  "lat": 35.9995,
+  "lng": 136.296,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Asakura_Yakata_of_Ichijodani_Asakura_Family_Historic_Ruins02s3s4440.jpg/960px-Asakura_Yakata_of_Ichijodani_Asakura_Family_Historic_Ruins02s3s4440.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Asakura_Yakata_of_Ichijodani_Asakura_Family_Historic_Ruins02s3s4440.jpg/330px-Asakura_Yakata_of_Ichijodani_Asakura_Family_Historic_Ruins02s3s4440.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asakura_Yakata_of_Ichijodani_Asakura_Family_Historic_Ruins02s3s4440.jpg"
+  },
+  "chapters": [
+    {
+      "title": "谷に栄えた城下町",
+      "text": "一乗谷は、福井市の東南にある、山に囲まれた南北に細長い谷です。戦国時代、越前の国を治めた朝倉氏はこの谷を本拠とし、5代、およそ100年にわたって城下町を築きました。谷の入口と出口には城戸と呼ばれる守りの施設が設けられ、その内側に当主の館や家臣の屋敷、寺院、職人や商人の町家がぎっしりと立ち並んでいました。背後の山には、いざというときに立てこもる山城も築かれていました。",
+      "titleEn": "A Castle Town in the Valley",
+      "textEn": "Ichijodani is a long, narrow valley southeast of Fukui City. The Asakura family, rulers of Echizen in the Sengoku period, built their castle town here and held it for five generations, about a hundred years. Gates guarded both ends of the valley, and inside stood the lord's residence, retainers' houses, temples and the homes of craftsmen and merchants, with a mountain castle above for emergencies."
+    },
+    {
+      "title": "北の京と呼ばれた町と落城",
+      "text": "朝倉氏の城下町には、戦乱の続く京都から多くの公家や僧、文化人が移り住み、学問や芸能が栄えました。将軍になる前の足利義昭も、一時この地に身を寄せています。しかし最後の当主となった朝倉義景は、織田信長と対立し、1573年に敗れました。一乗谷の町は火を放たれて焼け落ち、朝倉氏は滅びました。その後、町の跡は田畑となって土の下に眠り続け、昭和の時代に始まった発掘調査によって、再びその姿を現したのです。",
+      "titleEn": "A Northern Kyoto and Its Fall",
+      "textEn": "Nobles, monks and artists fleeing war-torn Kyoto settled here, and learning and the arts flourished; even Ashikaga Yoshiaki stayed for a time before becoming shogun. The last lord, Asakura Yoshikage, opposed Oda Nobunaga and was defeated in 1573, and the town was burned. Hidden under fields for centuries, it reappeared through excavations begun in the Showa era."
+    },
+    {
+      "title": "復原町並と館の跡を歩く",
+      "text": "今いる一乗谷では、まず復原町並を歩いてみてください。発掘で見つかった建物の跡をもとに、武家屋敷や町家が原寸で建て直されていて、戦国時代の町の道幅や家の大きさを体で感じることができます。川を挟んだ向かい側には、朝倉義景の館の跡があり、正面には江戸時代に建てられたと伝わる唐門が立っています。館の周りには湯殿跡庭園などの庭園跡が残り、石組みの力強さが見どころです。",
+      "titleEn": "Walking the Restored Town",
+      "textEn": "Start by strolling through the restored streetscape, where samurai houses and townhouses were rebuilt at full size on excavated foundations, letting you feel the street widths and house sizes of the Sengoku period. Across the river lies the site of Asakura Yoshikage's residence, fronted by a Chinese-style gate said to date from the Edo period. Nearby garden ruins, such as the Yudono garden, show bold stone arrangements.",
+      "localOnly": true
+    },
+    {
+      "title": "つちのしたのタイムカプセル",
+      "text": "いちじょうだにのまちは、もえてしまったあと、たんぼやはたけのしたで400ねんいじょうもねむっていました。そのおかげで、おさらやどうぐ、いえのあとがたくさんのこっていたんです。まるでタイムカプセルですね。ふっかつしたまちなみで、むかしのひとのくらしをさがしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q2968274"
+}

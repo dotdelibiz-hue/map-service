@@ -1,0 +1,60 @@
+{
+  "id": "iga-ueno-castle",
+  "title": "伊賀上野城",
+  "titleEn": "Iga Ueno Castle",
+  "kana": "いがうえのじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "日本屈指の高さを誇る高虎の高石垣",
+  "description": "伊賀上野城は、伊賀市の上野台地に築かれた城です。安土桃山時代に筒井定次が城を築き、その後、伊賀を治めることになった藤堂高虎が1611年から大きく改修しました。高虎は、大坂の豊臣方に備えて、城の西側に高さ約30メートルにおよぶ高石垣を築きました。これは日本でも有数の高さを誇ります。建設中だった天守は1612年の暴風で倒れ、その後再建されませんでした。現在の天守は1935年に地元出身の政治家、川崎克が私財を投じて建てた木造の模擬天守で、城跡は上野公園として親しまれています。",
+  "descriptionEn": "Iga Ueno Castle stands on the Ueno plateau in Iga. First built by Tsutsui Sadatsugu in the late sixteenth century, it was greatly expanded from 1611 by Todo Takatora, who raised stone walls about 30 meters high on the west side, among the tallest in Japan, to guard against the Toyotomi in Osaka. The keep under construction was toppled by a storm in 1612 and never rebuilt; the current wooden keep was built in 1935 by local politician Kawasaki Katsu at his own expense. The grounds are now Ueno Park.",
+  "kidsDescription": "いがうえのじょうには、たかさ30メートルほどもある、とてもたかいいしがきがあります。これは、にほんでもとくにたかいいしがきのひとつです。いまのてんしゅは、むかしのものではありませんが、きでつくられたりっぱなてんしゅです。",
+  "highlights": [
+    "高さ約30メートルの高石垣",
+    "木造の模擬天守",
+    "公園内の俳聖殿"
+  ],
+  "prefecture": "三重県",
+  "city": "伊賀市",
+  "lat": 34.770091,
+  "lng": 136.127194,
+  "special": false,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Igauenozyo.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Igauenozyo.jpg",
+    "author": "The original uploader was T@ka at Japanese Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igauenozyo.jpg"
+  },
+  "chapters": [
+    {
+      "title": "筒井定次から藤堂高虎へ",
+      "text": "伊賀上野城は、伊賀の国の中心にある上野台地に築かれた城です。安土桃山時代に、筒井定次がこの地に城を築いたのが始まりです。その後、関ヶ原の戦いを経て、築城の名人として知られる藤堂高虎が伊賀を治めることになりました。当時は、大坂城に豊臣家がいて、徳川家との間には緊張が続いていました。高虎は、大坂方の攻撃に備える城として、1611年から上野城を大きく造り替えたのです。",
+      "titleEn": "From Tsutsui Sadatsugu to Todo Takatora",
+      "textEn": "Iga Ueno Castle sits on the Ueno plateau at the heart of Iga Province and was first built by Tsutsui Sadatsugu in the late sixteenth century. After Sekigahara, Todo Takatora, famous as a master castle builder, took charge of Iga. With the Toyotomi still in Osaka Castle and tensions high, he rebuilt Ueno Castle from 1611 as a bulwark against an attack from Osaka."
+    },
+    {
+      "title": "幻の天守と模擬天守",
+      "text": "高虎は、城の西側に高さ約30メートルにもなる高石垣を築き、五重の天守の建設も進めていました。ところが1612年、完成間近だった天守は暴風によって倒れてしまいます。その後、大坂の陣で豊臣家が滅びて争いの心配がなくなったこともあり、天守が建て直されることはありませんでした。時代は下って1935年、地元出身の政治家、川崎克が私財を投じて、木造の天守を建てました。これが、今見ることのできる天守です。",
+      "titleEn": "The Lost Keep and Its Successor",
+      "textEn": "Takatora built stone walls about 30 meters high on the west side and began a five-tiered keep, but in 1612 a storm toppled it just before completion. With the Toyotomi destroyed in the Osaka campaigns soon after, it was never rebuilt. In 1935, local politician Kawasaki Katsu used his own fortune to build the wooden keep that stands today."
+    },
+    {
+      "title": "高石垣の上に立って",
+      "text": "今いる伊賀上野城で、ぜひ見てほしいのが本丸の西側にある高石垣です。内堀の水面から一気にそびえ立つ石垣は、高さ約30メートルにおよびます。石垣の上から堀を見下ろすと、その高さに驚くはずです。石垣の上には柵がない場所もあるので、端には近づきすぎないよう十分に気をつけてください。公園内には、伊賀に生まれた俳人、松尾芭蕉をしのぶ俳聖殿もあります。天守とあわせて、ゆっくりと巡ってみましょう。",
+      "titleEn": "Standing Atop the High Walls",
+      "textEn": "Be sure to see the high stone walls on the west side of the main enclosure, rising about 30 meters straight from the inner moat. Looking down from the top is breathtaking, but some edges have no railing, so keep a safe distance. The park also holds the Haiseiden hall honoring the haiku poet Matsuo Basho, who was born in Iga.",
+      "localOnly": true
+    },
+    {
+      "title": "たかいいしがきのひみつ",
+      "text": "いがうえのじょうのいしがきは、たかさがおよそ30メートルもあります。これは、10かいだてのビルくらいのたかさです。どうしてこんなにたかくしたのでしょう。てきがのぼってこられないように、まもりをかためるためでした。むかしのひとが、きかいもなしにつみあげたなんて、すごいですね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1333693"
+}

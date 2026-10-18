@@ -1,0 +1,58 @@
+{
+  "id": "kochi-castle",
+  "title": "高知城",
+  "titleEn": "Kochi Castle",
+  "kana": "こうちじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "天守と本丸御殿が残る土佐藩の城",
+  "description": "高知城は、関ヶ原の戦いの後に土佐の国を与えられた山内一豊が、1601年に大高坂山で築き始めた城です。江戸時代の中ごろに大火で多くの建物を失いましたが、その後再建され、天守は江戸時代から残る現存天守の一つです。天守とともに本丸御殿も残っており、本丸の建物がそろって現存する珍しい城として知られています。追手門や多くの櫓、門なども国の重要文化財に指定されています。城の入り口近くには、内助の功で知られる山内一豊の妻や、明治時代に活躍した板垣退助の像もあります。",
+  "descriptionEn": "Kochi Castle was begun in 1601 on Mt. Otakasaka by Yamauchi Kazutoyo, who was given Tosa Province after the Battle of Sekigahara. Many buildings burned in a great fire in the mid-Edo period but were rebuilt, and the keep survives as one of Japan's original castle keeps. It is rare in that its main bailey palace also survives along with the keep, and the Otemon Gate and many turrets and gates are Important Cultural Properties.",
+  "kidsDescription": "こうちじょうは、やまうちかずとよというだいみょうがつくったおしろです。てんしゅだけでなく、とのさまがつかったほんまるのごてんも、むかしのままのこっています。おしろの入り口のもんと、てんしゅがならんで見えるけしきがすてきですよ。",
+  "highlights": [
+    "追手門と天守の眺め",
+    "現存する本丸御殿",
+    "石樋と忍び返し"
+  ],
+  "prefecture": "高知県",
+  "city": "丸ノ内",
+  "lat": 33.561111,
+  "lng": 133.531389,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kouchi_kouchijou1.jpg/960px-Kouchi_kouchijou1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kouchi_kouchijou1.jpg/330px-Kouchi_kouchijou1.jpg",
+    "author": "",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kouchi_kouchijou1.jpg"
+  },
+  "chapters": [
+    {
+      "title": "山内一豊の城づくり",
+      "text": "関ヶ原の戦いの後、土佐の国の新しい領主となったのは山内一豊です。一豊は、それまで土佐を治めていた長宗我部氏にかわって土佐に入り、1601年、大高坂山で本格的な城づくりを始めました。工事には多くの人が集められ、およそ10年をかけて城が完成したといわれています。山内家は、その後明治時代まで16代にわたって土佐藩を治め、高知の町は城下町として大きく発展しました。城の周りには、武士や町人の暮らす町が計画的に整えられていきました。",
+      "titleEn": "Yamauchi Kazutoyo Builds a Castle",
+      "textEn": "After the Battle of Sekigahara, Yamauchi Kazutoyo became the new lord of Tosa, replacing the Chosokabe family. In 1601 he began building in earnest on Mt. Otakasaka, and the castle is said to have taken about ten years to complete. The Yamauchi family ruled Tosa Domain for sixteen generations until the Meiji era, and Kochi grew as their castle town."
+    },
+    {
+      "title": "大火からの再建",
+      "text": "高知城は、江戸時代の中ごろの1727年に城下で起きた大火によって、天守をはじめ多くの建物が焼けてしまいました。しかし土佐藩は城の再建に取り組み、天守もその後に建て直されました。このとき天守は、最初の姿をなるべく受け継いで建てられたと考えられています。その後、明治時代に多くの城が取り壊されるなかでも、高知城の本丸の建物はそろって残されました。天守と本丸御殿がともに残る城として、たいへん貴重な存在です。",
+      "titleEn": "Rebuilding After the Great Fire",
+      "textEn": "In 1727, in the mid-Edo period, a great fire that began in the castle town destroyed the keep and many other buildings. The domain rebuilt the castle, and the keep is thought to have been reconstructed largely following its original design. When many castles were demolished in the Meiji era, Kochi Castle's main bailey buildings all survived, making it a rare castle where both keep and palace remain."
+    },
+    {
+      "title": "追手門から天守へ",
+      "text": "城跡を訪れたら、まず追手門の前に立って見上げてください。門の向こうに天守が重なって見える景色は、高知城を代表する眺めです。石段を登っていくと、石垣から突き出した石樋が見られます。これは雨の多い土佐で、石垣に水がしみこんで崩れないようにするための工夫です。本丸では、天守と本丸御殿がつながって建つ姿を見ることができます。天守のまわりに取り付けられた、侵入を防ぐ鉄のとげ、忍び返しにも注目してください。",
+      "titleEn": "From the Otemon Gate to the Keep",
+      "textEn": "Stand before the Otemon Gate and look up: the keep rising beyond the gate is the classic view of Kochi Castle. As you climb the stone steps, look for stone drain spouts jutting from the walls, built to keep rainwater from soaking into them in rainy Tosa. In the main bailey, see the keep and palace standing connected, and look for the iron spikes called shinobi-gaeshi that guarded the keep against intruders.",
+      "localOnly": true
+    },
+    {
+      "title": "いしがきのあまどい",
+      "text": "こうちじょうのいしがきからは、ぴょこんととびだした、あまどいのような石が見られます。これはいしどいといって、あめの水をいしがきからはなれたところへおとすためのくふうです。こうちはあめがおおいところなので、いしがきがくずれないように考えたんですね。いくつ見つけられるかな。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1012815"
+}

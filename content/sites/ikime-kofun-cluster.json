@@ -1,0 +1,58 @@
+{
+  "id": "ikime-kofun-cluster",
+  "title": "生目古墳群",
+  "titleEn": "Ikime Kofun Cluster",
+  "kana": "いきめこふんぐん",
+  "type": "kofun",
+  "eras": [
+    "古墳時代"
+  ],
+  "summary": "九州最大級の前期古墳が並ぶ古墳群",
+  "description": "生目古墳群は、宮崎市の西部、大淀川の近くの丘陵に築かれた古墳群です。3世紀の終わりごろから5世紀にかけて造られたと考えられ、古墳時代の前期の古墳群としては九州で最大級の規模を誇ります。長さ143メートルの3号墳や、136メートルの1号墳などの大きな前方後円墳があり、当時この地に強い力を持った人々がいたことを物語っています。南九州に特有の地下式横穴墓も数多く見つかっています。国の史跡に指定され、古墳を復元した史跡公園として整備されているほか、案内施設の生目の杜遊古館で発掘の成果を学ぶことができます。",
+  "descriptionEn": "The Ikime Kofun Cluster lies on hills near the Oyodo River in western Miyazaki City. Built from the late 3rd to the 5th century, it is one of the largest early Kofun-period clusters in Kyushu, with large keyhole-shaped mounds such as No. 3, 143 meters long, and No. 1, 136 meters long, along with many underground chamber tombs typical of southern Kyushu. A National Historic Site, it has been developed as a park with restored mounds, and the Ikime-no-Mori Yukokan guidance center presents the excavation results.",
+  "kidsDescription": "いきめこふんぐんは、みやざき市にある、こふんがあつまったところです。こふんは、むかしのえらい人のおはかです。ここには、九州でもとくに古くて大きな、かぎあなの形のこふんがあります。上にのぼれるこふんもあり、まわりのけしきを見わたせます。",
+  "highlights": [
+    "九州有数の大きさの3号墳",
+    "葺石を復元した5号墳",
+    "生目の杜遊古館"
+  ],
+  "prefecture": "宮崎県",
+  "city": "宮崎市",
+  "lat": 31.950278,
+  "lng": 131.385556,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ikime_tumulus_3rd.jpg/960px-Ikime_tumulus_3rd.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ikime_tumulus_3rd.jpg/330px-Ikime_tumulus_3rd.jpg",
+    "author": "КОЛЯ (talk)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ikime_tumulus_3rd.jpg"
+  },
+  "chapters": [
+    {
+      "title": "九州を代表する前期の古墳",
+      "text": "生目古墳群は、大淀川の近くに広がる丘の上に築かれた古墳の集まりです。古墳づくりが始まったのは、3世紀の終わりごろから4世紀の初めごろと考えられ、5世紀にかけて次々と古墳が造られました。古墳時代の前期の古墳群としては、九州で最大級の規模です。中でも3号墳は長さが143メートルあり、この古墳群で最も大きく、九州全体でも有数の大きさを誇ります。1号墳は、近畿地方の大きな古墳とよく似た形をしているともいわれ、遠く離れた地域とのつながりを考える手がかりになっています。",
+      "titleEn": "Kyushu's Leading Early Kofun",
+      "textEn": "The Ikime Kofun Cluster was built on hills near the Oyodo River, beginning around the late 3rd or early 4th century and continuing into the 5th century. It is one of the largest early Kofun-period clusters in Kyushu, and No. 3, 143 meters long, is the largest in the group and among the largest in Kyushu. No. 1 is said to resemble great tombs of the Kinki region, offering clues to ties with distant areas."
+    },
+    {
+      "title": "地面の下の不思議な墓",
+      "text": "生目古墳群では、大きな古墳のほかに、地下式横穴墓と呼ばれる珍しいお墓も数多く見つかっています。これは、地面にたて穴を掘り、その底から横に穴を掘り進めて、遺体を納める部屋を造ったお墓です。主に宮崎県や鹿児島県など、南九州だけに見られる独特の形です。中には、古墳の盛り土の下に掘り込まれたものもあります。大きな前方後円墳が近畿地方とのつながりを示す一方で、地下式横穴墓はこの地方ならではの文化を伝えています。二つの文化が重なり合っていたことが、生目古墳群の大きな特徴です。",
+      "titleEn": "Mysterious Underground Tombs",
+      "textEn": "Many underground chamber tombs have also been found here, made by digging a vertical shaft and then tunneling sideways to create a burial room. This style is found almost only in southern Kyushu, such as Miyazaki and Kagoshima, and some were dug beneath the mounds themselves. While the great keyhole tombs show ties with the Kinki region, these underground tombs reflect local culture, and the overlap of the two is a key feature of Ikime."
+    },
+    {
+      "title": "古墳にのぼって",
+      "text": "生目古墳群の史跡公園では、古墳の形をじっくり確かめることができます。最も大きな3号墳では、前方部の上にのぼることができ、古墳の大きさを体で感じながら、周りの景色を見渡せます。5号墳では、古墳の表面をおおっていた葺石が復元されており、築かれた当時の姿を思い浮かべることができます。近くには、地下式横穴墓の様子がわかる復元もあります。まずは案内施設の生目の杜遊古館で、出土品や古墳のしくみを学んでから歩くと、それぞれの古墳の見どころがよりわかりやすくなるでしょう。",
+      "titleEn": "Climbing the Mounds",
+      "textEn": "In the historic park you can examine the shapes of the mounds up close. On No. 3, the largest, you can climb onto the front section and take in the view while feeling the tomb's size, and No. 5 has restored stone cladding that shows how the mounds looked when built, with a reconstruction of an underground tomb nearby. Visiting the Ikime-no-Mori Yukokan first to learn about the finds and tomb structure will make your walk even more rewarding.",
+      "localOnly": true
+    },
+    {
+      "title": "石でおおわれたこふん",
+      "text": "こふんは、いまは草や木におおわれていることが多いですね。でも、作られたときは、たくさんの石でおおわれていたものもありました。いきめこふんぐんの5ごうふんでは、そのすがたがふくげんされています。日の光をあびて、石がひかるこふんは、遠くからどんなふうに見えたのでしょう。そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11574825"
+}

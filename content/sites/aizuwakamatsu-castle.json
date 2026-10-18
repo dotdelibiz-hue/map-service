@@ -1,0 +1,61 @@
+{
+  "id": "aizuwakamatsu-castle",
+  "title": "鶴ヶ城（会津若松城）",
+  "titleEn": "Tsuruga Castle (Aizu-Wakamatsu Castle)",
+  "kana": "つるがじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代",
+    "明治時代"
+  ],
+  "summary": "戊辰戦争の籠城戦で知られる会津の名城",
+  "description": "若松城は、会津若松市にある城で、鶴ヶ城の名で親しまれています。14世紀に蘆名氏が館を築いたのが始まりとされ、豊臣秀吉の時代に会津に入った蒲生氏郷が大規模な城へと改め、七層の天守を建てました。江戸時代には会津藩主松平家の居城となり、幕末の戊辰戦争では約1か月にわたる籠城戦の舞台となりました。明治時代に建物は取り壊されましたが、1965年に天守が再建され、2011年には屋根を幕末と同じ赤瓦にふき替えました。城跡は国の史跡で、石垣や堀、茶室麟閣などが見どころです。",
+  "descriptionEn": "Wakamatsu Castle, popularly known as Tsuruga Castle, began as a residence of the Ashina clan in the 14th century and was transformed into a major castle with a seven-story keep by Gamo Ujisato in the late 16th century. In the Edo period it was the seat of the Matsudaira lords of Aizu, and in the Boshin War of 1868 it withstood a siege of about a month. The buildings were demolished in the Meiji era, but the keep was rebuilt in 1965 and re-roofed in 2011 with red tiles like those of the late Edo period.",
+  "kidsDescription": "つるがじょうは、福島県会津若松市にあるお城です。天守のやねが、赤い色のかわらでできているのが、めずらしいところです。むかし、たくさんの人がこのお城にたてこもって、ひと月ほどもたたかったという、かなしい歴史もあります。",
+  "highlights": [
+    "赤瓦の天守",
+    "野面積みの天守台石垣",
+    "茶室麟閣"
+  ],
+  "prefecture": "福島県",
+  "city": "会津若松市",
+  "lat": 37.487778,
+  "lng": 139.929722,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aizuwakamatsu_Castle_ac_%281%29.jpg/960px-Aizuwakamatsu_Castle_ac_%281%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aizuwakamatsu_Castle_ac_%281%29.jpg/330px-Aizuwakamatsu_Castle_ac_%281%29.jpg",
+    "author": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aizuwakamatsu_Castle_ac_(1).jpg"
+  },
+  "chapters": [
+    {
+      "title": "蒲生氏郷と鶴ヶ城",
+      "text": "若松城の始まりは、14世紀に会津の領主だった蘆名氏が築いた館だと伝えられています。その後、戦国時代の終わりに、豊臣秀吉の命で会津に入った蒲生氏郷が、城を大きく作り変え、七層の天守をそびえさせました。氏郷はこのとき、町の名を若松と改め、城を鶴ヶ城と名付けたといわれています。また、商業を盛んにして城下町の基礎を築きました。江戸時代に入ると、徳川家康の孫にあたる保科正之が藩主となり、その子孫の会津松平家が幕末まで会津を治めました。",
+      "titleEn": "Gamo Ujisato and Tsuruga Castle",
+      "textEn": "The castle traces its origins to a residence built by the Ashina clan in the 14th century. At the end of the Warring States period, Gamo Ujisato, sent to Aizu by Toyotomi Hideyoshi, rebuilt it with a seven-story keep, and he is said to have renamed the town Wakamatsu and the castle Tsuruga. In the Edo period, Hoshina Masayuki, a grandson of Tokugawa Ieyasu, became lord, and his descendants, the Aizu Matsudaira, ruled until the end of the shogunate."
+    },
+    {
+      "title": "戊辰戦争の籠城",
+      "text": "幕末、会津藩主の松平容保は、京都守護職として京の治安を守る役目を担いました。しかし、時代が明治へと移る1868年、会津は新政府軍と戦うことになります。新政府軍が城下に迫ると、藩士やその家族は城に立てこもり、約1か月にわたって戦い続けました。この戦いの中では、少年たちで組織された白虎隊の悲劇をはじめ、多くの人々の犠牲がありました。激しい砲撃を受けた天守は傷つきながらも持ちこたえましたが、会津藩はついに降伏しました。今も会津の人々は、この歴史を大切に語り継いでいます。",
+      "titleEn": "The Siege of the Boshin War",
+      "textEn": "In the final years of the shogunate, Aizu lord Matsudaira Katamori served as Protector of Kyoto, and in 1868 Aizu found itself at war with the new government. As enemy forces closed in, samurai and their families shut themselves inside the castle and held out for about a month, at great cost, including the tragedy of the young Byakkotai unit. The battered keep remained standing, but Aizu finally surrendered, and this history is still carefully passed down in Aizu."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "天守を見上げると、屋根の赤瓦が目に入ります。これは、寒さに強い瓦として幕末のころに使われていたものを再現したもので、全国でも珍しい姿です。天守の内部は博物館になっていて、最上階からは会津の城下町や、白虎隊ゆかりの飯盛山の方向を見渡せます。天守台の石垣は、自然の石をほとんど加工せずに積み上げた、野面積みと呼ばれる古い技法で造られています。本丸の一角には、千利休の養子、千少庵ゆかりと伝わる茶室麟閣が移築されています。",
+      "titleEn": "What to See on Site",
+      "textEn": "Look up at the keep's red roof tiles, a recreation of the frost-resistant tiles used in the late Edo period and rare among Japanese castles. Inside is a museum, and the top floor offers views over the castle town toward Iimoriyama, associated with the Byakkotai. The keep's base uses an old technique of piling nearly unworked natural stones, and in a corner of the main enclosure stands the Rinkaku teahouse, associated with Sen no Shoan, adopted son of the tea master Sen no Rikyu.",
+      "localOnly": true
+    },
+    {
+      "title": "赤いかわらのひみつ",
+      "text": "つるがじょうの天守のやねは、赤いかわらでできています。この赤いかわらは、さむさにつよく、雪の多い会津でもわれにくいといわれています。むかしの人は、くらしのちえで、赤いかわらをえらんだのですね。ほかのお城のやねとくらべて、色のちがいを見てみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1365061"
+}

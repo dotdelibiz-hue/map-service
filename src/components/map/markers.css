@@ -1,0 +1,132 @@
+.spot-pin {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120px;
+  /* しっぽの先端が座標の位置にくるようにずらす */
+  margin-left: -60px;
+  margin-top: calc(-1 * (var(--s) + 5px));
+  cursor: pointer;
+}
+.spot-pin__circle {
+  position: relative;
+  width: var(--s);
+  height: var(--s);
+  border-radius: 50%;
+  border: 3px solid #fff;
+  background: #e8e8ec;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.2),
+    0 4px 8px 3px rgba(0, 0, 0, 0.05);
+  transition:
+    width 0.15s,
+    height 0.15s;
+}
+/* Leaflet の CSS がマーカー内の img を width: auto にするため、詳細度を上げて上書き */
+.leaflet-container .leaflet-marker-pane .spot-pin__circle img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+/* 吹き出しのしっぽ */
+.spot-pin__circle::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -11px;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top: 6px solid #fff;
+}
+.spot-pin__title {
+  margin-top: 9px;
+  width: 120px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #1a1a1c;
+  text-shadow:
+    1px 1px 0 #f8f8fb,
+    -1px 1px 0 #f8f8fb,
+    1px -1px 0 #f8f8fb,
+    -1px -1px 0 #f8f8fb,
+    0 2px 2px rgba(0, 0, 0, 0.2),
+    0 1px 1px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+}
+.spot-pin.is-selected .spot-pin__circle {
+  border-color: #7305e2;
+}
+.spot-pin.is-selected .spot-pin__circle::after {
+  border-top-color: #7305e2;
+}
+.spot-pin.is-selected .spot-pin__title {
+  color: #7305e2;
+}
+.spot-pin__count {
+  position: absolute;
+  top: -6px;
+  left: calc(50% + var(--s) / 2 - 10px);
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: 10px;
+  background: #7305e2;
+  color: #fff;
+  font-family: Lato, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+.spot-pin__check {
+  position: absolute;
+  top: -4px;
+  left: calc(50% + var(--s) / 2 - 12px);
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #00a497;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 18px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.user-dot {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  margin: -11px 0 0 -11px;
+  border-radius: 50%;
+  background: #1a73e8;
+  border: 3px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+.user-dot::before {
+  content: '';
+  position: absolute;
+  inset: -12px;
+  border-radius: 50%;
+  background: rgba(26, 115, 232, 0.18);
+  animation: userPulse 2s ease-out infinite;
+}
+@keyframes userPulse {
+  from {
+    transform: scale(0.5);
+    opacity: 1;
+  }
+  to {
+    transform: scale(1.4);
+    opacity: 0;
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "kongobu-ji-temple",
+  "title": "高野山金剛峯寺",
+  "titleEn": "Kongobu-ji (Mount Koya)",
+  "kana": "こうやさんこんごうぶじ",
+  "type": "temple",
+  "eras": [
+    "平安時代"
+  ],
+  "summary": "空海が開いた山上の聖地、高野山真言宗の総本山",
+  "description": "金剛峯寺は、和歌山県の高野山にある高野山真言宗の総本山です。816年、空海、弘法大師が朝廷から高野山を賜り、真言密教の修行の場として開きました。標高およそ800メートルの山上の盆地には、たくさんの寺院が立ち並ぶ宗教都市が広がっています。もともと金剛峯寺は高野山全体を指す名前でもあり、現在の金剛峯寺は、豊臣秀吉が亡き母のために建てた寺が前身です。境内は国の史跡に指定され、壇上伽藍や奥之院などとともに、紀伊山地の霊場と参詣道として世界遺産に登録されています。",
+  "descriptionEn": "Kongobu-ji on Mount Koya in Wakayama Prefecture is the head temple of the Koyasan Shingon school. In 816 the monk Kukai, also known as Kobo Daishi, received the mountain from the imperial court and founded it as a center for esoteric Buddhist practice, and today a religious town of many temples fills the basin about 800 meters above sea level. The name Kongobu-ji once referred to the whole mountain, while the present head temple traces back to a temple built by Toyotomi Hideyoshi in memory of his mother. Together with sites such as the Danjo Garan and Okunoin, it is part of the Sacred Sites and Pilgrimage Routes in the Kii Mountain Range World Heritage Site.",
+  "kidsDescription": "こんごうぶじは、わかやまけんのこうやさんという山の上にあるお寺です。いまから1200年ほどまえに、くうかい、こうぼうだいしとよばれるおぼうさんがひらきました。山の上には、たくさんのお寺があつまって、まちのようになっています。",
+  "highlights": [
+    "朱色の根本大塔と壇上伽藍",
+    "杉木立が続く奥之院の参道",
+    "金剛峯寺の石庭、蟠龍庭"
+  ],
+  "prefecture": "和歌山県",
+  "city": "高野町",
+  "lat": 34.214081,
+  "lng": 135.584092,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kongobuji_Koyasan01n4272.jpg/960px-Kongobuji_Koyasan01n4272.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kongobuji_Koyasan01n4272.jpg/330px-Kongobuji_Koyasan01n4272.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kongobuji_Koyasan01n4272.jpg"
+  },
+  "chapters": [
+    {
+      "title": "空海と高野山",
+      "text": "空海は、平安時代の初めに中国の唐に渡り、密教という教えを学んで帰国した僧です。修行にふさわしい静かな場所を求めた空海は、816年、嵯峨天皇から高野山を賜りました。高野山は、周りを山々に囲まれた山の上の平らな土地で、その姿は蓮の花にたとえられてきました。空海はここに、教えの中心となる壇上伽藍の建設を始めます。空海は835年に高野山で生涯を終えましたが、今も奥之院で瞑想を続けていると信じられています。",
+      "titleEn": "Kukai and Mount Koya",
+      "textEn": "Kukai was a monk who traveled to Tang China in the early Heian period and returned with the teachings of esoteric Buddhism. Seeking a quiet place for practice, he received Mount Koya from Emperor Saga in 816, a flat basin ringed by peaks that has long been likened to a lotus flower, and began building the Danjo Garan as the center of his teachings. Kukai passed away on the mountain in 835, but he is believed to remain in eternal meditation at Okunoin."
+    },
+    {
+      "title": "祈りの山の歴史",
+      "text": "空海が開いた高野山には、時代とともに多くの人々が祈りを捧げに訪れるようになりました。平安時代の貴族から戦国時代の武将、そして庶民まで、身分を問わず多くの人々が信仰を寄せました。奥之院の参道には、戦国大名をはじめ、さまざまな人々の墓や供養塔が数多く立ち並んでいます。現在の金剛峯寺は、豊臣秀吉が母の菩提を弔うために建てた寺がもとになっていて、明治時代に今の名前を受け継ぎました。また、高野山は長く女性が入ることを禁じていましたが、明治時代にその決まりは解かれました。",
+      "titleEn": "A Mountain of Prayer",
+      "textEn": "Over the centuries people of every rank, from Heian aristocrats and Warring States warlords to ordinary people, came to Mount Koya to pray, and the path to Okunoin is lined with countless graves and memorials, including those of many feudal lords. The present Kongobu-ji grew from a temple Toyotomi Hideyoshi built to pray for his late mother and took on its current name in the Meiji era. Women were long barred from the mountain, but that rule was lifted in the Meiji era."
+    },
+    {
+      "title": "山上の聖地を歩く",
+      "text": "金剛峯寺の主殿では、ふすま絵で飾られた部屋や、大きなかまどのある台所などを見ることができます。白い砂の中に石を配し、雲の海の中を舞う龍の姿を表した石庭、蟠龍庭も見どころです。そこから少し歩くと、壇上伽藍に、朱色にそびえる根本大塔があります。そして、ぜひ足をのばしたいのが奥之院です。杉の巨木が立ち並ぶ参道を、弘法大師御廟に向かって進むと、静かで厳かな空気に包まれます。御廟の周りは特に神聖な場所なので、心を静めてお参りしましょう。",
+      "titleEn": "Walking the Sacred Mountain",
+      "textEn": "In Kongobu-ji's main hall you can see rooms decorated with painted sliding doors and a kitchen with huge cooking stoves, as well as the Banryutei rock garden, where stones set in white sand depict dragons in a sea of clouds. A short walk away, the vermilion Konpon Daito pagoda rises in the Danjo Garan. Be sure to visit Okunoin, where a path lined with giant cedars leads to Kobo Daishi's mausoleum, an especially sacred place to visit quietly and respectfully.",
+      "localOnly": true
+    },
+    {
+      "title": "いまもとどくごはん",
+      "text": "こうやさんのおくのいんでは、こうぼうだいしが、いまもめいそうをつづけているとしんじられています。そのため、まいにちごはんをとどけるぎしきが、ずっとむかしからつづけられています。おぼうさんたちが、たいせつにまもってきたならわしです。みんなのいえにも、ずっとつづいているならわしはありますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1203429"
+}

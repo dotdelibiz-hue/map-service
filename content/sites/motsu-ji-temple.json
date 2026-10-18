@@ -1,0 +1,59 @@
+{
+  "id": "motsu-ji-temple",
+  "title": "毛越寺",
+  "titleEn": "Motsu-ji",
+  "kana": "もうつうじ",
+  "type": "temple",
+  "eras": [
+    "平安時代"
+  ],
+  "summary": "平安の浄土庭園が今に残る寺",
+  "description": "毛越寺は、平安時代の850年に円仁が開いたと伝えられ、奥州藤原氏の二代基衡と三代秀衡によって大きく整えられた寺院です。最盛期には中尊寺をしのぐほどの規模を誇ったともいわれますが、たび重なる火災で建物は失われました。それでも、大泉が池を中心とする浄土庭園と、主要な建物の礎石が良好に残り、境内は特別史跡と特別名勝の二つに指定されています。平泉の文化遺産の一つとして世界文化遺産にも登録され、平安時代の庭園の姿を今に伝える貴重な場所です。",
+  "descriptionEn": "Motsu-ji is said to have been founded in 850 by the monk Ennin and was greatly expanded by Motohira and Hidehira, the second and third lords of the Northern Fujiwara clan. Although its halls were lost to repeated fires, the Pure Land garden centered on Oizumi-ga-ike Pond and the foundation stones of its main buildings survive in good condition, earning the precincts double designation as a Special Historic Site and a Special Place of Scenic Beauty. Part of the Hiraizumi World Heritage property, it preserves the rare appearance of a Heian-period garden.",
+  "kidsDescription": "もうつうじは、岩手県のひらいずみにあるお寺です。大きな池のある、とても古いにわがのこっています。むかしの人は、この池のまわりに、ほとけさまの住む世界をあらわそうとしました。池のまわりをぐるりとさんぽできます。",
+  "highlights": [
+    "大泉が池と浄土庭園",
+    "平安時代の遣水",
+    "金堂円隆寺跡の礎石"
+  ],
+  "prefecture": "岩手県",
+  "city": "平泉町",
+  "lat": 38.987817,
+  "lng": 141.108022,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/230728_Motsuji_Hiraizumi_Iwate_pref_Japan13s3.jpg/960px-230728_Motsuji_Hiraizumi_Iwate_pref_Japan13s3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/230728_Motsuji_Hiraizumi_Iwate_pref_Japan13s3.jpg/330px-230728_Motsuji_Hiraizumi_Iwate_pref_Japan13s3.jpg",
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230728_Motsuji_Hiraizumi_Iwate_pref_Japan13s3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "浄土をこの世に",
+      "text": "毛越寺は、850年に慈覚大師円仁が開いたと伝えられる寺院です。平安時代の終わり、奥州藤原氏の二代基衡が本格的な造営を始め、三代秀衡の時代に完成しました。中心となった金堂円隆寺をはじめ、多くのお堂が建ち並び、その前に大きな池が広がっていました。これは、阿弥陀仏が住むという極楽浄土の姿を、この世に表そうとした浄土庭園です。しかし、藤原氏が滅びた後、鎌倉時代から戦国時代にかけての火災によって、建物は次々と失われていきました。",
+      "titleEn": "Bringing the Pure Land to Earth",
+      "textEn": "Said to have been founded by Ennin in 850, Motsu-ji was rebuilt on a grand scale by the second Fujiwara lord, Motohira, and completed under the third, Hidehira. Many halls, led by the main hall Enryu-ji, stood before a great pond, forming a garden meant to recreate Amida Buddha's Pure Land on earth. After the Fujiwara fell, fires from the Kamakura to the Warring States period destroyed the buildings one after another."
+    },
+    {
+      "title": "遣水と曲水の宴",
+      "text": "毛越寺の庭園で特に貴重なのが、遣水と呼ばれる水の流れです。池へ水を引き入れる小さな流れで、底には玉石が敷かれ、曲がり角や注ぎ口には石が巧みに配置されています。平安時代の遣水の遺構として、発掘調査によって見つかったたいへん珍しいものです。毎年五月には、この遣水のほとりで曲水の宴が行われます。平安時代の装束を身につけた人々が、流れてくる杯が自分の前を通り過ぎるまでに和歌を詠むという、優雅な遊びを再現したものです。",
+      "titleEn": "The Garden Stream and the Poetry Banquet",
+      "textEn": "A highlight of the garden is the yarimizu, a winding stream that feeds the pond, lined with pebbles and with stones carefully set at its bends and mouth. Found through excavation, it is an extremely rare surviving example from the Heian period. Every May, people in Heian court dress gather beside it for a poetry banquet, composing verses before a floating cup drifts past."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "境内に入ったら、大泉が池のまわりをゆっくり一周してみてください。池には、荒々しい海岸を表したとされる出島の石組みや、池の中に立つ石があり、穏やかな砂浜を表した州浜とともに、変化に富んだ景色を作り出しています。池の北側には、かつての金堂円隆寺や講堂の礎石が並び、お堂の大きさを想像することができます。池に注ぎ込む遣水の流れも、ぜひ探してみてください。季節によっては、花菖蒲や紅葉が庭園を彩ります。",
+      "titleEn": "What to See on Site",
+      "textEn": "Take a slow walk around Oizumi-ga-ike Pond, where a rocky promontory said to represent a rugged coast and a standing stone in the water contrast with a gentle pebble beach. North of the pond, the foundation stones of the main hall and lecture hall let you imagine the size of the vanished buildings. Look for the Heian-period stream flowing into the pond, and enjoy irises or autumn leaves depending on the season.",
+      "localOnly": true
+    },
+    {
+      "title": "ながれる杯であそぼう",
+      "text": "もうつうじでは、毎年、平安時代のあそびをまねた行事がひらかれます。小さな川に、お酒の入った杯をうかべてながし、それが自分のまえを通りすぎるまでに、うたをつくるのです。いそいで考えないといけないので、ちょっとどきどきしますね。きみなら、どんなうたをつくりますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q975227"
+}

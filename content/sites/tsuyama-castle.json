@@ -1,0 +1,59 @@
+{
+  "id": "tsuyama-castle",
+  "title": "津山城跡（鶴山公園）",
+  "titleEn": "Tsuyama Castle Ruins (Kakuzan Park)",
+  "kana": "つやまじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "幾重にも重なる石垣が見事な城跡",
+  "description": "津山城は、江戸時代のはじめに森忠政が築いた城で、1604年から13年ほどをかけて完成したといわれています。鶴山と呼ばれる丘の上に、いくつもの段を重ねるように高い石垣が積まれ、その規模の大きさで知られます。かつては天守と多くの櫓が立ち並んでいましたが、建物は明治時代に取り壊されました。現在は鶴山公園として整備され、石垣のほか、2005年に復元された備中櫓を見ることができます。春には桜の名所としても多くの人が訪れます。",
+  "descriptionEn": "Tsuyama Castle was built by Mori Tadamasa at the start of the Edo period, taking about thirteen years from 1604. It is famous for its massive stone walls stacked in tier upon tier on Kakuzan Hill, which once carried a keep and many turrets before the buildings were demolished in the Meiji era. Today the site is Kakuzan Park, where you can see the stone walls and the Bitchu Turret rebuilt in 2005, and it is a celebrated cherry blossom spot in spring.",
+  "kidsDescription": "つやまじょうは、おかの上につくられたおしろのあとです。たかいいしがきが、かいだんのように、なんだんもかさなっているのがじまんです。はるには、たくさんのさくらがさいて、おしろのあとがピンクいろにそまります。",
+  "highlights": [
+    "段々に重なる石垣",
+    "復元された備中櫓",
+    "春の桜と城跡"
+  ],
+  "prefecture": "岡山県",
+  "city": "津山市",
+  "lat": 35.062769,
+  "lng": 134.004953,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E5%82%99%E4%B8%AD%E6%AB%93%E3%81%A8%E6%A1%9C.jpg/960px-%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E5%82%99%E4%B8%AD%E6%AB%93%E3%81%A8%E6%A1%9C.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E5%82%99%E4%B8%AD%E6%AB%93%E3%81%A8%E6%A1%9C.jpg/330px-%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E5%82%99%E4%B8%AD%E6%AB%93%E3%81%A8%E6%A1%9C.jpg",
+    "author": "denteru",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E5%82%99%E4%B8%AD%E6%AB%93%E3%81%A8%E6%A1%9C.jpg"
+  },
+  "chapters": [
+    {
+      "title": "森忠政の城づくり",
+      "text": "津山城を築いたのは、織田信長に仕えた森蘭丸の弟として知られる森忠政です。関ヶ原の戦いの後、美作の国を与えられた忠政は、1604年から鶴山で城づくりを始め、13年ほどかけて完成させたといわれています。完成した城には天守がそびえ、たくさんの櫓が並ぶ堂々とした姿でした。森氏の後は松平氏が藩主となり、明治時代まで津山を治めました。城とともに整えられた城下町は、出雲街道沿いの町として栄えました。",
+      "titleEn": "Mori Tadamasa Builds a Castle",
+      "textEn": "Tsuyama Castle was built by Mori Tadamasa, known as the younger brother of Oda Nobunaga's page Mori Ranmaru. Given Mimasaka Province after Sekigahara, he began work on Kakuzan Hill in 1604 and is said to have taken about thirteen years to finish. After the Mori family, the Matsudaira ruled Tsuyama until the Meiji era, and the castle town prospered along the Izumo Highway."
+    },
+    {
+      "title": "石垣の名城",
+      "text": "津山城の最大の見どころは、何といっても石垣です。丘の斜面を何段にも分けて高い石垣を積み上げ、上へ上へと重ねていくつくりになっています。下から見上げると、石垣が階段のように重なり、まるで城全体が石の山のように見えます。明治時代に天守や櫓は取り壊されましたが、石垣はほぼそのまま残りました。そのため、建物がなくても、かつての城の大きさと守りの固さを実感することができます。",
+      "titleEn": "A Castle of Stone Walls",
+      "textEn": "The highlight of Tsuyama Castle is its stone walls, built in many tiers up the slopes of the hill. Seen from below, the walls rise like giant steps, making the whole castle look like a mountain of stone. Although the keep and turrets were torn down in the Meiji era, the walls survived almost intact, so you can still sense the castle's scale and strength."
+    },
+    {
+      "title": "城跡を歩いて",
+      "text": "城跡を歩くときは、石垣の重なりを見上げながら本丸を目指してください。途中で、2005年に復元された備中櫓に立ち寄ると、櫓が石垣の上にどのように建っていたのかが分かります。櫓の中には畳敷きの部屋もあり、城の建物の意外な一面にふれられます。本丸の天守台の上に立つと、津山の町並みと周りの山々を見渡すことができます。春には桜が石垣を彩り、秋には木々の色づきが楽しめます。季節ごとに表情を変える城跡を、ゆっくり味わってください。",
+      "titleEn": "Walking the Castle Grounds",
+      "textEn": "Walk up toward the main bailey while looking up at the tiers of stone walls. Stop at the Bitchu Turret, rebuilt in 2005, to see how a turret once stood on the walls; inside are even tatami-floored rooms. From the keep's stone base you can look out over Tsuyama and the surrounding mountains, with cherry blossoms in spring and colored leaves in autumn.",
+      "localOnly": true
+    },
+    {
+      "title": "いしがきのかいだん",
+      "text": "つやまじょうのいしがきは、おかの下から上まで、なんだんにもかさなっています。下から見あげると、大きなかいだんみたいですね。むかしは、そのいちばん上に、てんしゅがたっていました。いしがきがいったいなんだんあるか、あるきながらかぞえてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q767818"
+}

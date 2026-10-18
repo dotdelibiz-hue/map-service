@@ -1,0 +1,59 @@
+{
+  "id": "chuson-ji-temple",
+  "title": "中尊寺",
+  "titleEn": "Chuson-ji",
+  "kana": "ちゅうそんじ",
+  "type": "temple",
+  "eras": [
+    "平安時代"
+  ],
+  "summary": "金色堂が輝く奥州藤原氏の祈りの寺",
+  "description": "中尊寺は、岩手県平泉町にある天台宗の寺院で、平安時代の終わりに奥州藤原氏の初代、藤原清衡が大規模な堂塔を建てたことで知られています。境内は国の特別史跡に指定され、平泉の文化遺産の一つとして世界文化遺産にも登録されています。1124年に建てられた金色堂は、内外を金箔で覆い、螺鈿などの細工で飾った阿弥陀堂で、国宝に指定されています。須弥壇の中には藤原氏四代の遺体や遺骨が納められています。杉並木の続く月見坂を上り、多くのお堂を巡ることができます。",
+  "descriptionEn": "Chuson-ji is a Tendai temple in Hiraizumi, Iwate, greatly expanded in the early 12th century by Fujiwara no Kiyohira, first lord of the Northern Fujiwara clan. Its precincts are a Special Historic Site and part of the Hiraizumi World Heritage property. The Konjikido, or Golden Hall, built in 1124 and covered inside and out with gold leaf and mother-of-pearl inlay, is a National Treasure that holds the remains of four generations of the Fujiwara. Visitors climb the cedar-lined Tsukimizaka slope to explore its many halls.",
+  "kidsDescription": "ちゅうそんじは、岩手県のひらいずみにある、ふるいお寺です。なかでも金色堂は、たてもののなかも外も金ぴかにかがやいています。いまから900年くらい前に、奥州藤原氏という一族が、へいわな世の中をねがってたてました。",
+  "highlights": [
+    "国宝の金色堂",
+    "杉並木の月見坂",
+    "寺宝を伝える讃衡蔵"
+  ],
+  "prefecture": "岩手県",
+  "city": "平泉町",
+  "lat": 39.001389,
+  "lng": 141.099722,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg/960px-230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg/330px-230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg",
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "戦のない国を願って",
+      "text": "中尊寺は、平安時代の850年に慈覚大師円仁が開いたと伝えられています。この寺を大きく発展させたのが、奥州藤原氏の初代、藤原清衡です。清衡は若いころ、前九年合戦や後三年合戦という激しい戦乱の中で、家族を失うつらい経験をしました。そのため、平泉に仏の教えによる平和な国を築こうと考え、12世紀の初めから多くのお堂や塔を建てました。完成を祝う儀式で読まれた文章には、戦で亡くなった敵味方の人々や、鳥や獣の魂までも慰めたいという願いが記されています。",
+      "titleEn": "Praying for a Land Without War",
+      "textEn": "Chuson-ji is said to have been founded in 850 by the monk Ennin, but it was Fujiwara no Kiyohira who made it great. Having lost family members in the fierce wars of his youth, he sought to build a peaceful Buddhist realm in Hiraizumi and raised many halls and pagodas from the early 12th century. The dedication text for the temple expresses his wish to console the spirits of all who died in war, friend and foe alike, and even those of birds and beasts."
+    },
+    {
+      "title": "金色堂と藤原氏四代",
+      "text": "1124年に完成した金色堂は、清衡が建てた阿弥陀堂です。お堂の内も外も金箔で覆われ、柱や須弥壇には、南の海で採れる夜光貝を使った螺鈿や、象牙などの細工がちりばめられています。須弥壇の中には、清衡、基衡、秀衡の遺体と、四代泰衡の首が納められています。1189年、源頼朝に攻められて藤原氏は滅びますが、金色堂は後の時代の人々に大切に守られてきました。1689年にこの地を訪れた松尾芭蕉は、五月雨の、降り残してや光堂、という句を残しています。",
+      "titleEn": "The Golden Hall and Four Generations",
+      "textEn": "Completed in 1124, the Golden Hall is covered in gold leaf inside and out, and its pillars and altar are inlaid with mother-of-pearl from southern seas and ivory. Beneath the altar rest the remains of Kiyohira, Motohira and Hidehira, and the head of the fourth lord, Yasuhira. The Fujiwara fell to Minamoto no Yoritomo in 1189, but later generations carefully protected the hall, and the poet Basho praised it in a haiku when he visited in 1689."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "中尊寺の参道、月見坂は、長い年月を経た杉の大木が並ぶ上り坂です。途中には、平泉の里や遠くの山並みを見渡せる場所もあります。坂を上ると本堂があり、さらに奥へ進むと、金色堂を風雨から守る覆堂が見えてきます。金色堂は現在、ガラス越しに拝観する形で、間近にその輝きを見ることができます。近くには、かつて金色堂を覆っていた旧覆堂や経蔵も残っています。また、宝物館の讃衡蔵では、藤原氏ゆかりの仏像や経典などの寺宝を見ることができます。",
+      "titleEn": "What to See on Site",
+      "textEn": "The approach, Tsukimizaka, climbs between towering old cedars and offers views over Hiraizumi along the way. Beyond the main hall stands the protective building that houses the Golden Hall, which you can view up close behind glass. Nearby are the old protective hall and the sutra repository, and the Sankozo treasure museum displays Buddhist statues and sutras associated with the Fujiwara.",
+      "localOnly": true
+    },
+    {
+      "title": "金色にかがやくおどう",
+      "text": "ちゅうそんじの金色堂は、かべも柱も、金ぱくでおおわれています。さらに、南の海でとれる貝がらをけずって、きらきらのもようもつけました。いまから900年ほど前に、こんなにきれいなおどうをつくったなんて、おどろきですね。どうしてこんなに金をつかえたのでしょう。じつは、むかしの東北では、金がたくさんとれたのです。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q2660144"
+}

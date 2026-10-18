@@ -1,0 +1,60 @@
+{
+  "id": "mino-kokubun-ji-temple",
+  "title": "美濃国分寺跡",
+  "titleEn": "Mino Kokubun-ji Temple Ruins",
+  "kana": "みのこくぶんじあと",
+  "type": "ruins",
+  "eras": [
+    "奈良時代",
+    "平安時代"
+  ],
+  "summary": "奈良時代の大伽藍をしのぶ歴史公園",
+  "description": "美濃国分寺跡は、奈良時代に聖武天皇の命によって全国に建てられた国分寺のうち、美濃国に置かれた寺院の跡です。大垣市の青野地区にあり、発掘調査によって南大門や中門、金堂、講堂、七重塔、回廊などの位置が明らかになりました。寺域は東西およそ230メートル、南北およそ200メートルと広く、東に塔、西に金堂が並ぶ配置だったことがわかっています。現在は歴史公園として整備され、建物の基壇や礎石を見ることができるほか、隣接する大垣市歴史民俗資料館では出土品が展示されています。",
+  "descriptionEn": "The Mino Kokubun-ji ruins in Ogaki are the remains of the provincial temple built in Mino under Emperor Shomu's Nara-period decree to establish temples in every province. Excavations revealed the positions of the south gate, middle gate, main hall, lecture hall, seven-story pagoda and corridors, within a precinct about 230 by 200 meters, with the pagoda to the east and the main hall to the west. Today the site is a history park showing platforms and foundation stones, and the adjacent Ogaki history museum displays the finds.",
+  "kidsDescription": "みののこくぶんじあとは、いまから1200ねんいじょうまえ、てんのうのめいれいでつくられた、おおきなおてらのあとです。ななじゅうのとうや、おおきなおどうがありました。いまはこうえんになっていて、たてもののあとやいしずえをみることができます。",
+  "highlights": [
+    "七重塔跡の礎石",
+    "金堂や講堂の基壇",
+    "大垣市歴史民俗資料館"
+  ],
+  "prefecture": "岐阜県",
+  "city": "大垣市",
+  "lat": 35.38695,
+  "lng": 136.551847,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mino-Kokubunji01.JPG/960px-Mino-Kokubunji01.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mino-Kokubunji01.JPG/330px-Mino-Kokubunji01.JPG",
+    "author": "Monami",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mino-Kokubunji01.JPG"
+  },
+  "chapters": [
+    {
+      "title": "国ごとに建てられた寺",
+      "text": "奈良時代の741年、聖武天皇は、仏教の力で国を守り平和を願うため、全国の国ごとに国分寺と国分尼寺を建てるよう命じました。美濃国分寺も、この命令によって建てられた寺の一つです。寺は、美濃の国の政治の中心である国府に近い、交通の便の良い場所に置かれました。広い寺の敷地には、本尊をまつる金堂や、僧が学ぶ講堂、高くそびえる七重塔などが並び、地方の人々に都の文化を伝える役割も果たしていました。",
+      "titleEn": "Temples for Every Province",
+      "textEn": "In 741, Emperor Shomu ordered a provincial temple and nunnery to be built in every province to protect the nation through Buddhism, and Mino Kokubun-ji was one of them. It was placed in a convenient location near the provincial government of Mino. Its grounds held a main hall, a lecture hall and a towering seven-story pagoda, bringing the culture of the capital to the provinces."
+    },
+    {
+      "title": "発掘でわかった伽藍の姿",
+      "text": "美濃国分寺の建物は、長い年月の間に失われてしまいましたが、昭和の時代に行われた発掘調査によって、その姿が明らかになりました。寺の敷地は東西およそ230メートル、南北およそ200メートルあり、南大門、中門、金堂、講堂が並び、回廊が建物をつないでいたことがわかりました。七重塔は東側に、金堂は西側に置かれていました。出土した瓦や土器からは、奈良時代から平安時代にかけての寺の歩みをたどることができます。",
+      "titleEn": "What Excavations Revealed",
+      "textEn": "Although the buildings were lost over the centuries, excavations in the Showa era revealed the temple's layout. The precinct measured about 230 meters east to west and 200 meters north to south, with gates, a main hall and a lecture hall linked by corridors, the pagoda on the east and the main hall on the west. Roof tiles and pottery trace the temple's history from the Nara into the Heian period."
+    },
+    {
+      "title": "史跡公園を歩く",
+      "text": "今いる美濃国分寺跡の歴史公園では、建物があった場所に基壇が整備され、礎石も見ることができます。まず七重塔の跡に立ち、礎石の並びから塔の大きさを想像してみてください。高さは数十メートルあったと考えられ、遠くからもよく見えたことでしょう。続いて金堂と講堂の跡を歩き、寺の広さを体で感じてみましょう。隣にある大垣市歴史民俗資料館では、ここで見つかった瓦などの出土品が展示されています。",
+      "titleEn": "Walking the History Park",
+      "textEn": "In the history park, building platforms have been laid out where the halls once stood, and foundation stones remain visible. Stand at the pagoda site and imagine a tower several dozen meters tall, visible from far away, then walk to the main and lecture halls to feel the temple's scale. The neighboring Ogaki City History and Folklore Museum displays tiles and other finds.",
+      "localOnly": true
+    },
+    {
+      "title": "ななじゅうのとうはどのくらい",
+      "text": "みののこくぶんじには、ななじゅうのとうがたっていました。たかさは、いまのビルのなんかいぶんくらいだったとおもいますか。とうのあとにのこるいしずえのまえにたって、そらをみあげてそうぞうしてみましょう。むかしのひとは、きかいもないのに、どうやってたてたのでしょうね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11609224"
+}

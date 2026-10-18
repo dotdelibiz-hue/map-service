@@ -1,0 +1,59 @@
+{
+  "id": "umataka-sanjuinaba-site",
+  "title": "馬高・三十稲場遺跡",
+  "titleEn": "Umataka and Sanjuinaba Sites",
+  "kana": "うまたか・さんじゅういなばいせき",
+  "type": "ruins",
+  "eras": [
+    "縄文時代"
+  ],
+  "summary": "火焔土器が初めて見つかった縄文のむら",
+  "description": "馬高・三十稲場遺跡は、新潟県長岡市にある縄文時代の集落跡で、すぐ近くに並ぶ二つの遺跡からなります。馬高遺跡は縄文時代中期、三十稲場遺跡は縄文時代後期を中心とするむらの跡で、時代とともにむらが移り変わった様子がわかります。馬高遺跡は、燃え上がる炎のような装飾をもつ火焔土器が初めて見つかった場所として知られ、火焔土器という呼び名も、ここで出土した土器から生まれました。遺跡は史跡公園として整備され、隣接する馬高縄文館では、出土した土器などを見学することができます。",
+  "descriptionEn": "The Umataka and Sanjuinaba Sites in Nagaoka are two neighboring Jomon-period villages, Umataka mainly from the Middle Jomon and Sanjuinaba from the Late Jomon, showing how settlements shifted over time. Umataka is famous as the place where flame-style pottery, decorated as if with rising flames, was first discovered, and the name kaen doki, or flame pottery, came from a vessel found here. The sites are now a historical park, and the adjacent Umataka Jomon Museum displays pottery and other finds.",
+  "kidsDescription": "馬高・三十稲場遺跡は、縄文じだいの人たちがくらしていたむらのあとです。ここでは、もえあがるほのおのような、ふしぎな形の土器が、はじめて見つかりました。この土器は、かえんどきとよばれています。ちかくのはくぶつかんで見ることができます。",
+  "highlights": [
+    "火焔土器が見つかった馬高遺跡",
+    "縄文のむらの跡が広がる史跡公園",
+    "出土品を展示する馬高縄文館"
+  ],
+  "prefecture": "新潟県",
+  "city": "長岡市",
+  "lat": 37.447167,
+  "lng": 138.767972,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Umataka_Jomon_Museum.jpg/960px-Umataka_Jomon_Museum.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Umataka_Jomon_Museum.jpg/330px-Umataka_Jomon_Museum.jpg",
+    "author": "photo: Qurren (talk) Taken with Canon IXY 430F (Digital IXUS 245 HS)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umataka_Jomon_Museum.jpg"
+  },
+  "chapters": [
+    {
+      "title": "二つの縄文のむら",
+      "text": "この遺跡は、長岡市の関原にある台地の上に残る、二つの縄文時代のむらの跡です。うまたか遺跡は、今からおよそ5000年前の縄文時代中期に栄えたむらで、さんじゅういなば遺跡は、それより後の縄文時代後期のむらです。二つの遺跡はすぐ近くに並んでおり、人々が長い時間をかけて、少しずつ住む場所を移しながら暮らしていた様子を伝えています。発掘調査では、住まいの跡や、たくさんの土器、石器などが見つかっています。",
+      "titleEn": "Two Jomon Villages",
+      "textEn": "These are the remains of two Jomon villages on a plateau in the Sekihara area of Nagaoka. Umataka flourished in the Middle Jomon period about 5000 years ago, and Sanjuinaba is a later village from the Late Jomon period. Lying close together, they show how people lived here over a long time, gradually shifting where they settled, and excavations have uncovered dwelling remains and many pottery vessels and stone tools."
+    },
+    {
+      "title": "火焔土器の発見",
+      "text": "うまたか遺跡を有名にしたのは、1936年に見つかった一つの土器です。地元で考古学の研究を続けていた人が掘り出したその土器は、口の部分に、燃え上がる炎のような大きな飾りが付いた、それまでにない形をしていました。その姿から火焔土器と呼ばれるようになり、のちに同じような特徴をもつ土器は、火焔型土器と呼ばれるようになりました。火焔型土器は信濃川の流域を中心に見つかっており、縄文時代の人々の豊かな造形の力を今に伝えています。",
+      "titleEn": "Discovery of Flame Pottery",
+      "textEn": "Umataka became famous for a vessel found in 1936 by a local researcher, with large decorations around its rim that look like rising flames, unlike anything seen before. It came to be called kaen doki, or flame pottery, and similar vessels found later were named flame-style pottery. Such pottery has been found mainly in the Shinano River basin and shows the remarkable creativity of Jomon people."
+    },
+    {
+      "title": "史跡公園で見たいもの",
+      "text": "史跡公園を歩くときは、ここに縄文のむらがあったことを想像しながら、台地の広がりを感じてみてください。むらには住まいが立ち並び、人々は周りの森や川の恵みを受けて暮らしていたと考えられています。公園のそばにある馬高縄文館では、この遺跡から出土した火焔土器をはじめ、たくさんの土器や石器が展示されています。土器の飾りを間近で見ながら、縄文の人々がどのような思いを込めてこれを作ったのか、考えてみましょう。",
+      "titleEn": "In the Historical Park",
+      "textEn": "As you walk the park, imagine the Jomon village that once stood on this plateau, with dwellings where people lived on the bounty of the surrounding forests and rivers. At the adjacent Umataka Jomon Museum, pottery and stone tools from the site, including flame-style vessels, are on display. Look closely at the decorations and think about what the Jomon people may have wished to express.",
+      "localOnly": true
+    },
+    {
+      "title": "ほのおのような土器",
+      "text": "かえんどきは、ふちのところに、もえあがるほのおのようなかざりがついた土器です。でも、むかしの人がほんとうにほのおをかたどったのかは、だれにもわかっていません。ほのおという名前は、あとの時代の人がつけたものなのです。あなたには、なにに見えますか。じぶんだけのなまえをつけてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11668122"
+}

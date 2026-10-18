@@ -1,0 +1,59 @@
+{
+  "id": "kunozan-tosho-gu",
+  "title": "久能山東照宮",
+  "titleEn": "Kunozan Toshogu Shrine",
+  "kana": "くのうざんとうしょうぐう",
+  "type": "shrine",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "徳川家康が最初に葬られた東照宮",
+  "description": "久能山東照宮は、徳川家康をまつる神社です。家康は1616年に駿府で亡くなり、遺言によってこの久能山に葬られました。翌年、2代将軍の徳川秀忠の命によって社殿が造営され、全国に数多く建てられた東照宮の始まりとなりました。色鮮やかな彫刻や彩色で飾られた本殿、石の間、拝殿は、権現造と呼ばれる形式の古い例として2010年に国宝に指定されています。海辺から続く1159段の石段を登ると、駿河湾を見下ろす境内に至ります。久能山は国の史跡にも指定されています。",
+  "descriptionEn": "Kunozan Toshogu enshrines Tokugawa Ieyasu, who died at Sunpu in 1616 and, by his own wish, was buried on Mount Kuno. The next year the second shogun, Hidetada, had the shrine built, making it the first of the many Toshogu shrines across Japan. Its richly carved and painted main hall, connecting hall and worship hall, an early example of the gongen-zukuri style, became a National Treasure in 2010. A stairway of 1,159 steps climbs from the coast to grounds overlooking Suruga Bay.",
+  "kidsDescription": "くのうざんとうしょうぐうは、えどばくふをひらいた、とくがわいえやすをまつるじんじゃです。いえやすは、なくなったあと、まずここにほうむられました。うみのそばから、1159だんものいしだんをのぼると、きれいないろのたてものがみえてきます。",
+  "highlights": [
+    "国宝の極彩色の社殿",
+    "1159段の石段",
+    "駿河湾を見下ろす眺め"
+  ],
+  "prefecture": "静岡県",
+  "city": "駿河区",
+  "lat": 34.964742,
+  "lng": 138.467642,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/231006_Kunozan_Tosho-gu_Shizuoka_Japan13s3.jpg/960px-231006_Kunozan_Tosho-gu_Shizuoka_Japan13s3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/231006_Kunozan_Tosho-gu_Shizuoka_Japan13s3.jpg/330px-231006_Kunozan_Tosho-gu_Shizuoka_Japan13s3.jpg",
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:231006_Kunozan_Tosho-gu_Shizuoka_Japan13s3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "家康が眠る山",
+      "text": "久能山は、駿河湾に面してそびえる山です。江戸幕府を開いた徳川家康は、晩年を駿府で過ごし、1616年にこの地で亡くなりました。家康は、自分が亡くなったら久能山に葬るよう遺言を残していたと伝えられています。その言葉どおり、家康の亡きがらはこの山に納められました。翌年には、2代将軍の徳川秀忠の命によって社殿が造られ、これが全国に広がる東照宮の始まりとなりました。その後、日光にも東照宮が造られ、家康の神霊がまつられています。",
+      "titleEn": "The Mountain Where Ieyasu Rests",
+      "textEn": "Mount Kuno rises beside Suruga Bay. Tokugawa Ieyasu, founder of the Edo shogunate, spent his last years in Sunpu and died there in 1616, leaving instructions to be buried on Mount Kuno. The next year his son, the second shogun Hidetada, had the shrine built, the first of the Toshogu shrines that spread across Japan, and later Nikko Toshogu was also built to enshrine his spirit."
+    },
+    {
+      "title": "国宝の社殿",
+      "text": "久能山東照宮の社殿は、本殿と拝殿を石の間でつないだ権現造と呼ばれる形式で建てられています。この形式は、のちに日光東照宮をはじめ各地の東照宮で用いられるようになりました。社殿は、漆や極彩色の彩色、細やかな彫刻で華やかに飾られています。江戸時代のはじめに造られた姿をよく伝えていることから、2010年に国宝に指定されました。境内には、家康が使ったと伝わる品々を収めた博物館もあり、家康の人柄や暮らしに触れることができます。",
+      "titleEn": "The National Treasure Shrine Halls",
+      "textEn": "The shrine's halls are built in the gongen-zukuri style, with the main hall and worship hall joined by a stone-floored connecting room, a style later used at Nikko and other Toshogu shrines. Lacquer, vivid colors and fine carvings decorate the buildings, which preserve their early Edo-period form and became a National Treasure in 2010. A museum on the grounds holds items associated with Ieyasu."
+    },
+    {
+      "title": "石段を登って社殿へ",
+      "text": "今いる久能山東照宮へは、海側のふもとから1159段の石段が続いています。つづら折りの石段を一段ずつ登るごとに、駿河湾の眺めが大きく広がっていきます。境内に着いたら、楼門をくぐり、色鮮やかな拝殿の彫刻をじっくり見てみましょう。社殿の奥へ進むと、家康の墓所とされる神廟があります。神廟は、家康が眠る場所として、江戸時代から大切に守られてきました。石段は急なところもあるので、ゆっくり登ってください。",
+      "titleEn": "Climbing to the Shrine",
+      "textEn": "From the seaside foot of the mountain, 1,159 zigzagging stone steps lead up to the shrine, and the view of Suruga Bay widens with every turn. Pass through the tower gate and take time to admire the colorful carvings of the worship hall. Beyond the halls lies the mausoleum regarded as Ieyasu's tomb, so climb slowly and take in the history.",
+      "localOnly": true
+    },
+    {
+      "title": "いちいちごくろうさん",
+      "text": "くのうざんとうしょうぐうのいしだんは、1159だんあります。この1159というかずを、いち、いち、ご、くでいちいちごくろうさん、とおぼえるひともいるそうです。のぼるのはたいへんだけど、うえからみるうみはとてもきれいです。いくつのぼったか、かぞえながらのぼってみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q712162"
+}

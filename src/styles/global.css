@@ -1,0 +1,213 @@
+:root {
+  --color-primary: #7305e2;
+  --color-primary-light: #eee1fc;
+  --color-yellow: #f7c114;
+  --color-red: #d9333f;
+  --color-teal: #00a497;
+  --color-sky: #00a3af;
+
+  --text-dark: #1a1a1c;
+  --text-medium: #1a1a1cb3;
+  --text-light: #1a1a1c80;
+  --text-disabled: #1a1a1c4d;
+
+  --gray: #949497;
+  --gray-light: #b4b4b7;
+  --border: #d8d8db;
+  --bg-gray: #f1f1f4;
+  --bg-white: #f8f8fb;
+  --glass: rgba(255, 255, 255, 0.85);
+
+  --lock-bg: #e0edf5;
+  --lock-border: #86c5d9;
+  --lock-icon-bg: #add3e5;
+  --lock-hint: #006967;
+
+  --header-h: 60px;
+  --app-max-w: 480px;
+
+  --font-ja: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  --font-en: 'Lato', var(--font-ja);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: var(--text-dark);
+  font-family: var(--font-ja);
+  font-feature-settings: 'pwid' on;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  overscroll-behavior-y: none;
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: 16px;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+/* ---------- Typography (design tokens) ---------- */
+.t-heading1 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-heading2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-heading3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-heading4 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-heading5 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-subtitle-bold {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-subtitle-medium {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 175%;
+  letter-spacing: 0.04em;
+}
+.t-button-bold {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-button-medium {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+}
+.t-body-main {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 175%;
+  letter-spacing: 0.005em;
+}
+.t-body-sub {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 175%;
+  letter-spacing: 0.0025em;
+}
+.t-caption {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 175%;
+  letter-spacing: 0.0125em;
+}
+.c-medium {
+  color: var(--text-medium);
+}
+.c-light {
+  color: var(--text-light);
+}
+.c-primary {
+  color: var(--color-primary);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #ececf0 0, #f6f6f9 50%, #ececf0 100%);
+  background-size: 200px 100%;
+  animation: shimmer 1.2s infinite linear;
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  font-family: var(--font-ja);
+  background: #f2f2f2;
+}
+.leaflet-control-attribution {
+  font-size: 10px;
+  background: rgba(255, 255, 255, 0.75) !important;
+}
+.leaflet-div-icon.spot-marker,
+.leaflet-div-icon.user-marker {
+  background: transparent;
+  border: none;
+}

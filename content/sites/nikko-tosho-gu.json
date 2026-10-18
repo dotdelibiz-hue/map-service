@@ -1,0 +1,59 @@
+{
+  "id": "nikko-tosho-gu",
+  "title": "日光東照宮",
+  "titleEn": "Nikko Toshogu Shrine",
+  "kana": "にっこうとうしょうぐう",
+  "type": "shrine",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "徳川家康をまつる、豪華絢爛な彫刻の社",
+  "description": "日光東照宮は、江戸幕府を開いた徳川家康を神としてまつる神社です。家康が亡くなった翌年の1617年に創建され、のちに三代将軍徳川家光が大規模な建て替えを行い、現在見られる華やかな社殿の多くが整えられました。極彩色の彫刻で飾られた陽明門をはじめ、国宝や重要文化財に指定された建物が数多く立ち並び、眠り猫や三猿などの彫刻は特に有名です。周辺の二荒山神社、輪王寺とともに「日光の社寺」として世界遺産に登録されており、江戸時代の建築と工芸の技を今に伝える貴重な場所です。",
+  "descriptionEn": "Nikko Toshogu is a shrine dedicated to Tokugawa Ieyasu, founder of the Edo shogunate, established in 1617, the year after his death. Much of its lavish present form dates from a major rebuilding ordered by the third shogun, Tokugawa Iemitsu. Its richly colored buildings, including the Yomeimon Gate, are adorned with famous carvings such as the Sleeping Cat and the Three Wise Monkeys. Together with Futarasan Shrine and Rinnoji Temple, it forms part of the World Heritage site 'Shrines and Temples of Nikko'.",
+  "kidsDescription": "日光東照宮は、江戸じだいをはじめた徳川家康という人を、神さまとしておまつりしている神社です。たてものには、ねこやおさるなど、色あざやかなほりものがたくさんあり、見ているだけでわくわくします。せかいいさんにもなっています。",
+  "highlights": [
+    "極彩色の彫刻で飾られた陽明門",
+    "神厩舎の三猿の彫刻",
+    "眠り猫と奥宮へ続く石段"
+  ],
+  "prefecture": "栃木県",
+  "city": "日光市",
+  "lat": 36.759167,
+  "lng": 139.598611,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg/960px-Nikko_Toshogu_Yomeimon_Gate_2024.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg/330px-Nikko_Toshogu_Yomeimon_Gate_2024.jpg",
+    "author": "Jpatokal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikko_Toshogu_Yomeimon_Gate_2024.jpg"
+  },
+  "chapters": [
+    {
+      "title": "家康をまつる社の誕生",
+      "text": "徳川家康は1616年に亡くなり、はじめは静岡の久能山に葬られました。そして遺言にしたがって、翌年の1617年に日光へ移され、神としてまつられたのが東照宮の始まりです。その後、孫にあたる三代将軍の徳川家光は、祖父をたいへん敬い、寛永年間に社殿の大がかりな建て替えを行いました。このとき各地から腕ききの職人が集められ、金や漆、極彩色の彫刻をふんだんに使った、現在のきらびやかな姿が形づくられたといわれています。",
+      "titleEn": "Birth of a Shrine for Ieyasu",
+      "textEn": "Tokugawa Ieyasu died in 1616 and was first buried at Mount Kunozan in Shizuoka. Following his wishes, he was moved to Nikko the next year and enshrined as a deity, marking the beginning of Toshogu. His grandson, the third shogun Iemitsu, later carried out a grand rebuilding, gathering skilled craftsmen to create the dazzling buildings decorated with gold, lacquer and vivid carvings that we see today."
+    },
+    {
+      "title": "彫刻に込められた物語",
+      "text": "東照宮の建物には、数えきれないほど多くの彫刻が施されています。神馬をつなぐ神厩舎には、猿の一生を描いた彫刻が並び、その中の、目と耳と口をふさいだ三匹の猿は、見ざる言わざる聞かざるとして広く知られています。また、奥宮へ向かう入り口の門の上には、牡丹の花の中で眠る小さな猫の彫刻があり、眠り猫と呼ばれて親しまれています。陽明門は、細かな装飾をいつまでも眺めていられることから、日暮らしの門とも呼ばれてきました。",
+      "titleEn": "Stories in the Carvings",
+      "textEn": "The buildings of Toshogu are covered with countless carvings. The sacred stable features a series of monkey panels, including the famous three monkeys who see no evil, speak no evil and hear no evil. Above the gateway to the inner shrine sits the beloved Sleeping Cat among peony flowers, and the Yomeimon Gate is nicknamed the Higurashi Gate because one could gaze at its details until sunset."
+    },
+    {
+      "title": "境内で見たいポイント",
+      "text": "境内に入ったら、まず石の鳥居や五重塔を見上げてみてください。表門をくぐると左手に神厩舎があり、三猿の彫刻を探すことができます。石段を上った先にある陽明門では、人物や霊獣、花などの細かな彫刻を一つずつじっくり観察してみましょう。さらに、眠り猫の下をくぐって長い石段を上ると、家康が眠る奥宮にたどり着きます。杉の木立に囲まれた静かな空気の中で、華やかな社殿とは違った、おごそかな雰囲気を感じられるはずです。",
+      "titleEn": "What to See on the Grounds",
+      "textEn": "As you enter, look up at the stone torii gate and the five-story pagoda. After passing through the Omotemon Gate, find the three monkeys on the sacred stable to your left, then take time with the intricate carvings of the Yomeimon Gate. Passing beneath the Sleeping Cat and climbing the long stone stairs brings you to the inner shrine where Ieyasu rests, wrapped in the quiet of tall cedars.",
+      "localOnly": true
+    },
+    {
+      "title": "ねむりねこをさがそう",
+      "text": "東照宮には、ねむっているねこのほりものがあります。ぼたんの花の中で、すやすやねむっていますよ。じつは、そのうらがわには、すずめのほりものもあるんです。ねこがねむっているから、すずめもあんしんしてあそべる、というへいわのいみがこめられている、というせつもあります。あなたは、どうしてねこがねむっているのだと思いますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q696641"
+}

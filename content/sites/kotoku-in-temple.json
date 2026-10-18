@@ -1,0 +1,59 @@
+{
+  "id": "kotoku-in-temple",
+  "title": "高徳院（鎌倉大仏）",
+  "titleEn": "Kotoku-in (Great Buddha of Kamakura)",
+  "kana": "こうとくいん",
+  "type": "temple",
+  "eras": [
+    "鎌倉時代"
+  ],
+  "summary": "青空の下に座る、国宝の鎌倉大仏",
+  "description": "高徳院は、鎌倉大仏として親しまれる国宝の銅造阿弥陀如来坐像を本尊とする浄土宗の寺院です。大仏は鎌倉時代の1252年に造り始められたと記録されており、像の高さはおよそ11メートル、重さはおよそ121トンにもなります。かつては大仏殿という大きな建物の中に安置されていましたが、建物は室町時代ごろまでに失われ、それ以来、大仏は屋外に座る姿となりました。境内には大仏殿の礎石が残り、大仏殿跡として国の史跡に指定されています。大仏の内部は空洞で、鋳造の跡を内側から観察できることでも知られています。",
+  "descriptionEn": "Kotoku-in is a Jodo-sect temple whose principal image is the Great Buddha of Kamakura, a bronze seated Amida Buddha designated a National Treasure. Records say casting began in 1252; the statue is about 11 meters tall and weighs about 121 tons. It once sat inside a great hall, but the hall was lost by around the Muromachi period, and the Buddha has sat in the open air ever since. Foundation stones of the hall remain, and the hall site is a National Historic Site.",
+  "kidsDescription": "高徳院には、鎌倉の大仏さまがすわっています。高さはおよそ11メートルもあり、ビルの4かいくらいの大きさです。むかしはたてものの中にいましたが、いまはお外にすわっています。770年いじょうも、鎌倉の町を見まもってきました。",
+  "highlights": [
+    "青空の下の国宝・鎌倉大仏",
+    "大仏殿の礎石",
+    "鋳造の跡が残る大仏の内部"
+  ],
+  "prefecture": "神奈川県",
+  "city": "長谷",
+  "lat": 35.316861,
+  "lng": 139.535722,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/230128_Kamakura_Daibutsu_Japan01s3.jpg/960px-230128_Kamakura_Daibutsu_Japan01s3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/230128_Kamakura_Daibutsu_Japan01s3.jpg/330px-230128_Kamakura_Daibutsu_Japan01s3.jpg",
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_Japan01s3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "大仏造立の歴史",
+      "text": "鎌倉の大仏が、だれによって、どのように造られたのか、詳しいことの多くは謎に包まれています。鎌倉幕府の歴史書には、まず木造の大仏が造られ、その後、1252年に銅の大仏の鋳造が始まったことが記されています。木造の大仏を造るにあたっては、浄光という僧が人々から寄付を集めたと伝わります。銅の大仏は、何段にも分けて銅を流し込む方法で造られたと考えられており、高さおよそ11メートルもの大きな像が、当時の高い技術によって作り上げられました。",
+      "titleEn": "Making the Great Buddha",
+      "textEn": "Much about who made the Great Buddha of Kamakura, and how, remains a mystery. A history compiled by the Kamakura shogunate records that a wooden Buddha was made first and that casting of a bronze Buddha began in 1252; a monk named Joko is said to have gathered donations for the earlier statue. The bronze was poured in many stages, an advanced technique that produced a figure about 11 meters tall."
+    },
+    {
+      "title": "大仏殿の消失と露座の大仏",
+      "text": "大仏は、もともと大きな大仏殿の中に安置されていました。しかし、この建物は南北朝時代から室町時代にかけて、大風などの災害でたびたび壊れ、やがて再建されることなく失われてしまいました。それ以来、大仏は雨や風にさらされながら、屋外に座り続けています。明治時代の歌人、与謝野晶子は、大仏を釈迦として詠んだ歌を残しましたが、実際には阿弥陀如来の像です。関東大震災では台座が壊れるなどの被害を受けましたが、修理を経て、今も変わらぬ姿で人々を迎えています。",
+      "titleEn": "The Lost Hall",
+      "textEn": "The Buddha originally sat inside a great hall, but storms and other disasters repeatedly damaged it in the 14th and 15th centuries, and it was eventually lost and never rebuilt. Since then the Buddha has sat in the open air, exposed to wind and rain. The poet Yosano Akiko famously wrote of it as the Buddha Shakyamuni, though it actually depicts Amida, and after damage in the Great Kanto Earthquake it was repaired and continues to welcome visitors."
+    },
+    {
+      "title": "大仏の前で",
+      "text": "大仏の前に立ったら、少し離れた場所から全体の姿を眺めてみてください。やや前かがみの姿勢は、正面から拝む人にとって、ちょうど良く見えるように工夫されたものだともいわれます。次に近づいて、顔のあたりをよく見てみましょう。頬のあたりには、かつて像を覆っていた金箔のあとが、わずかに残っています。また、大仏の周りには、大仏殿の柱を支えた礎石が並んでいます。この礎石の配置から、かつての大仏殿がどれほど大きな建物だったのかを想像してみてください。",
+      "titleEn": "Before the Great Buddha",
+      "textEn": "First take in the Buddha's whole form from a little distance; its slight forward lean is said to make it look balanced to worshippers standing in front. Then move closer and look at the cheeks, where faint traces of the gold leaf that once covered the statue remain. Around the Buddha lie foundation stones that once held the pillars of the great hall, hinting at how vast that building must have been.",
+      "localOnly": true
+    },
+    {
+      "title": "大仏さまのからだの中",
+      "text": "鎌倉の大仏さまのからだは、中がからっぽになっています。銅を、いくつにもわけてながしこみ、つなぎあわせてつくったのです。中から見ると、つなぎめのあとが見えることもあります。また、大仏さまのせなかには、まどのような小さなあながあります。なんのためのあなだと思いますか。うしろにまわって、さがしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q672056"
+}

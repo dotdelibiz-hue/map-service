@@ -1,0 +1,59 @@
+{
+  "id": "hirosaki-castle",
+  "title": "弘前城",
+  "titleEn": "Hirosaki Castle",
+  "kana": "ひろさきじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "東北で唯一、江戸時代の天守が残る城",
+  "description": "弘前城は、津軽地方を治めた津軽氏の居城として、江戸時代の初めの1611年に完成した城です。当初の五層の天守は落雷で焼失し、現在の三層の天守は1810年に再建されたものです。江戸時代以前に建てられた天守が今も残る全国12城の一つで、東北地方では唯一の例です。天守のほか、三つの櫓と五つの城門も江戸時代の姿をとどめ、国の重要文化財に指定されています。城跡は弘前公園として整備され、春には堀を彩る桜の名所として全国に知られています。",
+  "descriptionEn": "Hirosaki Castle was completed in 1611 as the seat of the Tsugaru clan, rulers of the Tsugaru region. Its original five-story keep burned after a lightning strike, and the present three-story keep, rebuilt in 1810, is one of only twelve surviving original castle keeps in Japan and the only one in the Tohoku region. Together with its original turrets and gates, which are Important Cultural Properties, the grounds form Hirosaki Park, famous nationwide for cherry blossoms along the moats.",
+  "kidsDescription": "ひろさきじょうは、青森県にある、江戸時代にたてられた天守がいまものこっているお城です。東北地方では、ここだけしかありません。春になると、たくさんのさくらが咲いて、お堀の水の上にも花びらがういて、とてもきれいです。",
+  "highlights": [
+    "江戸時代から残る三層の天守",
+    "現存する櫓と城門",
+    "外堀を彩る桜と花筏"
+  ],
+  "prefecture": "青森県",
+  "city": "下白銀町",
+  "lat": 40.608036,
+  "lng": 140.463806,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hirosaki_Castle_Keep_Tower_20220508.jpg/960px-Hirosaki_Castle_Keep_Tower_20220508.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hirosaki_Castle_Keep_Tower_20220508.jpg/330px-Hirosaki_Castle_Keep_Tower_20220508.jpg",
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hirosaki_Castle_Keep_Tower_20220508.jpg"
+  },
+  "chapters": [
+    {
+      "title": "津軽氏の城のはじまり",
+      "text": "弘前城は、津軽地方を治めた津軽氏の本拠地です。初代の津軽為信が築城を計画し、その跡を継いだ二代目の津軽信枚によって、1611年に完成しました。当時は五層の立派な天守がそびえていましたが、1627年に落雷によって焼失してしまいます。その後、長いあいだ天守のない時代が続きましたが、1810年、九代藩主の津軽寧親のときに、本丸の隅にあった櫓を改築するという形で、現在の三層の天守が建てられました。津軽氏は明治維新まで、この城を拠点に津軽の地を治め続けました。",
+      "titleEn": "Origins of the Tsugaru Clan's Castle",
+      "textEn": "Planned by Tsugaru Tamenobu and completed in 1611 by his successor Nobuhira, Hirosaki Castle originally had a five-story keep that burned after a lightning strike in 1627. After a long period without a keep, the ninth lord, Tsugaru Yasuchika, built the present three-story keep in 1810, officially as a rebuilt corner turret. The Tsugaru clan ruled from here until the Meiji Restoration."
+    },
+    {
+      "title": "動いた天守",
+      "text": "弘前城の天守は、実は建物ごと引っ越しをしたことがあります。天守がのる本丸の石垣が外側にふくらみ、崩れるおそれが出てきたため、大規模な石垣の修理が行われることになりました。そこで2015年、天守を解体せずに、建物ごとジャッキで持ち上げ、レールの上をゆっくりと移動させる曳屋という方法がとられたのです。重さ数百トンの天守が少しずつ動いていく様子は、多くの人の注目を集めました。明治時代にも、石垣を直すために天守を動かした記録があり、城を守り伝える努力が受け継がれています。",
+      "titleEn": "The Keep That Moved",
+      "textEn": "Because the stone wall beneath the keep was bulging and at risk of collapse, a major repair project began, and in 2015 the keep was jacked up and slowly slid along rails to a temporary spot without being dismantled. The sight of the several-hundred-ton building inching along drew wide attention. The keep had also been moved for wall repairs in the Meiji era, showing how each generation has worked to preserve the castle."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "弘前公園を歩くときは、まず城門に注目してください。追手門などの城門は江戸時代から残るもので、くぐるたびに当時の城の雰囲気を感じられます。本丸に進むと、三層の天守が見えてきます。城の外側に向いた面には破風や飾りが施され、内側の面は簡素に造られているため、見る方向によって表情が違うのも特徴です。天気がよければ、本丸の近くから、津軽富士とも呼ばれる岩木山を望むことができます。春には外堀を桜が覆い、散った花びらが水面を埋める花筏も見事です。",
+      "titleEn": "What to See on Site",
+      "textEn": "As you walk through Hirosaki Park, notice the gates, such as the Otemon, which survive from the Edo period. The keep's outward-facing sides are decorated with gables, while the inner sides are plain, so it looks different depending on where you stand. On clear days you can see Mount Iwaki, the Fuji of Tsugaru, and in spring fallen petals cover the outer moat like a pink carpet.",
+      "localOnly": true
+    },
+    {
+      "title": "お城がおひっこし？",
+      "text": "ひろさきじょうの天守は、なんと、たてものごと動いたことがあります。下の石がきをなおすために、こわさずにジャッキで持ちあげて、ゆっくりと動かしたのです。とても重いお城を動かすなんて、すごいですね。もしきみがお城を動かすとしたら、どんなふうに動かしますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q328582"
+}

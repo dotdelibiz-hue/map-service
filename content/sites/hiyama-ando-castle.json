@@ -1,0 +1,60 @@
+{
+  "id": "hiyama-ando-castle",
+  "title": "檜山安東氏城館跡",
+  "titleEn": "Hiyama Ando Clan Castle Sites",
+  "kana": "ひやまあんどうしじょうかんあと",
+  "type": "castle",
+  "eras": [
+    "室町時代",
+    "戦国時代"
+  ],
+  "summary": "北の海の豪族安東氏が拠った山城の跡",
+  "description": "檜山安東氏城館跡は、秋田県能代市檜山にある、中世に北の日本海沿岸で勢力をふるった安東氏の城跡です。本城の檜山城跡に、大館跡と茶臼館跡をあわせて、1980年に国の史跡に指定されました。檜山城は霧山城とも呼ばれ、室町時代から江戸時代の初めまで長く使われた山城です。標高およそ145メートルの山頂から延びる尾根に、平らに削った曲輪や、尾根を断ち切る堀切を連ねて守りを固めていました。現在も山の中に、中世の山城の地形がよく残っています。",
+  "descriptionEn": "The Hiyama Ando Clan Castle Sites in Noshiro, Akita, are the remains of strongholds of the Ando clan, a powerful medieval family along the northern Japan Sea coast. Designated a National Historic Site in 1980, they comprise the main Hiyama Castle, also called Kiriyama Castle, together with the Odate and Chausudate sites. Used from the Muromachi period into the early Edo period, Hiyama Castle was a mountain fortress whose ridges were lined with leveled enclosures and deep trenches that still survive in the forest.",
+  "kidsDescription": "ひやまあんどうしじょうかんあとは、秋田県能代市にある、山の上のお城のあとです。むかし、日本海の船の行き来で力をつけた、安東氏という一族がいました。山をけずってつくった平らな場所や、ふかいほりが、いまものこっています。",
+  "highlights": [
+    "山頂の本丸跡",
+    "尾根に連なる曲輪の跡",
+    "尾根を断ち切る堀切"
+  ],
+  "prefecture": "秋田県",
+  "city": "能代市",
+  "lat": 40.163022,
+  "lng": 140.121292,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hiyama_And%C3%B4si_Zy%C3%B4kan_Ato.jpg/960px-Hiyama_And%C3%B4si_Zy%C3%B4kan_Ato.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hiyama_And%C3%B4si_Zy%C3%B4kan_Ato.jpg/330px-Hiyama_And%C3%B4si_Zy%C3%B4kan_Ato.jpg",
+    "author": "らんで",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hiyama_And%C3%B4si_Zy%C3%B4kan_Ato.jpg"
+  },
+  "chapters": [
+    {
+      "title": "北の海の豪族、安東氏",
+      "text": "安東氏は、中世の北日本で、日本海の海上交通を背景に大きな力を持った一族です。もとは津軽の十三湊を拠点としていたと伝えられ、のちに出羽国の北部へと移りました。一族は、この檜山を本拠とする家と、土崎の湊を本拠とする家に分かれて勢力を広げます。檜山城は、室町時代の中ごろに築かれたと伝えられ、檜山の安東氏の本城として使われました。戦国時代には、檜山の安東愛季が一族をまとめ上げ、出羽北部に大きな勢力を築きました。",
+      "titleEn": "The Ando, Lords of the Northern Sea",
+      "textEn": "The Ando were a powerful medieval clan of northern Japan whose strength rested on Japan Sea shipping. Said to have originally been based at Tosaminato in Tsugaru, they later moved to northern Dewa and split into two branches, one based here at Hiyama and one at the port of Tsuchizaki. Hiyama Castle is said to have been built in the mid-Muromachi period, and in the Warring States era Ando Chikasue of Hiyama united the clan and built a strong domain."
+    },
+    {
+      "title": "安東氏の国替えと城の終わり",
+      "text": "愛季の子の実季は、のちに秋田氏を名乗り、豊臣秀吉の時代には、この地域の領主として認められました。しかし、1600年の関ヶ原の戦いの後、徳川家康によって常陸国へ領地を移されることになります。代わって出羽北部には佐竹氏が入り、檜山城には佐竹氏の家臣が置かれました。その後、江戸幕府が大名の城を原則一つに限る一国一城令を出したことなどから、檜山城は江戸時代の初めに役目を終えたと考えられています。こうして山の上には、中世の山城の姿が残されることになりました。",
+      "titleEn": "The Clan's Transfer and the Castle's End",
+      "textEn": "Chikasue's son Sanesue, who later took the name Akita, was confirmed as lord of the region under Toyotomi Hideyoshi, but after the Battle of Sekigahara in 1600 Tokugawa Ieyasu transferred him to Hitachi Province. The Satake clan took over northern Dewa and placed a retainer at Hiyama, and the castle is thought to have been abandoned in the early Edo period, partly due to the shogunate's one-castle-per-province policy. As a result, its medieval form has survived on the mountain."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "檜山城跡を歩くときは、山の地形そのものが城であることを意識してみてください。山頂の本丸跡から延びる尾根には、土を削って平らにした曲輪がいくつも連なり、武士たちの屋敷や見張りの場所があったと考えられています。尾根の途中を深く断ち切った堀切は、敵が尾根伝いに攻め込むのを防ぐための工夫です。石垣はありませんが、こうした土の造りから、中世の山城の守りの考え方がよくわかります。山道は足もとが悪いところもあるので、十分に注意して歩いてください。",
+      "titleEn": "What to See on Site",
+      "textEn": "As you walk Hiyama Castle, remember that the mountain itself is the fortress. Along the ridges from the summit main enclosure are a series of leveled terraces where residences and lookouts likely stood, and deep trenches cut across the ridges to stop attackers advancing along them. There are no stone walls, but these earthworks clearly show how medieval mountain castles were defended, so watch your footing on the rough trails.",
+      "localOnly": true
+    },
+    {
+      "title": "山がまるごとお城",
+      "text": "ひやまじょうには、てんしゅや石がきはありません。そのかわり、山をけずって平らな場所をつくったり、ふかいみぞをほったりして、敵がかんたんにのぼってこられないようにしていました。山そのものが、大きなお城だったのです。もしきみが敵だったら、どこからせめますか。考えてみてください。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11122386"
+}

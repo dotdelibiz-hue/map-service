@@ -1,0 +1,59 @@
+{
+  "id": "motoori-norinaga-house",
+  "title": "本居宣長旧宅（鈴屋）",
+  "titleEn": "Former Residence of Motoori Norinaga (Suzunoya)",
+  "kana": "もとおりのりながきゅうたく",
+  "type": "other",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "古事記伝が生まれた国学者の家と書斎",
+  "description": "本居宣長旧宅は、江戸時代の国学者、本居宣長が12歳から72歳で亡くなるまで暮らした家です。もとは松阪の魚町にありましたが、1909年に保存のため松坂城跡へ移築されました。宣長は医者として働くかたわら、この家で日本の古典の研究を続け、およそ35年をかけて古事記の注釈書である古事記伝を完成させました。2階の書斎は、宣長が鈴を好んだことから鈴屋と名付けられています。移築された旧宅と、魚町に残る宅跡は、あわせて特別史跡に指定されています。",
+  "descriptionEn": "This is the house where Motoori Norinaga, the great Edo-period scholar of Japanese classics, lived from age 12 until his death at 72. Originally in the Uomachi district of Matsusaka, it was moved to the Matsusaka Castle grounds in 1909 for preservation. While working as a physician, Norinaga studied the classics here and spent about 35 years completing the Kojikiden, his commentary on the Kojiki. His second-floor study is called Suzunoya, the House of Bells, after his love of bells, and the house and its original site together form a Special Historic Site.",
+  "kidsDescription": "もとおりのりながは、えどじだいに、にほんのむかしのほんをけんきゅうしたがくしゃです。このいえで、こじきというふるいほんを、なんと35ねんもかけてしらべました。すずのおとがだいすきで、2かいのへやは、すずのやとよばれています。",
+  "highlights": [
+    "2階の書斎 鈴屋",
+    "江戸時代の町家の間取り",
+    "近くの本居宣長記念館"
+  ],
+  "prefecture": "三重県",
+  "city": "殿町",
+  "lat": 34.57525,
+  "lng": 136.525833,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Suzunoya_Gaikan.jpg/960px-Suzunoya_Gaikan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Suzunoya_Gaikan.jpg/330px-Suzunoya_Gaikan.jpg",
+    "author": "Yanajin33",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suzunoya_Gaikan.jpg"
+  },
+  "chapters": [
+    {
+      "title": "宣長が暮らした家",
+      "text": "この家は、本居宣長の祖父が1691年に建てた町家で、もとは松阪の魚町にありました。宣長は12歳のときにこの家に移り住み、72歳で亡くなるまでの生涯の大半をここで過ごしました。昼間は医者として町の人々を診察し、夜になると古典の研究に打ち込んだといわれています。明治時代の大火で松阪の町が大きな被害を受けたこともあり、大切な家を守るため、1909年に松坂城跡へ移されました。もとの魚町の宅跡も、今に残されています。",
+      "titleEn": "The House Where Norinaga Lived",
+      "textEn": "This townhouse was built in 1691 by Norinaga's grandfather in the Uomachi district of Matsusaka. Norinaga moved in at age 12 and spent most of his life here until his death at 72, treating patients as a doctor by day and studying the classics at night. After a great Meiji-era fire damaged the town, the house was moved to the castle grounds in 1909 to protect it, and its original site still survives."
+    },
+    {
+      "title": "鈴屋と古事記伝",
+      "text": "宣長は53歳のとき、2階の物置を改造して書斎をつくりました。宣長は鈴の音を好み、書斎には赤い紐に結んだ36個の鈴を掛けて、疲れたときに鳴らして心を和ませたと伝えられています。このことから、書斎は鈴屋と呼ばれるようになりました。宣長はこの家で、日本の古い歴史書である古事記の研究を進め、およそ35年をかけて古事記伝を完成させました。全国から多くの門人が集まり、ここは学びの場でもありました。",
+      "titleEn": "Suzunoya and the Kojikiden",
+      "textEn": "At 53, Norinaga turned a second-floor storeroom into a study. He loved the sound of bells and is said to have hung 36 bells on red cords, ringing them to relax, so the study became known as Suzunoya, the House of Bells. Here he devoted about 35 years to completing the Kojikiden, his commentary on the ancient Kojiki, and disciples gathered from all over Japan."
+    },
+    {
+      "title": "旧宅を見学する",
+      "text": "今いる本居宣長旧宅では、江戸時代の町家の造りに注目してみましょう。通りに面した入口から奥へと部屋が続き、宣長が患者を診たり、家族と暮らしたりした様子が想像できます。2階にある鈴屋は、4畳半ほどの小さな書斎です。ここから日本の古典研究を大きく前進させた学問が生まれたと思うと、感慨深いものがあります。すぐ近くの本居宣長記念館では、宣長が書き残した原稿や愛用の品々を見ることができます。",
+      "titleEn": "Visiting the Former Residence",
+      "textEn": "Notice the layout of this Edo-period townhouse, with rooms running back from the street entrance where Norinaga saw patients and lived with his family. Upstairs, Suzunoya is a tiny study of about four and a half tatami mats, the birthplace of scholarship that transformed the study of Japanese classics. The nearby Motoori Norinaga Memorial Museum displays his manuscripts and belongings.",
+      "localOnly": true
+    },
+    {
+      "title": "すずのやのひみつ",
+      "text": "のりながは、べんきょうでつかれると、へやにかけたすずをならして、ひとやすみしたといわれています。すずは、ぜんぶで36こもあったそうです。あなたは、べんきょうでつかれたとき、どんなことをしてひとやすみしますか。すずのおとをそうぞうしながら、2かいのへやをみてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11520162"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "hitachi-kokubunji-temple",
+  "title": "常陸国分寺跡",
+  "titleEn": "Hitachi Kokubun-ji Temple Site",
+  "kana": "ひたちこくぶんじあと",
+  "type": "ruins",
+  "eras": [
+    "奈良時代",
+    "平安時代"
+  ],
+  "summary": "常陸国の国府の地に建てられた国分寺の跡",
+  "description": "常陸国分寺跡は、奈良時代に聖武天皇の命によって全国に建てられた国分寺のうち、常陸国に置かれた寺院の跡で、国の特別史跡に指定されています。石岡市は古代の常陸国の国府が置かれた土地で、国分寺はその近くに建てられました。常陸国は大きな国の一つで、国分寺も壮大な規模を誇ったと考えられています。現在は同じ場所に国分寺が法灯を受け継いでおり、境内には金堂や講堂の跡を示す大きな礎石が残っています。近くには、同じく特別史跡の常陸国分尼寺跡もあります。",
+  "descriptionEn": "This Special Historic Site is the former provincial temple of Hitachi, one of the Kokubun-ji temples Emperor Shomu ordered built in every province in the Nara period. Ishioka was the seat of the ancient Hitachi provincial government, and as Hitachi was one of the major provinces, its temple is thought to have been very large. A present-day Kokubun-ji temple carries on its tradition on the same grounds, where large foundation stones of the main hall and lecture hall remain, and the site of the provincial nunnery is nearby.",
+  "kidsDescription": "ひたちこくぶんじあとは、茨城県石岡市にある、奈良時代のお寺のあとです。聖武天皇が、国のへいわをねがって、国ごとにたてさせたお寺の一つです。いまも大きな石がのこっていて、むかしのおどうの大きさを思いうかべることができます。",
+  "highlights": [
+    "金堂跡に並ぶ大きな礎石",
+    "講堂跡の礎石",
+    "近くの常陸国分尼寺跡"
+  ],
+  "prefecture": "茨城県",
+  "city": "石岡市",
+  "lat": 36.196206,
+  "lng": 140.273358,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hitachi-kokubunji_hondou.JPG/960px-Hitachi-kokubunji_hondou.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hitachi-kokubunji_hondou.JPG/330px-Hitachi-kokubunji_hondou.JPG",
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitachi-kokubunji_hondou.JPG"
+  },
+  "chapters": [
+    {
+      "title": "常陸国の国分寺",
+      "text": "奈良時代の741年、聖武天皇は、疫病や災害が続く世の中を仏教の力で安らかにしようと、全国の国ごとに国分寺と国分尼寺を建てるよう命じました。常陸国分寺は、この命によって常陸国に建てられた寺院です。現在の石岡市には、常陸国の政治の中心である国府が置かれていました。常陸国は、広い土地と豊かな産物に恵まれた大きな国で、国分寺も東国を代表する壮大な寺院だったと考えられています。金堂や講堂などの主な建物が、整然と並んでいたことが調査で明らかになっています。",
+      "titleEn": "The Provincial Temple of Hitachi",
+      "textEn": "In 741, hoping to calm a land troubled by epidemics and disasters through Buddhism, Emperor Shomu ordered a monastery and a nunnery to be built in every province. Hitachi Kokubun-ji was built for Hitachi Province, whose government office stood in what is now Ishioka. Hitachi was a large and prosperous province, and its temple is thought to have been one of the grandest in eastern Japan, with its main hall and lecture hall laid out in an orderly plan."
+    },
+    {
+      "title": "国府の町、石岡",
+      "text": "国分寺が置かれた石岡は、古代から常陸国の中心として栄えた町です。国府の跡は、国分寺から少し離れた場所で発掘され、役所の建物が並んでいた様子がわかっています。平安時代の中ごろには、関東で反乱を起こした平将門が常陸国府を襲った出来事も伝えられています。国の力が弱まるとともに、国分寺もしだいに衰えていきましたが、その後も同じ場所で寺としての営みは続けられ、今の国分寺へと受け継がれてきました。石岡の町には、こうした古代からの歴史が重なり合っています。",
+      "titleEn": "Ishioka, the Provincial Capital",
+      "textEn": "Ishioka flourished from ancient times as the center of Hitachi, and excavations a short distance from the temple have revealed the provincial government buildings. In the mid-Heian period, the rebel Taira no Masakado is recorded as having attacked the Hitachi provincial office. As central power declined the temple waned, but religious life continued on the same site and has been carried on by today's Kokubun-ji."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "境内には、古代の国分寺の礎石が今も残っています。特に注目したいのが、金堂の跡に並ぶ大きな礎石です。この上に太い柱が立ち、大きなお堂を支えていました。石の並びをたどると、建物の大きさを想像することができます。講堂の跡にも礎石が残されています。現在の国分寺のお堂とあわせて見ると、古代から現代まで続くこの場所の歴史を感じられるでしょう。少し足をのばせば、常陸国分尼寺跡も整備されていて、二つの寺の関係を知ることができます。",
+      "titleEn": "What to See on Site",
+      "textEn": "Within the grounds, the foundation stones of the ancient temple still remain, most impressively the large stones of the main hall, which once supported its thick pillars. Trace their arrangement to imagine the building's size, and look for the stones of the lecture hall as well. Seen together with the halls of today's temple, they reveal a history that runs from ancient times to the present, and the nunnery site is a short walk away.",
+      "localOnly": true
+    },
+    {
+      "title": "大きな石のなぞ",
+      "text": "ひたちこくぶんじあとには、大きくて平らな石がならんでいます。これは、むかしのおどうの柱をささえていた石です。石と石のあいだを歩いて、柱がどれくらいの太さだったのか、おどうがどれくらい大きかったのか、そうぞうしてみましょう。1200年以上前の人たちも、この石の上におどうをたてたのです。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11481685"
+}

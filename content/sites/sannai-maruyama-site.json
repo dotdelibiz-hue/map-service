@@ -1,0 +1,59 @@
+{
+  "id": "sannai-maruyama-site",
+  "title": "三内丸山遺跡",
+  "titleEn": "Sannai-Maruyama Site",
+  "kana": "さんないまるやまいせき",
+  "type": "ruins",
+  "eras": [
+    "縄文時代"
+  ],
+  "summary": "日本最大級の縄文時代の集落跡",
+  "description": "三内丸山遺跡は、青森市にある縄文時代の大規模な集落跡で、国の特別史跡に指定されています。およそ5900年前から4200年前まで、約1700年にわたって人々が暮らしていました。1992年から行われた野球場建設に先立つ発掘調査で、大型の竪穴住居や、直径約1メートルのクリの柱を使った大型掘立柱建物の跡などが見つかり、全国的な話題になりました。現在は復元された建物が並ぶ遺跡公園として公開され、2021年には北海道・北東北の縄文遺跡群の一つとして世界文化遺産に登録されました。",
+  "descriptionEn": "The Sannai-Maruyama Site in Aomori City is one of Japan's largest Jomon-period settlements, inhabited for about 1,700 years from roughly 5,900 to 4,200 years ago. Excavations begun in 1992 ahead of a planned baseball stadium uncovered large pit dwellings and the post holes of a huge building supported by chestnut pillars about one meter in diameter. Now a Special Historic Site and park with reconstructed buildings, it was inscribed on the World Heritage List in 2021 as part of the Jomon Prehistoric Sites in Northern Japan.",
+  "kidsDescription": "さんないまるやまいせきは、青森市にある、じょうもん時代のとても大きなむらのあとです。いまから5000年くらい前に、たくさんの人がここでくらしていました。大きな木の柱をつかった、高いたてものもつくられていたと考えられています。",
+  "highlights": [
+    "六本柱の大型掘立柱建物",
+    "復元された大型竪穴住居",
+    "さんまるミュージアムの土偶"
+  ],
+  "prefecture": "青森県",
+  "city": "青森市",
+  "lat": 40.811667,
+  "lng": 140.695556,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/960px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/330px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg"
+  },
+  "chapters": [
+    {
+      "title": "1700年続いた縄文のムラ",
+      "text": "三内丸山遺跡では、およそ5900年前から4200年前まで、約1700年ものあいだ人々が暮らしていました。ムラの中には、住まいとなる竪穴住居のほか、食べ物を蓄えた倉庫と考えられる建物、大人や子どものお墓、ごみ捨て場などが計画的に配置されていました。周りではクリの木が管理され、食料として利用されていたこともわかっています。遠く離れた新潟県の糸魚川周辺で採れるヒスイや、北海道産の黒曜石も見つかり、縄文の人々が広い範囲で交流していたことがうかがえます。",
+      "titleEn": "A Jomon Village That Lasted 1,700 Years",
+      "textEn": "People lived at Sannai-Maruyama for about 1,700 years, from roughly 5,900 to 4,200 years ago. The village was laid out with pit dwellings, buildings thought to be storehouses, graves for adults and children, and refuse areas, and chestnut trees were managed nearby for food. Jade from the Itoigawa area of Niigata and obsidian from Hokkaido show that the villagers traded over long distances."
+    },
+    {
+      "title": "野球場の予定地から世界遺産へ",
+      "text": "この場所には、もともと県営の野球場を建てる計画がありました。1992年に始まった事前の発掘調査で、想像をはるかに超える規模の集落跡が次々と姿を現します。中でも人々を驚かせたのが、直径約1メートルのクリの巨木を使った六本の柱の跡でした。柱の間隔がそろっていることから、縄文の人々が長さの単位を持っていた可能性も指摘されています。遺跡の重要性が広く知られると、1994年に保存が決まり、野球場の建設は中止されました。その後、特別史跡を経て、世界文化遺産となりました。",
+      "titleEn": "From Baseball Stadium Plans to World Heritage",
+      "textEn": "The site was originally slated for a prefectural baseball stadium, but excavations that began in 1992 revealed a settlement far larger than anyone expected. Most astonishing were six post holes for chestnut pillars about one meter across, spaced so evenly that some suggest the Jomon people used a unit of length. In 1994 the stadium plan was abandoned to preserve the site, which later became a Special Historic Site and World Heritage property."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "遺跡に立ったら、まず高くそびえる六本柱の大型掘立柱建物を見上げてみてください。発掘された柱の穴の大きさや配置をもとに復元されたもので、何に使われていたのかについては、見張り台や祭りの施設など、今もさまざまな説があります。その近くにある大型竪穴住居は、長さが30メートルを超える大きな建物で、中に入ってその広さを体感できます。発掘で見つかった遺構の一部を、そのまま公開している場所もあります。出土品は、隣接するさんまるミュージアムでじっくり見ることができます。",
+      "titleEn": "What to See on Site",
+      "textEn": "Look up at the reconstructed six-pillar building, based on the size and layout of the excavated post holes; whether it was a lookout tower or a ritual structure is still debated. Nearby, the large pit dwelling, over 30 meters long, can be entered to experience its spaciousness. Some excavated features are displayed as they were found, and artifacts can be seen at the adjacent Sanmaru Museum.",
+      "localOnly": true
+    },
+    {
+      "title": "クリの木のひみつ",
+      "text": "さんないまるやまいせきの大きなたてものの柱には、クリの木がつかわれていました。柱の太さは1メートルほどで、大人が両手をひろげても、かかえきれないくらいです。じょうもん時代の人たちは、クリの実を食べるだけでなく、木を大切にそだてて、たてものにもつかっていたのですね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q911970"
+}

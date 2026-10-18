@@ -1,0 +1,59 @@
+{
+  "id": "tekijuku",
+  "title": "適塾（緒方洪庵旧宅）",
+  "titleEn": "Tekijuku (Ogata Koan's School)",
+  "kana": "てきじゅく",
+  "type": "school",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "緒方洪庵が開き福沢諭吉らが学んだ蘭学の私塾",
+  "description": "適塾は、江戸時代後期の医師で蘭学者の緒方洪庵が、大坂に開いた私塾です。1838年に開かれ、のちに現在の北浜の地に移りました。全国から多くの若者が集まり、オランダ語の医学書などを通じて西洋の学問を学びました。ここからは福沢諭吉や大村益次郎、橋本左内など、幕末から明治にかけて活躍する人物が育っています。建物は江戸時代の町家で、緒方洪庵旧宅及塾として国の史跡に、また重要文化財にも指定されています。蘭学塾の建物が今に残る貴重な例で、現在は大阪大学が管理しています。",
+  "descriptionEn": "Tekijuku was a private school of Western learning opened in Osaka in 1838 by the physician and Dutch-studies scholar Ogata Koan. Young people from across Japan came here to study medicine and other subjects through Dutch books, and its students included Fukuzawa Yukichi, Omura Masujiro and Hashimoto Sanai, who went on to shape the late Edo and Meiji eras. The building, an Edo-period townhouse in the Kitahama business district, is a National Historic Site and Important Cultural Property, and is maintained by Osaka University.",
+  "kidsDescription": "てきじゅくは、えどじだいのおいしゃさん、おがたこうあんがひらいたじゅくです。オランダのことばで書かれた本をつかって、いがくなどをべんきょうしました。むかしの一万円さつのかおになっていた、ふくざわゆきちも、ここで学びました。",
+  "highlights": [
+    "ビル街に残る江戸の町家",
+    "塾生が暮らした二階の大部屋",
+    "辞書を置いたヅーフ部屋"
+  ],
+  "prefecture": "大阪府",
+  "city": "北浜",
+  "lat": 34.6912,
+  "lng": 135.503,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Tekijuku_01.JPG/960px-Tekijuku_01.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Tekijuku_01.JPG/330px-Tekijuku_01.JPG",
+    "author": "by Reggaeman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tekijuku_01.JPG"
+  },
+  "chapters": [
+    {
+      "title": "緒方洪庵と適塾",
+      "text": "緒方洪庵は、江戸時代の後期に活躍した医師であり、蘭学者です。蘭学とは、オランダ語を通じて西洋の学問を学ぶことです。洪庵は大坂や江戸、長崎で学んだのち、1838年に大坂で医者を開業するとともに、塾を開きました。これが適塾です。塾の名は、洪庵の号である適々斎に由来します。塾生が増えて手狭になったため、1845年に現在の場所へ移りました。洪庵は、天然痘を防ぐ種痘を広めるなど、多くの人の命を救うことにも力を尽くしました。",
+      "titleEn": "Ogata Koan and His School",
+      "textEn": "Ogata Koan was a physician and scholar of rangaku, the study of Western learning through the Dutch language. After studying in Osaka, Edo and Nagasaki, he opened a medical practice and a school in Osaka in 1838, naming it after his pen name, Tekitekisai, and moved it to the present site in 1845 as student numbers grew. Koan also worked to save lives by spreading smallpox vaccination."
+    },
+    {
+      "title": "若者たちの学び舎",
+      "text": "適塾には、全国から志をもった若者が集まりました。塾生は、数の限られたオランダ語の辞書を奪い合うように使い、夜遅くまで原書を読み解いたといわれます。成績のよい人から寝起きする場所を選べたといわれるなど、厳しくも自由な雰囲気の中で、互いに競い合って学びました。ここで学んだ人の中には、のちに慶應義塾を開く福沢諭吉、日本の近代的な軍制の基礎を築いた大村益次郎、幕末の福井藩で活躍した橋本左内などがいます。福沢は、のちに自伝の中で適塾での日々を生き生きと語っています。",
+      "titleEn": "A School for Young People",
+      "textEn": "Ambitious young people gathered here from all over Japan, competing for the few Dutch dictionaries and reading original texts late into the night. In a strict yet free atmosphere where top students reportedly chose their sleeping spots first, they pushed one another to learn. Its students included Fukuzawa Yukichi, founder of Keio Gijuku, Omura Masujiro, who laid the foundations of Japan's modern army, and Hashimoto Sanai of the Fukui domain, and Fukuzawa later described his days here vividly in his autobiography."
+    },
+    {
+      "title": "町家に残る学びのあと",
+      "text": "適塾の建物は、大阪のビル街の中に残る、江戸時代の町家です。周りの高いビルと比べると、瓦屋根をのせた木造の建物の落ち着いた姿が、ひときわ目を引きます。建物の中には、洪庵の家族が暮らした部屋や、塾生が寝起きしながら学んだ二階の大部屋、オランダ語の辞書が置かれていたヅーフ部屋などが残されています。大部屋の柱には、塾生がつけたと伝わる刀傷も残っています。ここで、のちに日本の近代を担う若者たちが学んでいた様子を思い浮かべてみてください。",
+      "titleEn": "Traces of Learning in the Townhouse",
+      "textEn": "Tekijuku is an Edo-period townhouse that survives among the office buildings of central Osaka, its tiled roof and wooden walls standing out against the towers around it. Inside are the rooms where Koan's family lived, the large second-floor room where students lived and studied, and the Doeff room where the Dutch dictionary was kept. A pillar in the large room still bears sword marks said to have been left by students.",
+      "localOnly": true
+    },
+    {
+      "title": "じしょをとりあう学生たち",
+      "text": "てきじゅくには、オランダごのじしょが、すこししかありませんでした。だから学生たちは、じしょがおいてあるへやに、夜おそくまでかわるがわるやってきて、ひっしにしらべたといわれています。いまならインターネットで、すぐにしらべられますね。きみなら、どんなふうにべんきょうしますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1049405"
+}

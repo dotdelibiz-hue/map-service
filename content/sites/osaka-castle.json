@@ -1,0 +1,60 @@
+{
+  "id": "osaka-castle",
+  "title": "大阪城（大坂城跡）",
+  "titleEn": "Osaka Castle",
+  "kana": "おおさかじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "秀吉が築き徳川が再建した天下の名城",
+  "description": "大坂城跡は、大阪市の中心部、大阪城公園に広がる城跡で、国の特別史跡に指定されています。1583年、豊臣秀吉が浄土真宗の本願寺があった場所に築城を始め、天下統一の拠点としました。豊臣家は1615年の大坂夏の陣で滅び、城も焼け落ちます。その後、江戸幕府が豊臣時代の城を埋め、その上に新しい城を築きました。現在見られる高い石垣や広い堀の多くは、この徳川時代のものです。大手門や千貫櫓など江戸時代の建物が残り、天守閣は1931年に市民の寄付によって再建されたものです。",
+  "descriptionEn": "The Osaka Castle ruins, now Osaka Castle Park in the heart of the city, are a Special Historic Site. Toyotomi Hideyoshi began building the castle in 1583 on the former site of the Hongan-ji temple, making it the base of his rule over Japan. After the Toyotomi family fell in the Summer Siege of Osaka in 1615, the Tokugawa shogunate buried the old castle and built a new one on top, and most of the towering stone walls and wide moats seen today date from that time. Several Edo-period gates and turrets survive, while the main keep was rebuilt in 1931 with donations from citizens.",
+  "kidsDescription": "大阪城は、とよとみひでよしがつくったお城です。いま見られる石がきの多くは、そのあととくがわけがつくりなおしたものです。お城には、たたみ何十まいぶんもある大きな石がつかわれています。てんしゅかくにのぼると、大阪のまちが見わたせます。",
+  "highlights": [
+    "そびえる石垣と広い堀",
+    "大手門と千貫櫓",
+    "桜門の枡形にある巨石の蛸石"
+  ],
+  "prefecture": "大阪府",
+  "city": "大阪城",
+  "lat": 34.687222,
+  "lng": 135.525833,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/330px-Osaka_Castle_02bs3200.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg"
+  },
+  "chapters": [
+    {
+      "title": "秀吉の大坂城",
+      "text": "大坂城のある上町台地には、戦国時代、浄土真宗の本願寺がありました。本願寺は織田信長と長く戦いましたが、やがてこの地を去ります。その跡に、1583年から城を築いたのが豊臣秀吉です。秀吉の城は、金箔の瓦で飾られた天守をもつ壮大なもので、天下統一を進める秀吉の力を示していました。しかし秀吉の死後、豊臣家と徳川家康の対立が深まり、1614年の冬の陣と1615年の夏の陣、二度にわたる大坂の陣が起こります。夏の陣で城は落ち、豊臣家は滅びました。",
+      "titleEn": "Hideyoshi's Osaka Castle",
+      "textEn": "During the Warring States period the Uemachi plateau was home to Hongan-ji, a Buddhist temple that fought Oda Nobunaga for years before leaving the site. From 1583 Toyotomi Hideyoshi built a magnificent castle here, with a keep decorated with gold-leafed roof tiles that displayed his power. After his death, conflict between the Toyotomi and Tokugawa Ieyasu led to the Winter Siege of 1614 and the Summer Siege of 1615, when the castle fell and the Toyotomi family was destroyed."
+    },
+    {
+      "title": "徳川の再建と今の天守閣",
+      "text": "豊臣家が滅んだあと、江戸幕府は1620年から大坂城の再建に取りかかりました。豊臣時代の石垣や堀を土で埋め、その上に、より高い石垣を築くという大工事でした。工事は全国の大名に分担させて進められ、巨大な石が各地から運ばれました。徳川の天守は江戸時代の前半に落雷で焼け、その後は再建されませんでした。今の天守閣は1931年、大阪の人々の寄付によって、豊臣時代の天守を参考に建てられたものです。その天守閣も、今では登録有形文化財になっています。",
+      "titleEn": "Tokugawa Rebuilding and the Modern Keep",
+      "textEn": "From 1620 the Tokugawa shogunate rebuilt Osaka Castle, burying the Toyotomi walls and moats under earth and raising even higher stone walls on top, with the work divided among lords from across Japan who brought enormous stones from many regions. The Tokugawa keep burned after a lightning strike in the first half of the Edo period and was never rebuilt. The present keep was built in 1931 with donations from the people of Osaka, modeled on the Toyotomi-era keep, and is itself now a Registered Tangible Cultural Property."
+    },
+    {
+      "title": "城跡で見たいもの",
+      "text": "城跡を歩くと、まずその石垣の高さと堀の広さに驚かされるでしょう。大手門をくぐった先の枡形には、大きな石が組み込まれています。さらに本丸へ向かう桜門の枡形には、蛸石と呼ばれる城内で最大の石があり、その大きさは畳三十枚分を超えるほどです。堀に沿って、千貫櫓や乾櫓など、江戸時代から残る櫓も見ることができます。天守閣の展望台に上れば、大阪の街並みとともに、城を幾重にも守る堀の形がよく分かります。",
+      "titleEn": "Highlights at the Site",
+      "textEn": "Walking the grounds, you will be struck by the height of the stone walls and the width of the moats. Huge stones are set into the walls of the gate enclosures beyond the Otemon Gate, and at the Sakuramon Gate leading to the inner bailey is Takoishi, the largest stone in the castle, with a face larger than thirty tatami mats. Along the moats stand original Edo-period turrets such as the Sengan and Inui turrets, and from the keep's observation deck you can see the layered moats that protected the castle.",
+      "localOnly": true
+    },
+    {
+      "title": "大きな石をさがそう",
+      "text": "大阪城の石がきには、とても大きな石がつかわれています。いちばん大きい石は、たこいしとよばれ、たたみ30まいよりもっとひろい大きさです。こんなに大きな石を、むかしの人はどうやってはこんだのでしょう。トラックもクレーンもないじだいの人たちのくふうを、そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q321242"
+}
