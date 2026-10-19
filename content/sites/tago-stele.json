@@ -1,0 +1,59 @@
+{
+  "id": "tago-stele",
+  "title": "多胡碑",
+  "titleEn": "Tago Stele",
+  "kana": "たごひ",
+  "type": "other",
+  "eras": [
+    "奈良時代"
+  ],
+  "summary": "1300年前の郡の誕生を刻む、上野三碑の一つ",
+  "description": "多胡碑は、奈良時代の711年に、上野国に新しく多胡郡がつくられたことを記念して建てられた石碑です。碑文には、近くの三つの郡から300戸を分けて新しい郡とし、羊と呼ばれる人物に治めさせたことなどが、80字ほどの漢字で刻まれています。力強い文字は書の手本としても古くから高く評価されてきました。近くにある山上碑、金井沢碑とともに上野三碑と呼ばれ、2017年にはユネスコの世界の記憶に登録されています。国の特別史跡に指定された、古代の歴史を伝える大変貴重な石碑です。",
+  "descriptionEn": "The Tago Stele was erected to commemorate the creation of Tago District in Kozuke Province in 711, during the Nara period. Its roughly 80 carved characters record that 300 households from three neighboring districts were combined into a new district governed by a man called Hitsuji. Long admired as a model of calligraphy, it is one of the Three Stelae of Kozuke, which were added to UNESCO's Memory of the World Register in 2017.",
+  "kidsDescription": "多胡碑は、いまからおよそ1300年前に立てられた石のひです。あたらしい郡という地いきができたことを、石にきざんでのこしました。文字の中に、羊という字が出てくるのがおもしろいところです。むかしの人がきざんだ文字を、いまも見ることができます。",
+  "highlights": [
+    "約80字が刻まれた古代の碑文",
+    "碑の上にのる笠石",
+    "上野三碑を学べる記念館"
+  ],
+  "prefecture": "群馬県",
+  "city": "高崎市",
+  "lat": 36.265,
+  "lng": 138.996333,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Monument_of_Tago_%28Tagohi%29.jpg/960px-Monument_of_Tago_%28Tagohi%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Monument_of_Tago_%28Tagohi%29.jpg/330px-Monument_of_Tago_%28Tagohi%29.jpg",
+    "author": "文屋将監",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monument_of_Tago_(Tagohi).jpg"
+  },
+  "chapters": [
+    {
+      "title": "碑に刻まれた郡の誕生",
+      "text": "たご碑が建てられたのは、平城京に都が移されて間もない、奈良時代の初めのことです。碑文によれば、711年、朝廷の命令によって、こうずけの国の三つの郡から300戸を分けて、新しくたご郡がつくられました。碑文には、この命令にかかわった朝廷の高官たちの名前も記されています。地方に新しい郡が生まれたことを、これほどはっきりと記録した石碑は珍しく、古代の国の仕組みを知るうえで欠かせない資料となっています。",
+      "titleEn": "A New District",
+      "textEn": "The stele dates from the early Nara period, shortly after the capital moved to Heijo-kyo. According to its text, in 711 an order from the imperial court created Tago District by taking 300 households from three existing districts of Kozuke Province, and it even names the high officials involved. Few stones record the birth of a district so clearly, making it an essential source on how ancient Japan was governed."
+    },
+    {
+      "title": "羊とはだれか",
+      "text": "たご碑の碑文で、昔から人々の関心を集めてきたのが、羊という一文字です。新しい郡を羊に治めさせた、と読めることから、羊は人の名前だと考えられています。この地域には、朝鮮半島から渡ってきた人々が多く暮らしていたとされ、羊もそうした渡来系の人物だったのではないかという説があります。ただし、羊がどのような人物だったのかを示す確かな記録は残っていません。たった一文字が、今も研究者や訪れる人の想像をかき立てているのです。",
+      "titleEn": "Who Was Hitsuji?",
+      "textEn": "One character in the inscription has long fascinated people: hitsuji, meaning sheep. Because the text says the new district was entrusted to Hitsuji, it is generally read as a person's name, and some suggest he was one of the many immigrants from the Korean Peninsula who lived in the area. No reliable record tells us who he really was, so this single character still sparks the imagination of scholars and visitors."
+    },
+    {
+      "title": "碑の前で見てほしいこと",
+      "text": "碑の前に立ったら、まず石の形に注目してください。文字が刻まれた本体の上に、笠のような石が載せられています。そして、6行に並んだ文字の力強さを感じてみましょう。1300年もの長い時を越えて残ってきた文字は、太く、のびのびとした書きぶりで、書の世界でも高く評価されています。碑は覆屋の中で大切に守られています。近くの記念館では、上野三碑についての資料が展示されているので、あわせて訪れると碑文の内容がよりよくわかります。",
+      "titleEn": "At the Stele",
+      "textEn": "Standing before the stele, notice its shape: a hat-like capstone sits atop the inscribed pillar. Then take in the bold, generous strokes of the characters arranged in six lines, which have endured some 1300 years and are highly valued in the world of calligraphy. The stele is carefully protected inside a shelter, and the nearby memorial hall offers exhibits on the Three Stelae of Kozuke that help you understand the inscription.",
+      "localOnly": true
+    },
+    {
+      "title": "石にきざんだお知らせ",
+      "text": "むかしは、紙はとても大切なものでした。そこで、ずっとのこしたい大事なことは、石にきざむこともありました。多胡碑には、あたらしい郡ができたというお知らせがきざまれています。1300年たっても、文字はちゃんと読めるのですよ。もしあなたが石に文字をのこすなら、どんなことを書きますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11431029"
+}

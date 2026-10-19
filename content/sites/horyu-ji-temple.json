@@ -1,0 +1,59 @@
+{
+  "id": "horyu-ji-temple",
+  "title": "法隆寺",
+  "titleEn": "Horyu-ji",
+  "kana": "ほうりゅうじ",
+  "type": "temple",
+  "eras": [
+    "飛鳥時代"
+  ],
+  "summary": "世界最古の木造建築群が残る聖徳太子ゆかりの寺",
+  "description": "法隆寺は、奈良県斑鳩町にある寺院で、聖徳太子ゆかりの寺として知られています。7世紀の初めに、聖徳太子と推古天皇によって創建されたと伝えられています。金堂や五重塔などが立つ西院伽藍は、現存する世界最古の木造建築群とされ、飛鳥時代の様式を今に伝えています。夢殿を中心とする東院伽藍とともに、数多くの国宝や重要文化財を伝えています。1993年には、法隆寺地域の仏教建造物として、姫路城とともに日本で初めての世界文化遺産に登録されました。旧境内は国の史跡に指定されています。",
+  "descriptionEn": "Horyu-ji in Ikaruga, Nara, is a temple closely linked with Prince Shotoku and is said to have been founded in the early 7th century by the prince and Empress Suiko. Its Western Precinct, with the Main Hall and Five-story Pagoda, is regarded as the oldest surviving group of wooden buildings in the world and preserves the architectural style of the Asuka period. Together with the Eastern Precinct centered on the octagonal Yumedono hall, it holds a great many National Treasures, and in 1993 it became one of Japan's first World Cultural Heritage Sites.",
+  "kidsDescription": "ほうりゅうじは、ならけんにあるお寺です。しょうとくたいしが、かかわってつくったといわれています。いまのたてものは、1300年いじょうまえにたてられたもので、木でできたたてものとしては、せかいでいちばんふるいといわれています。",
+  "highlights": [
+    "世界最古の木造の五重塔と金堂",
+    "柱にふくらみのある中門と回廊",
+    "東院伽藍の八角形の夢殿"
+  ],
+  "prefecture": "奈良県",
+  "city": "斑鳩町",
+  "lat": 34.614444,
+  "lng": 135.734167,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Horyu-ji45s2s4500.jpg/960px-Horyu-ji45s2s4500.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Horyu-ji45s2s4500.jpg/330px-Horyu-ji45s2s4500.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horyu-ji45s2s4500.jpg"
+  },
+  "chapters": [
+    {
+      "title": "聖徳太子と法隆寺",
+      "text": "法隆寺は、7世紀の初めに、聖徳太子と推古天皇によって建てられたと伝えられています。金堂に安置された薬師如来の像の背には、607年に造られたと読める文字が刻まれています。聖徳太子は仏教を厚く信じ、仏教を日本に広めることに力を尽くした人物とされています。太子は斑鳩に宮を構え、そのそばに寺を建てました。法隆寺は斑鳩寺とも呼ばれ、1400年以上にわたって、祈りの場として受け継がれてきました。",
+      "titleEn": "Prince Shotoku and Horyu-ji",
+      "textEn": "Horyu-ji is said to have been built in the early 7th century by Prince Shotoku and Empress Suiko, and an inscription on the back of the Yakushi Buddha in the Main Hall can be read as dating its making to 607. Prince Shotoku is remembered as a devoted Buddhist who worked to spread the faith in Japan; he built his palace at Ikaruga and founded the temple beside it. Also called Ikaruga-dera, it has been a place of prayer for more than 1,400 years."
+    },
+    {
+      "title": "再建の謎と文化財を守る心",
+      "text": "日本書紀には、670年に法隆寺が焼けたという記録があります。今の建物が創建当時のものか、焼けたあとに建て直されたものかについては、長い間議論が続きました。のちに、境内の南東から、今の伽藍より古い寺の跡、若草伽藍が見つかり、現在の西院伽藍は再建されたものと考えられるようになりました。それでも、世界最古の木造建築群であることに変わりはありません。また1949年には金堂で火災が起こり、壁画が大きな被害を受けました。これをきっかけに、文化財を守るための法律が作られました。",
+      "titleEn": "The Rebuilding Debate and Protecting Heritage",
+      "textEn": "The ancient chronicle Nihon Shoki records that Horyu-ji burned in 670, and scholars long debated whether the present buildings were original or rebuilt. The discovery of an older temple site, the Wakakusa Garan, southeast of the present precinct led to the view that the Western Precinct was rebuilt, though it remains the oldest group of wooden buildings in the world. In 1949 a fire in the Main Hall badly damaged its wall paintings, prompting Japan's law for the protection of cultural properties."
+    },
+    {
+      "title": "伽藍を歩いて",
+      "text": "南大門をくぐって参道を進むと、西院伽藍の中門が見えてきます。中門や回廊の柱をよく見ると、真ん中あたりが少しふくらんでいることに気づくでしょう。これは、古い時代の建物に見られる特徴です。回廊に囲まれた中には、右手に金堂、左手に五重塔が並んでいます。屋根の下で、雲のような形に彫られた組物にも注目してください。そこから東へ歩くと、八角形の夢殿が立つ東院伽藍があります。千年を超える時を経た木の色合いを、ゆっくり味わってください。",
+      "titleEn": "Walking Through the Temple",
+      "textEn": "Beyond the Great South Gate, the approach leads to the Middle Gate of the Western Precinct, where the columns of the gate and corridors swell slightly in the middle, a feature of very early buildings. Inside the corridors, the Main Hall stands on the right and the Five-story Pagoda on the left; look up at the cloud-shaped brackets beneath their eaves. Walking east, you reach the Eastern Precinct with the octagonal Yumedono hall.",
+      "localOnly": true
+    },
+    {
+      "title": "ふくらんだはしら",
+      "text": "ほうりゅうじの門のはしらをよく見ると、まんなかがちょっぴりふくらんでいます。これは、とてもふるいじだいのたてものに見られる形です。1300年いじょうもたおれずに立ちつづけている木のたてものは、せかいでもめずらしいのです。どうしてこんなに長もちしたのか、かんがえながら、そっとながめてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q261932"
+}

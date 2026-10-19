@@ -1,0 +1,61 @@
+{
+  "id": "tottori-castle",
+  "title": "鳥取城跡",
+  "titleEn": "Tottori Castle Ruins",
+  "kana": "とっとりじょう",
+  "type": "castle",
+  "eras": [
+    "戦国時代",
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "秀吉の兵糧攻めで知られる久松山の城",
+  "description": "鳥取市の久松山とそのふもとに築かれた城の跡で、羽柴秀吉の陣跡である太閤ヶ平とあわせて国の史跡に指定されています。戦国時代の1581年、秀吉は城を囲んで食料を断つ兵糧攻めを行い、城を守った吉川経家は城兵の命と引きかえに自害しました。江戸時代には池田氏が治める鳥取藩の政治の中心となりました。現在は山上からふもとの二の丸まで石垣が残り、球面のような形の巻石垣や、復元された擬宝珠橋と中ノ御門、明治時代の洋館である仁風閣など、時代ごとの姿を見ることができます。",
+  "descriptionEn": "The ruins of Tottori Castle stretch from the summit of Mt. Kyushozan down to its foot and are designated a National Historic Site together with Taikogana-ru, the siege camp of Hashiba (Toyotomi) Hideyoshi. In 1581 Hideyoshi starved the castle into surrender, and its commander Kikkawa Tsuneie took his own life to spare his men. In the Edo period it was the seat of the Ikeda lords of Tottori Domain, and today you can see layered stone walls, the restored Giboshi Bridge and Nakanomon Gate, and the Western-style Jinpukaku mansion.",
+  "kidsDescription": "とっとりじょうは、きゅうしょうざんという山にたてられたおしろのあとです。むかし、とよとみひでよしがおしろをぐるりとかこんで、たべものがはいらないようにするたたかいをしました。いまは、りっぱないしがきや、きれいな木のはしを見ることができます。",
+  "highlights": [
+    "天球丸の巻石垣",
+    "擬宝珠橋と中ノ御門",
+    "明治の洋館・仁風閣"
+  ],
+  "prefecture": "鳥取県",
+  "city": "鳥取市",
+  "lat": 35.5074,
+  "lng": 134.24,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tottori_castle04_2816.jpg/960px-Tottori_castle04_2816.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tottori_castle04_2816.jpg/330px-Tottori_castle04_2816.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tottori_castle04_2816.jpg"
+  },
+  "chapters": [
+    {
+      "title": "久松山に築かれた城",
+      "text": "鳥取城は、鳥取市の中心にそびえる久松山に築かれた城です。戦国時代に因幡の国を治めた山名氏が城を構えたのが始まりとされ、やがて山の上の山城と、ふもとの屋敷や石垣が一体となった大きな城へと整えられていきました。江戸時代になると池田氏が鳥取藩の藩主となり、明治時代まで政治の中心として使われました。山の上と下に広がる城跡からは、戦国時代の山城から江戸時代の城へと移り変わっていく姿を読み取ることができます。",
+      "titleEn": "A Castle on Mt. Kyushozan",
+      "textEn": "Tottori Castle was built on Mt. Kyushozan in the heart of the city. It is said to have begun as a stronghold of the Yamana clan, who ruled Inaba Province in the Sengoku period, and it later grew into a large castle combining a mountaintop fortress with residences and stone walls at the foot. In the Edo period the Ikeda family ruled Tottori Domain from here until the Meiji era."
+    },
+    {
+      "title": "鳥取の渇え殺し",
+      "text": "1581年、織田信長の命を受けた羽柴秀吉は、大軍で鳥取城を取り囲みました。秀吉は城に食料が届かないように道を断ち、城の東の山に本陣を置いて、長い包囲を続けました。この陣の跡が、いまも太閤ヶ平として残っています。城を守っていた吉川経家は、食べ物が尽きて苦しむ城兵たちを救うため、自らの命と引きかえに城を明け渡しました。この戦いは鳥取の渇え殺しと呼ばれ、戦国時代の厳しさを今に伝えています。",
+      "titleEn": "The Starvation Siege of Tottori",
+      "textEn": "In 1581, acting on Oda Nobunaga's orders, Hashiba Hideyoshi surrounded Tottori Castle with a huge army, cut off its food supply and set up his headquarters on a hill to the east, now known as Taikogana-ru. The defending commander, Kikkawa Tsuneie, surrendered the castle and took his own life so that his starving soldiers could live. The siege is remembered as one of the harshest episodes of the Sengoku period."
+    },
+    {
+      "title": "城跡を歩いて見たいもの",
+      "text": "城跡を訪れたら、まずお堀にかかる擬宝珠橋と、その先の中ノ御門に注目してください。どちらも古い絵図や発掘調査をもとに、木造で復元されたものです。二の丸の上にある天球丸では、石垣の角を丸く包みこむような巻石垣という珍しい石垣を見ることができます。山のふもとに建つ白い洋館は仁風閣で、明治時代に皇太子を迎えるために建てられました。時間と体力があれば久松山の山頂まで登り、鳥取の町並みを見渡してみるのもおすすめです。",
+      "titleEn": "What to See Around the Castle",
+      "textEn": "Start with the Giboshi Bridge over the moat and the Nakanomon Gate beyond it, both rebuilt in wood based on old drawings and excavations. Above the second bailey, at Tenkyumaru, look for the unusual makiishigaki, a rounded stone wall that wraps around the corner of an older wall. The white Western-style building at the foot of the hill is Jinpukaku, built in the Meiji era to host the Crown Prince, and if you have the energy, climb to the summit for a view over the city.",
+      "localOnly": true
+    },
+    {
+      "title": "おしろをかこんだたたかい",
+      "text": "むかし、とよとみひでよしは、とっとりじょうのまわりをぐるりとかこんで、おしろにたべものがとどかないようにしました。おなかがすいてこまった人たちをたすけるため、おしろのたいしょうは、じぶんのいのちとひきかえに、みんなのいのちをすくいました。もしきみがおしろのたいしょうだったら、どうしたとおもいますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1073699"
+}

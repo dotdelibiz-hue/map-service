@@ -1,0 +1,60 @@
+{
+  "id": "moto-sakura-castle",
+  "title": "本佐倉城跡",
+  "titleEn": "Moto-Sakura Castle Ruins",
+  "kana": "もとさくらじょう",
+  "type": "castle",
+  "eras": [
+    "室町時代",
+    "戦国時代"
+  ],
+  "summary": "下総の名族・千葉氏が約100年本拠とした城",
+  "description": "本佐倉城跡は、下総国を中心に勢力を持った千葉氏が、戦国時代におよそ100年にわたって本拠とした城の跡です。15世紀の後半に千葉氏によって築かれ、印旛沼に近い台地の上に、いくつもの曲輪が空堀や土塁で区切られて配置されています。1590年に千葉氏が北条氏とともに没落した後、城は江戸時代の初めに廃城となり、近くに新たに佐倉城が築かれました。城跡には大規模な空堀や土塁がよく残っており、戦国時代の土の城のつくりを実感できる貴重な場所です。酒々井町と佐倉市にまたがって広がっています。",
+  "descriptionEn": "Moto-Sakura Castle was the main stronghold of the Chiba clan, a powerful warrior family of Shimousa Province, for about a century during the Sengoku period. Built in the late 15th century on a plateau near Lake Inba, it consisted of many enclosures separated by dry moats and earthen ramparts. After the Chiba clan fell along with the Hojo in 1590, the castle was abandoned in the early Edo period and replaced by the new Sakura Castle nearby. Its large moats and earthworks remain in good condition across the town of Shisui and the city of Sakura.",
+  "kidsDescription": "本佐倉城は、千葉氏というぶしの一族が、せんごくじだいにすんでいたお城のあとです。石がきや天守はありませんが、土をほったり、もりあげたりしてつくった、大きなほりやどてがのこっています。森の中を歩いて、むかしのお城をそうぞうしてみましょう。",
+  "highlights": [
+    "深く大きな空堀",
+    "曲輪を囲む土塁",
+    "台地の上に広がる曲輪群"
+  ],
+  "prefecture": "千葉県",
+  "city": "佐倉市",
+  "lat": 35.727536,
+  "lng": 140.259008,
+  "special": false,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Motosakura_castle.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Motosakura_castle.jpg",
+    "author": "1688",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Motosakura_castle.jpg"
+  },
+  "chapters": [
+    {
+      "title": "千葉氏の本拠地",
+      "text": "もと佐倉城を築いたのは、平安時代の終わりごろから、しもうさの国で大きな力を持った千葉氏です。千葉氏は、もともと今の千葉市のあたりを本拠としていましたが、室町時代に一族の争いが起こり、その後、15世紀の後半にこの地に新たな城を築いて移りました。それから1590年までのおよそ100年間、もと佐倉城は千葉氏の本拠地として、政治や軍事の中心となりました。城の周りには家臣の屋敷や町が広がり、この地域の中心として栄えたと考えられています。",
+      "titleEn": "Home of the Chiba Clan",
+      "textEn": "Moto-Sakura Castle was built by the Chiba clan, which had held great power in Shimousa Province since the late Heian period. The clan was originally based around present-day Chiba City, but after a family conflict in the Muromachi period it built this new castle in the late 15th century. For about a hundred years until 1590, it served as the clan's political and military center, with retainers' residences and a town around it."
+    },
+    {
+      "title": "戦国の荒波と廃城",
+      "text": "戦国時代、関東では小田原の北条氏が勢力を広げていきました。千葉氏は北条氏と深く結びつき、その勢力の一員として戦国の世を生き抜こうとしました。しかし1590年、豊臣秀吉が北条氏を攻めると、千葉氏も北条方として運命をともにし、大名としての千葉氏はここで終わりを迎えます。その後、この城には徳川家ゆかりの人々が入りましたが、江戸時代の初めに廃城となりました。新しく築かれた佐倉城と区別するため、もとの佐倉の城という意味で、もと佐倉城と呼ばれるようになりました。",
+      "titleEn": "Turbulent Times and Abandonment",
+      "textEn": "In the Sengoku period, the Hojo clan of Odawara expanded across Kanto, and the Chiba clan became closely tied to them. When Toyotomi Hideyoshi attacked the Hojo in 1590, the Chiba shared their fate, ending their rule as a daimyo family. The castle was later held by people connected to the Tokugawa but abandoned in the early Edo period, and it came to be called Moto-Sakura, meaning the original Sakura, to distinguish it from the newly built Sakura Castle."
+    },
+    {
+      "title": "土の城を歩く",
+      "text": "城跡を歩くと、石垣のない、土でつくられた戦国時代の城の姿がよくわかります。台地を削って平らにした曲輪がいくつも並び、その間を深い空堀が区切っています。空堀のそばに立って、その深さと幅を確かめてみてください。敵がここを越えようとすると、上の曲輪から攻撃を受ける仕組みになっていたことがわかるはずです。曲輪の縁に残る土塁や、出入り口の形にも注目しましょう。かつては周りに低い湿地が広がり、城を守る役割も果たしていたと考えられています。",
+      "titleEn": "Walking an Earthen Castle",
+      "textEn": "Walking the ruins reveals a Sengoku-era castle made of earth rather than stone. Flattened enclosures line the plateau, separated by deep dry moats; stand beside one to gauge its depth and width, and imagine attackers trying to cross under fire from above. Notice the earthen ramparts along the edges and the shapes of the entrances, and picture the low wetlands that once surrounded and protected the castle.",
+      "localOnly": true
+    },
+    {
+      "title": "土でつくったお城",
+      "text": "お城といえば、高い石がきや天守を思いうかべるかもしれません。でも、せんごくじだいの関東のお城は、土をほってつくったふかいほりや、土をもりあげたどてでまもるものが多かったのです。土なら、くふうしだいで強いまもりがつくれました。ほりのそばに立って、どのくらいふかいか、見てみましょう。のぼるのは、たいへんそうですか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11519850"
+}

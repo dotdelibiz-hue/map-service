@@ -1,0 +1,60 @@
+{
+  "id": "suo-kokubun-ji-temple",
+  "title": "周防国分寺",
+  "titleEn": "Suo Kokubun-ji Temple",
+  "kana": "すおうこくぶんじ",
+  "type": "temple",
+  "eras": [
+    "奈良時代",
+    "江戸時代"
+  ],
+  "summary": "創建時の寺域を今に伝える国分寺",
+  "description": "周防国分寺は、奈良時代に聖武天皇の命によって全国に建てられた国分寺の一つで、山口県防府市にあります。多くの国分寺が衰えて跡地だけになったなか、この寺は創建当時とほぼ同じ場所と寺域を保ちながら、今も寺として続いている珍しい例で、旧境内が国の史跡に指定されています。現在の金堂は1779年に長州藩主の毛利重就によって再建されたもので、国の重要文化財です。金堂には薬師如来坐像をはじめ、平安時代などの貴重な仏像が数多く伝わっています。",
+  "descriptionEn": "Suo Kokubun-ji in Hofu City is one of the provincial temples built across Japan in the Nara period by order of Emperor Shomu. Unlike most such temples, which declined into empty sites, it still functions as a temple on nearly the same grounds as when it was founded, and its former precincts are a National Historic Site. The present Main Hall, an Important Cultural Property, was rebuilt in 1779 by the Choshu lord Mori Shigetaka, and it houses many valuable Buddhist statues, including a seated Yakushi Nyorai.",
+  "kidsDescription": "すおうこくぶんじは、1200年いじょうまえの、ならじだいにつくられたおてらです。ほかの国のこくぶんじは、ほとんどがあとだけになってしまいましたが、ここはいまもおてらとしてつづいています。大きなこんどうには、ふるいほとけさまがたくさんまつられています。",
+  "highlights": [
+    "江戸時代に再建された金堂",
+    "本尊の薬師如来坐像",
+    "境内の入口に立つ仁王門"
+  ],
+  "prefecture": "山口県",
+  "city": "防府市",
+  "lat": 34.062056,
+  "lng": 131.579361,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Suo_Kokubunji%2C_kondou.jpg/960px-Suo_Kokubunji%2C_kondou.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Suo_Kokubunji%2C_kondou.jpg/330px-Suo_Kokubunji%2C_kondou.jpg",
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suo_Kokubunji,_kondou.jpg"
+  },
+  "chapters": [
+    {
+      "title": "国ごとに建てられた寺",
+      "text": "奈良時代の741年、聖武天皇は、疫病や災害が続く世の中を仏教の力で安らかにしようと、国ごとに国分寺と国分尼寺を建てるよう命じました。周防国分寺は、そのとき周防の国に建てられた寺です。国分寺は、国の役所である国府の近くに置かれることが多く、周防国分寺も、周防の国府があった防府の地に建てられました。防府という地名も、周防の国府があったことに由来するといわれています。",
+      "titleEn": "A Temple for Every Province",
+      "textEn": "In 741, Emperor Shomu ordered every province to build a provincial temple and nunnery, hoping Buddhism would bring peace in an age of epidemics and disasters. Suo Kokubun-ji was built for Suo Province near the provincial government office. The city's name, Hofu, is said to come from the provincial government, or kokufu, of Suo."
+    },
+    {
+      "title": "受け継がれてきた寺",
+      "text": "全国の国分寺の多くは、時代とともに衰え、今では礎石などが残る跡地となっています。そのなかで周防国分寺は、長い歴史のなかで衰えた時期もありましたが、そのたびに再建や修理が行われ、寺としての歩みを続けてきました。現在の金堂は、江戸時代の1779年に長州藩主の毛利重就によって建てられたものです。1997年から2004年にかけての大規模な解体修理の際の調査で、奈良時代の金堂と同じ場所に建て直されてきたことが確かめられました。",
+      "titleEn": "A Temple That Endured",
+      "textEn": "Most of Japan's provincial temples declined over the centuries and survive only as sites with foundation stones. Suo Kokubun-ji, however, was rebuilt and repaired whenever it declined and has continued as a working temple. The present Main Hall was built in 1779 by the Choshu lord Mori Shigetaka, and investigations during major restoration work from 1997 to 2004 confirmed that it stands on the same spot as the original Nara-period hall."
+    },
+    {
+      "title": "境内で見てほしいもの",
+      "text": "境内に入ったら、まず仁王門をくぐり、その先にそびえる大きな金堂を見上げてください。江戸時代に建てられた仏堂としては規模が大きく、どっしりとした屋根が印象的です。金堂の中には、本尊の薬師如来坐像をはじめ、四天王像など多くの仏像がまつられています。また、境内が奈良時代とほぼ同じ広さで保たれていることを思いながら、門から金堂へと続く伽藍の配置にも目を向けてみてください。1200年以上の時の流れを感じられるはずです。",
+      "titleEn": "What to See in the Precinct",
+      "textEn": "Pass through the Nio Gate and look up at the great Main Hall beyond, large for an Edo-period Buddhist hall and crowned with a massive roof. Inside are many statues, including the principal image, a seated Yakushi Nyorai, and the Four Heavenly Kings. As you walk from the gate to the hall, remember that the precinct keeps almost the same extent as in the Nara period, linking you to more than 1,200 years of history.",
+      "localOnly": true
+    },
+    {
+      "title": "いまもつづくこくぶんじ",
+      "text": "ならじだいには、日本じゅうの国ごとに、こくぶんじというおてらがつくられました。でも、そのほとんどは、いまは、いしずえだけがのこるあとになっています。すおうこくぶんじは、むかしとおなじばしょで、いまもおてらとしてつづいている、めずらしいおてらなんですよ。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q10921114"
+}

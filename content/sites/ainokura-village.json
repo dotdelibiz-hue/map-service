@@ -1,0 +1,58 @@
+{
+  "id": "ainokura-village",
+  "title": "五箇山 相倉合掌造り集落",
+  "titleEn": "Ainokura Gassho-zukuri Village (Gokayama)",
+  "kana": "あいのくらしゅうらく",
+  "type": "other",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "山あいに合掌造りが寄り添う世界遺産の村",
+  "description": "越中五箇山相倉集落は、富山県南砺市の庄川沿いの山あいにある合掌造りの集落です。急な傾きの茅葺き屋根をもつ合掌造りの家々が20棟あまり残り、田畑や石垣、雪崩から村を守る背後の森とともに、昔ながらの山村の景観を伝えています。江戸時代には加賀藩の領地で、和紙づくりや養蚕、火薬の原料となる塩硝づくりが行われていました。1970年に国の史跡に指定され、1995年には白川郷や菅沼とともに白川郷・五箇山の合掌造り集落として世界遺産に登録されました。",
+  "descriptionEn": "Ainokura is a mountain village in Nanto, Toyama, where more than twenty steep-roofed thatched gassho-zukuri farmhouses survive among rice fields, stone walls and a protective forest. In the Edo period the area belonged to the Kaga domain and produced handmade paper, silk and saltpeter for gunpowder. It became a national historic site in 1970 and, together with Shirakawa-go and Suganuma, a World Heritage Site in 1995.",
+  "kidsDescription": "あいのくらは、やまのなかにある、がっしょうづくりのいえがならぶむらです。がっしょうづくりは、てをあわせたような、とんがったかやぶきやねのいえのことです。ゆきがたくさんふっても、やねからすべりおちるように、くふうされています。せかいいさんにもなっています。",
+  "highlights": [
+    "合掌造りの家並み",
+    "集落を見渡す展望所",
+    "相倉民俗館の暮らしの道具"
+  ],
+  "prefecture": "富山県",
+  "city": "南砺市",
+  "lat": 36.425,
+  "lng": 136.9333,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ainokura_in_Gokayama_area.jpg/960px-Ainokura_in_Gokayama_area.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ainokura_in_Gokayama_area.jpg/330px-Ainokura_in_Gokayama_area.jpg",
+    "author": "minque",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ainokura_in_Gokayama_area.jpg"
+  },
+  "chapters": [
+    {
+      "title": "山あいの合掌造りの村",
+      "text": "相倉集落は、庄川の流れに沿った五箇山の山あいにある村です。ここに建つ合掌造りの家は、手を合わせたような急な傾きの茅葺き屋根が特徴です。雪が多いこの土地で、屋根に雪が積もりにくいよう工夫された形だと考えられています。家の中の広い屋根裏は、かつて蚕を育てる場所として使われました。江戸時代には加賀藩の領地で、和紙づくりや、火薬の原料となる塩硝づくりが村の暮らしを支えていました。山深い土地だったため、加賀藩の流刑地とされた歴史もあります。",
+      "titleEn": "A Village of Gassho-zukuri Houses",
+      "textEn": "Ainokura lies in the Gokayama valleys along the Sho River, and its gassho-zukuri houses have steep thatched roofs shaped like hands joined in prayer. The steep shape suits this snowy region, and the large attic spaces were once used for raising silkworms. Under the Kaga domain in the Edo period, the village lived by making paper and saltpeter for gunpowder, and its remoteness also made it a place of exile for the domain."
+    },
+    {
+      "title": "みんなで守る屋根",
+      "text": "合掌造りの大きな茅葺き屋根は、数十年ごとに葺き替える必要があります。かつては、村の人々が力を合わせて作業する結と呼ばれる助け合いのしくみによって、屋根が守られてきました。茅を集め、古い茅を下ろし、新しい茅を厚く重ねていく作業は、今も地域の人々や多くの支援者によって受け継がれています。この村の美しい景観は、人々の協力によって保たれているのです。屋根の葺き替えは、村の大切な行事でもありました。",
+      "titleEn": "Roofs Kept by Many Hands",
+      "textEn": "The great thatched roofs must be replaced every few decades. In the past, villagers worked together through a mutual-aid custom called yui to rethatch each house. Today local residents and many supporters still carry on this work, and the village's beauty depends on that cooperation."
+    },
+    {
+      "title": "集落を歩いてみよう",
+      "text": "今いる相倉集落では、合掌造りの家々が田畑の間に点在しています。集落の上の高台にある展望所に上ると、山に囲まれた村全体を見渡すことができます。家々の屋根の向きがそろっていることにも注目してみてください。また、ところどころに見える小さな小屋には、火事に備える放水銃が納められています。ここは今も人々が暮らす村です。家の敷地や田畑には勝手に入らず、静かに見学しましょう。集落の中には、昔の暮らしの道具を展示する民俗館もあります。",
+      "titleEn": "Walking Through the Village",
+      "textEn": "Here the gassho-zukuri houses are scattered among the fields, and from the viewpoint on the slope above you can see the whole village ringed by mountains. Notice that the roofs face roughly the same direction, and look for the small huts that house water cannons for fighting fires. People still live here, so please explore quietly.",
+      "localOnly": true
+    },
+    {
+      "title": "やねのなかでなにをしていたの",
+      "text": "がっしょうづくりのいえの、おおきなやねのなかには、ひろいへやがあります。むかしのひとは、ここでなにをしていたとおもいますか。じつは、かいこというむしをそだてて、きぬのいとのもとをつくっていたんです。いえのなかのいろりのけむりが、やねをじょうぶにしてくれたともいわれています。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q66087933"
+}

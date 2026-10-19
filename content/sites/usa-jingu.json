@@ -1,0 +1,60 @@
+{
+  "id": "usa-jingu",
+  "title": "宇佐神宮",
+  "titleEn": "Usa Jingu Shrine",
+  "kana": "うさじんぐう",
+  "type": "shrine",
+  "eras": [
+    "奈良時代",
+    "平安時代"
+  ],
+  "summary": "全国に広がる八幡さまの総本宮",
+  "description": "宇佐神宮は、大分県宇佐市にある神社で、全国に数多くある八幡宮の総本宮です。八幡大神とされる応神天皇、比売大神、神功皇后をまつり、奈良時代の725年に現在の地に社殿が建てられたと伝えられます。古くから朝廷の厚い信仰を受け、奈良の大仏づくりを助けたことや、和気清麻呂が神のお告げを受けに訪れた出来事でも知られます。本殿は八幡造と呼ばれる独特の形式で、国宝に指定されています。また、神と仏をともにまつる神仏習合が早くから進んだ場所でもあり、境内には弥勒寺の跡も残ります。境内は国の史跡に指定されています。",
+  "descriptionEn": "Usa Jingu in Usa City, Oita Prefecture, is the head shrine of the many Hachiman shrines across Japan, enshrining Emperor Ojin as the deity Hachiman, along with Himeokami and Empress Jingu; its buildings are said to have been built here in 725. Long revered by the imperial court, it is known for supporting the building of the Great Buddha of Nara and for the oracle sought by Wake no Kiyomaro. Its main sanctuary, built in the distinctive Hachiman-zukuri style, is a National Treasure, and the grounds, which include the site of Miroku-ji temple, are a National Historic Site.",
+  "kidsDescription": "うさじんぐうは、日本中にたくさんある八幡さまのじんじゃの、いちばんもとになるじんじゃです。とても古くからあり、むかしの天皇もたいせつにしてきました。おまいりのしかたが少しかわっていて、手を4回たたくのがきまりです。",
+  "highlights": [
+    "国宝の八幡造の本殿",
+    "朱塗りの呉橋",
+    "弥勒寺の跡"
+  ],
+  "prefecture": "大分県",
+  "city": "豊前国",
+  "lat": 33.526019,
+  "lng": 131.374627,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Usa_Shrine_Nanchu_Romon.JPG/960px-Usa_Shrine_Nanchu_Romon.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Usa_Shrine_Nanchu_Romon.JPG/330px-Usa_Shrine_Nanchu_Romon.JPG",
+    "author": "ja:User:Sanjo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usa_Shrine_Nanchu_Romon.JPG"
+  },
+  "chapters": [
+    {
+      "title": "八幡信仰のふるさと",
+      "text": "宇佐神宮は、全国に広がる八幡宮の総本宮です。まつられているのは、八幡大神とされる応神天皇と、比売大神、そして神功皇后の三柱の神々です。奈良時代の725年に現在の地に社殿が建てられたと伝えられています。八幡の神は、国を守る神として朝廷から厚く信仰されました。奈良の東大寺に大仏がつくられた時には、八幡の神が大仏づくりを助けるというお告げを出し、都へ迎えられたことが知られています。こうして八幡信仰は全国へと広がり、各地に八幡宮がつくられていきました。",
+      "titleEn": "The Home of Hachiman Worship",
+      "textEn": "Usa Jingu is the head shrine of Hachiman shrines nationwide, honoring Emperor Ojin as the deity Hachiman, along with Himeokami and Empress Jingu. Its buildings are said to have been built here in 725. Hachiman was revered by the court as a protector of the nation, and when the Great Buddha of Todai-ji was made, Hachiman issued an oracle offering help and was welcomed to the capital, after which Hachiman worship spread across Japan."
+    },
+    {
+      "title": "和気清麻呂と神のお告げ",
+      "text": "奈良時代の終わりごろ、宇佐神宮をめぐって、国の行方を左右する出来事が起こりました。天皇の信頼を得た僧の道鏡を、天皇の位につけるべきだという神のお告げが宇佐から伝えられたのです。そこで朝廷は、本当の神の意志を確かめるため、和気清麻呂を宇佐へ使いとして送りました。清麻呂が持ち帰ったのは、天皇の位は皇族が継ぐべきだというお告げでした。これにより道鏡が天皇になることはありませんでした。このように宇佐神宮は、朝廷にとって特別な重みを持つ神社だったのです。",
+      "titleEn": "Wake no Kiyomaro and the Oracle",
+      "textEn": "In the late Nara period, an oracle said to come from Usa declared that the monk Dokyo, favored by the empress, should become emperor. The court sent Wake no Kiyomaro to Usa to confirm the deity's true will, and he returned with the message that the throne must pass to the imperial line. Dokyo never became emperor, showing how much weight Usa carried with the court."
+    },
+    {
+      "title": "境内をめぐって",
+      "text": "宇佐神宮の西の参道には、朱色に塗られた屋根付きの美しい橋、呉橋がかかっています。境内の参道を進んで石段を上ると、上宮の本殿にたどり着きます。本殿は八幡造と呼ばれる形式で、前と後ろの二つの建物が並んで一つの社殿になっているのが特徴です。三つの御殿が横に並ぶ姿を、ぜひ確かめてください。お参りのときは、二回礼をし、四回手を打ち、最後に一回礼をする、宇佐神宮ならではの作法があります。境内の一角には、かつて神と仏がともにまつられていたことを伝える弥勒寺の跡も残っています。",
+      "titleEn": "Exploring the Shrine Grounds",
+      "textEn": "On the western approach stands Kurebashi, a beautiful vermilion roofed bridge, and climbing the stone steps brings you to the upper shrine's main sanctuary. Built in the Hachiman-zukuri style, each sanctuary consists of front and rear buildings joined as one, and three of them stand side by side. Worship here follows a special form of two bows, four claps and one bow, and the site of Miroku-ji recalls the time when gods and buddhas were worshiped together.",
+      "localOnly": true
+    },
+    {
+      "title": "手を4回たたくおまいり",
+      "text": "ふつうのじんじゃでは、手を2回たたいておまいりすることが多いですね。でも、うさじんぐうでは、2回おじぎをして、手を4回たたき、さいごにもう1回おじぎをします。むかしからつたわる、とくべつなおまいりのしかたです。おまいりするときは、手の回数をかぞえながら、ためしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q715632"
+}

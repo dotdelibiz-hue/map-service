@@ -1,0 +1,59 @@
+{
+  "id": "takayama-jinya",
+  "title": "高山陣屋",
+  "titleEn": "Takayama Jinya",
+  "kana": "たかやまじんや",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "江戸幕府の役所の姿を今に伝える陣屋",
+  "description": "高山陣屋は、江戸幕府が飛騨国を直接治めるために置いた役所の跡です。1692年に飛騨が幕府の直轄地となったことで、高山藩主だった金森氏の屋敷が代官所として使われるようになり、1777年には格上げされて郡代役所となりました。明治維新の後も役所として使われ続け、1969年まで県の出先機関が置かれていました。江戸時代の役所の建物がまとまって残る例は全国でもほとんどなく、表門や江戸時代の米蔵、1816年に建て直された役所の建物などを見学することができます。",
+  "descriptionEn": "Takayama Jinya was the office through which the Tokugawa shogunate directly governed Hida Province after 1692, using a former residence of the Kanamori lords; in 1777 it was upgraded to the office of a regional governor. It continued as a government office after the Meiji Restoration, housing a prefectural branch until 1969. Few places in Japan preserve such a complete set of Edo-period government buildings, including the front gate, rice storehouses and offices rebuilt in 1816.",
+  "kidsDescription": "たかやまじんやは、えどじだいに、ひだのくにをおさめるためのやくしょがあったところです。いまでいう、けんちょうやさいばんしょのようなところでした。むかしのたてものがのこっていて、やくにんがしごとをしたへやや、おこめをしまったくらをみることができます。",
+  "highlights": [
+    "表門と役所の玄関",
+    "取り調べが行われた御白洲",
+    "江戸時代の大きな米蔵"
+  ],
+  "prefecture": "岐阜県",
+  "city": "高山市",
+  "lat": 36.1397,
+  "lng": 137.258,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Takayama_Jinya_inside_view_201706.jpg/960px-Takayama_Jinya_inside_view_201706.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Takayama_Jinya_inside_view_201706.jpg/330px-Takayama_Jinya_inside_view_201706.jpg",
+    "author": "Wpcpey",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takayama_Jinya_inside_view_201706.jpg"
+  },
+  "chapters": [
+    {
+      "title": "幕府の直轄地となった飛騨",
+      "text": "飛騨の国は、江戸時代のはじめ、金森氏が治める高山藩の領地でした。ところが1692年、金森氏が別の土地へ移されると、飛騨は幕府が直接治める土地となります。飛騨には豊かな森林や鉱山があり、幕府にとって大切な土地だったと考えられています。このとき、金森氏の屋敷が役所として使われることになり、これが高山陣屋の始まりです。1777年には、代官よりも格の高い郡代が置かれる郡代役所となりました。",
+      "titleEn": "Hida Under Direct Shogunate Rule",
+      "textEn": "In the early Edo period, Hida was ruled by the Kanamori lords of the Takayama domain. In 1692 the Kanamori were moved elsewhere and Hida came under direct shogunate control, valued for its rich forests and mines. A former Kanamori residence became the government office, and in 1777 it was raised to the office of a gundai, a higher-ranking regional governor."
+    },
+    {
+      "title": "役所として生き続けた建物",
+      "text": "高山陣屋では、年貢の取り立てや裁判、村々の取り締まりなど、飛騨の政治のすべてが行われました。今残る役所の建物の多くは、1816年に建て直されたものです。また、敷地にある大きな米蔵は、もとは高山城にあった蔵を1695年に移したものと伝えられています。明治維新の後も、陣屋の建物は役所として使われ続け、1969年まで県の出先機関が置かれていました。その後、江戸時代の図面をもとに復元工事が行われ、当時の姿がよみがえりました。",
+      "titleEn": "A Building That Kept Working",
+      "textEn": "All of Hida's governance, from tax collection to trials and village control, was handled here. Most of the surviving office buildings were rebuilt in 1816, and the large rice storehouses are said to have been moved from Takayama Castle in 1695. The complex served as a government office until 1969 and was later restored to its Edo-period appearance using old plans."
+    },
+    {
+      "title": "陣屋の中を歩く",
+      "text": "今いる高山陣屋では、まず表門をくぐり、正面の玄関を見てみましょう。中に入ると、役人たちが仕事をした部屋や、広い大広間が続いています。取り調べが行われた御白洲では、白い砂利の上に座らされた人々の様子を想像してみてください。敷地の奥にある米蔵は、年貢として集められた米を納めた建物で、その大きさに驚くはずです。陣屋の前の広場では朝市が開かれることもあり、昔から続く町の暮らしを感じることができます。",
+      "titleEn": "Inside the Jinya",
+      "textEn": "Pass through the front gate to the main entrance, then walk through the officials' rooms and the great hall. At the oshirasu, the white-gravel court where suspects were questioned, imagine the scenes that took place there. The huge rice storehouse at the back held rice collected as tax, and the square in front of the jinya hosts a morning market rooted in local life.",
+      "localOnly": true
+    },
+    {
+      "title": "おしらすってなあに",
+      "text": "たかやまじんやには、おしらすというばしょがあります。しろいじゃりがしいてあって、わるいことをしたうたがいのあるひとが、ここにすわらされて、やくにんにしらべられました。テレビのじだいげきで、みたことがあるかもしれませんね。ほんもののおしらすをみてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11669454"
+}

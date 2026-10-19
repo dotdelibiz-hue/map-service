@@ -1,0 +1,59 @@
+{
+  "id": "hizen-nagoya-castle",
+  "title": "名護屋城跡",
+  "titleEn": "Nagoya Castle Ruins (Hizen)",
+  "kana": "なごやじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代"
+  ],
+  "summary": "秀吉が朝鮮出兵の拠点に築いた巨大な城跡",
+  "description": "名護屋城は、豊臣秀吉が朝鮮半島への出兵の拠点として、玄界灘に面した東松浦半島の先に築いた城です。1591年に築城が始まり、わずか数か月で五重の天守を備えた城が姿を現しました。当時の城としては大坂城に次ぐ規模だったといわれます。城のまわりには全国から集められた大名たちの陣屋が百か所以上も置かれ、一帯は大きな町のようににぎわいました。秀吉の死後に出兵が終わると城は役目を終え、のちに石垣も壊されました。城跡と周辺の陣跡は国の特別史跡で、隣接する名護屋城博物館では日本と朝鮮半島の交流の歴史を紹介しています。",
+  "descriptionEn": "Nagoya Castle was built by Toyotomi Hideyoshi at the tip of the Higashimatsuura Peninsula as the base for his invasions of the Korean Peninsula. Construction began in 1591, and within months a castle with a five-story keep stood here, said to be second in size only to Osaka Castle, surrounded by more than a hundred camps of daimyo from across Japan. After Hideyoshi's death the invasions ended and the castle was later dismantled; the castle and camp sites are a Special Historic Site, and the adjacent museum presents the history of exchange between Japan and Korea.",
+  "kidsDescription": "なごやじょうは、とよとみひでよしが、海のむこうの朝鮮半島へ兵をおくるために作った大きなおしろです。まわりには、日本中から大名があつまって、町のようになりました。いまは石がきがのこっていて、高いところから海を見わたせます。",
+  "highlights": [
+    "玄界灘を望む天守台跡",
+    "崩された石垣の跡",
+    "周辺に残る大名の陣跡"
+  ],
+  "prefecture": "佐賀県",
+  "city": "唐津市",
+  "lat": 33.530316,
+  "lng": 129.869264,
+  "special": true,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/NagoyaC_hommaru.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/18/NagoyaC_hommaru.jpg",
+    "author": "Aboshi at Japanese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NagoyaC_hommaru.jpg"
+  },
+  "chapters": [
+    {
+      "title": "出兵の拠点となった城",
+      "text": "天下統一を果たした豊臣秀吉は、大陸への進出をめざし、朝鮮半島へ大軍を送ることを決めました。その拠点として選ばれたのが、朝鮮半島に近い肥前の名護屋です。1591年に築城が始まると、各地の大名が工事を分担し、わずか数か月で五重の天守がそびえる城が完成したといわれます。1592年から始まった出兵は、二度にわたって続きました。しかし戦いは朝鮮半島の人々に大きな被害を与え、日本側にも多くの犠牲を出しました。1598年に秀吉が亡くなると軍は引き揚げ、城はその役目を終えました。",
+      "titleEn": "A Castle Built as a Base for War",
+      "textEn": "Having unified Japan, Toyotomi Hideyoshi decided to send a great army to the Korean Peninsula, and chose Nagoya in Hizen, close to Korea, as his base. Construction began in 1591, with daimyo sharing the work, and a castle with a five-story keep was reportedly completed within months. The invasions, launched in 1592 and repeated twice, caused great suffering on the Korean Peninsula and heavy losses on the Japanese side, and they ended with Hideyoshi's death in 1598."
+    },
+    {
+      "title": "全国の大名が集まった町",
+      "text": "名護屋城のまわりには、徳川家康や前田利家、伊達政宗など、全国から集められた大名たちが陣屋を構えました。その数は百か所以上にのぼり、兵士や商人も集まって、一帯はにわかに大きな町となりました。陣屋では、能や茶の湯も楽しまれたと伝えられています。秀吉は、金で飾られた茶室もこの地に運ばせたといわれます。現在も周辺には多くの陣跡が残り、石垣や土塁から当時の様子をしのぶことができます。名護屋城跡は、戦国の世が終わり、人々が一か所に集められた時代の姿を伝えているのです。",
+      "titleEn": "A Town of Daimyo from All Over Japan",
+      "textEn": "Daimyo from across the country, including Tokugawa Ieyasu, Maeda Toshiie and Date Masamune, set up camps around the castle. With more than a hundred camps, plus soldiers and merchants, the area suddenly became a large town where Noh and the tea ceremony were enjoyed, and Hideyoshi is said to have brought his gold-decorated tea room here. Many camp sites still survive with stone walls and earthworks."
+    },
+    {
+      "title": "天守台から海を望む",
+      "text": "名護屋城跡を歩くと、ところどころで石垣の角が大きく崩されているのに気づくでしょう。これは城が使われなくなったあと、再び使われることのないよう、わざと壊された跡と考えられています。本丸の北西にある天守台跡に立つと、目の前には玄界灘が広がり、晴れた日には海に浮かぶ島々を見渡せます。ここから多くの兵が海を渡っていったことを思うと、穏やかな景色の中にも歴史の重みが感じられます。隣の名護屋城博物館では、城の姿だけでなく、日本と朝鮮半島の長い交流の歴史も学べます。",
+      "titleEn": "Looking Out to Sea from the Keep Base",
+      "textEn": "As you walk the site, notice the corners of stone walls that were deliberately broken so the castle could not be used again. From the keep base in the northwest of the main enclosure, the Genkai Sea spreads before you, with islands visible on clear days, and it is sobering to remember the many soldiers who crossed from here. The adjacent museum introduces both the castle and the long history of exchange between Japan and Korea.",
+      "localOnly": true
+    },
+    {
+      "title": "数か月でできたおしろ",
+      "text": "なごやじょうは、作りはじめてから、たった数か月ほどで、五かいだてのてんしゅがある大きなおしろになったといわれています。日本中の大名が手分けして作ったからです。でも、このおしろは、海のむこうの人たちとのせんそうのために作られました。いまは日本と朝鮮半島のなかよくした歴史も学べる場所になっています。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q711685"
+}

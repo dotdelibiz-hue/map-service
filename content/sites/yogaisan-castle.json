@@ -1,0 +1,59 @@
+{
+  "id": "yogaisan-castle",
+  "title": "要害山城跡",
+  "titleEn": "Yogaisan Castle Ruins",
+  "kana": "ようがいさんじょう",
+  "type": "castle",
+  "eras": [
+    "戦国時代"
+  ],
+  "summary": "武田氏の本拠を背後から守った詰めの山城",
+  "description": "要害山城跡は、武田氏の本拠地である躑躅ヶ崎館の北東にそびえる要害山に築かれた山城の跡です。1520年に武田信虎が、館が攻められたときに立てこもるための詰めの城として築いたとされています。翌年には、のちの武田信玄がこの城、またはふもとの積翠寺で生まれたと伝えられています。標高およそ780メートルの山頂付近を中心に、曲輪や土塁、竪堀、門の跡などが残り、戦国時代の山城の姿をよく伝えています。武田氏館跡とともに国の史跡に指定されています。",
+  "descriptionEn": "The Yogaisan Castle Ruins lie on Mount Yogai, northeast of the Takeda clan's Tsutsujigasaki Residence. Takeda Nobutora is said to have built it in 1520 as a refuge to fall back on if the residence were attacked, and tradition holds that his son Shingen was born the next year either at this castle or at Sekisuiji Temple at its foot. Enclosures, earthen ramparts, vertical trenches and gate sites remain around the summit at about 780 meters, preserving the form of a Sengoku-period mountain castle.",
+  "kidsDescription": "要害山城は、武田氏のやしきのうしろにある山につくられたお城のあとです。てきにせめられたときに、にげこんで守るためのお城でした。武田信玄は、このあたりで生まれたといわれています。山道をのぼると、むかしのお城のあとが見られます。",
+  "highlights": [
+    "山道に残る門の跡と石積み",
+    "斜面を縦に走る竪堀",
+    "山頂の主郭跡"
+  ],
+  "prefecture": "山梨県",
+  "city": "甲府市",
+  "lat": 35.703,
+  "lng": 138.598,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Mt.Yogai_Kofu_city.JPG/960px-Mt.Yogai_Kofu_city.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Mt.Yogai_Kofu_city.JPG/330px-Mt.Yogai_Kofu_city.JPG",
+    "author": "さかおり (talk",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt.Yogai_Kofu_city.JPG"
+  },
+  "chapters": [
+    {
+      "title": "館を守る詰めの城",
+      "text": "戦国時代の武将たちは、ふだん暮らす平地の館とは別に、いざというときに立てこもる山の城を持つことがよくありました。これを詰めの城と呼びます。武田信虎は、1519年につつじが崎館を築いた翌年、館の北東にそびえる要害山に、この城を築いたとされます。険しい山の地形を生かし、山頂に向かう尾根や斜面に、いくつもの曲輪や堀が設けられました。平地の館と山の城を組み合わせることで、武田氏は本拠地の守りを固めたのです。",
+      "titleEn": "A Refuge Castle",
+      "textEn": "Sengoku warlords often kept a mountain castle to retreat to in an emergency, separate from the lowland residence where they lived; this was called a tsume castle. A year after building the Tsutsujigasaki Residence in 1519, Takeda Nobutora is said to have built this castle on Mount Yogai to the northeast, placing enclosures and trenches along its steep ridges and slopes. By pairing residence and mountain castle, the Takeda strengthened the defense of their home base."
+    },
+    {
+      "title": "信玄誕生の伝承",
+      "text": "要害山城は、武田信玄が生まれた地として語り継がれてきました。1521年、甲斐の国に駿河の今川方の軍勢が攻め込み、信虎はこれを迎え撃つために出陣しました。このとき、身ごもっていた信虎の妻は、安全のために要害山城へ移り、そこで男の子を生んだと伝えられています。この子が、のちの武田信玄です。ふもとにある寺、せきすいじで生まれたとする伝承もあります。戦国時代の緊迫した状況の中で生まれた信玄は、のちに甲斐の国を大きく発展させていきました。",
+      "titleEn": "Shingen's Birthplace",
+      "textEn": "Yogaisan Castle has long been told as the birthplace of Takeda Shingen. In 1521, forces on the Imagawa side from Suruga invaded Kai, and Nobutora went out to meet them; according to tradition, his pregnant wife moved to this castle for safety and gave birth to a boy, the future Shingen. Another tradition places his birth at Sekisuiji Temple at the foot of the mountain."
+    },
+    {
+      "title": "山城の遺構をたどる",
+      "text": "要害山城跡を訪れたら、足元に残る城の跡をたどりながら、山頂をめざしてみましょう。山道の途中には、門があった場所や石を積んだ跡がいくつも続き、敵が簡単に登ってこられないよう工夫されていたことがわかります。斜面に沿って縦に掘られた竪堀は、敵が斜面を横に移動するのを防ぐためのものです。山頂の主郭跡に立ち、木々の間から甲府の方向を眺めてみてください。山道には険しいところもあるので、足元に十分気をつけて歩きましょう。",
+      "titleEn": "Tracing the Mountain Castle",
+      "textEn": "Follow the castle remains as you make your way toward the summit. Along the trail are several gate sites and traces of stone walls, showing how the approach was designed to stop attackers, and the vertical trenches cut down the slopes were meant to keep enemies from moving sideways. From the main enclosure at the top, look out through the trees toward Kofu, and take care on the steep parts of the trail.",
+      "localOnly": true
+    },
+    {
+      "title": "にげこむためのお城",
+      "text": "武田氏は、ふだんは平らな土地のやしきでくらしていました。でも、てきがせめてきたときのために、うしろの山にもお城をつくっていたのです。山の上なら、てきはなかなかのぼってこられません。そのかわり、水や食べものをはこぶのはたいへんでした。もしあなたがかくれがをつくるなら、どんな場所をえらびますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11630039"
+}

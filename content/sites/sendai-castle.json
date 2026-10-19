@@ -1,0 +1,60 @@
+{
+  "id": "sendai-castle",
+  "title": "仙台城跡（青葉城）",
+  "titleEn": "Sendai Castle (Aoba Castle)",
+  "kana": "せんだいじょうあと",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "伊達政宗が青葉山に築いた仙台藩の城",
+  "description": "仙台城は、伊達政宗が1600年に築城を始めた仙台藩の居城で、青葉山に築かれたことから青葉城とも呼ばれます。東を広瀬川、南を深い竜ノ口渓谷に守られた天然の要害で、天守は建てられず、本丸には壮大な大広間が置かれていました。明治以降は軍の施設となり、残っていた大手門なども1945年の空襲で焼失しましたが、本丸跡の高い石垣や、再建された大手門脇櫓が往時をしのばせます。本丸跡からは仙台の市街地を一望でき、伊達政宗の騎馬像が立っています。",
+  "descriptionEn": "Sendai Castle, also called Aoba Castle, was begun in 1600 by Date Masamune on Mount Aoba as the seat of the Sendai domain. Protected by the Hirose River and the deep Tatsunokuchi Gorge, it never had a main keep; instead, a grand audience hall stood in the main enclosure. After serving as a military base from the Meiji era, its remaining gate burned in an air raid in 1945, but the towering stone walls, the rebuilt gate turret and the statue of Masamune overlooking the city draw many visitors today.",
+  "kidsDescription": "せんだいじょうは、宮城県仙台市の青葉山にあった、伊達政宗のお城です。天守はありませんでしたが、山と川にまもられた、まもりのかたいお城でした。いまは、馬にのった政宗の像が立っていて、仙台の町を見わたすことができます。",
+  "highlights": [
+    "本丸跡の高い石垣",
+    "伊達政宗の騎馬像",
+    "仙台市街を見渡す眺め"
+  ],
+  "prefecture": "宮城県",
+  "city": "青葉区",
+  "lat": 38.252478,
+  "lng": 140.856156,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Waki-yagura_of_Sendai_Castle_20220910b.jpg/960px-Waki-yagura_of_Sendai_Castle_20220910b.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Waki-yagura_of_Sendai_Castle_20220910b.jpg/330px-Waki-yagura_of_Sendai_Castle_20220910b.jpg",
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waki-yagura_of_Sendai_Castle_20220910b.jpg"
+  },
+  "chapters": [
+    {
+      "title": "政宗が選んだ山の城",
+      "text": "仙台城は、戦国時代から江戸時代にかけて活躍した伊達政宗が、1600年に築城を始めた城です。関ヶ原の戦いのころ、政宗は新しい拠点としてこの青葉山を選びました。東には広瀬川が流れ、南には深い竜ノ口渓谷が切れ込み、西には山が続くという、自然の地形を生かした守りの堅い城でした。天守は建てられませんでしたが、本丸には大広間と呼ばれる豪華な御殿が建てられ、伊達家の力を示しました。のちに山のふもとに二の丸が造られ、藩の政治の中心はそちらへ移っていきます。",
+      "titleEn": "Masamune's Mountain Castle",
+      "textEn": "Date Masamune began building Sendai Castle in 1600, around the time of the Battle of Sekigahara, choosing Mount Aoba for its natural defenses: the Hirose River to the east, the deep Tatsunokuchi Gorge to the south and mountains to the west. No keep was built, but a magnificent audience hall in the main enclosure displayed the Date family's power. Later, a second enclosure was built at the foot of the mountain, and the domain's government moved there."
+    },
+    {
+      "title": "失われた城と受け継がれる石垣",
+      "text": "明治時代になると、仙台城は陸軍の施設となり、多くの建物が取り壊されたり、火災で失われたりしました。それでも残っていた大手門は、太平洋戦争末期の1945年の空襲で焼失してしまいます。その後、1967年に、大手門の脇にあった櫓が再建されました。本丸を支える石垣は、平成になってから大規模な修復工事が行われ、その際の調査で、内部からより古い時代の石垣が見つかりました。石垣が何度も造り直されてきたことがわかり、城の歴史を知る大きな手がかりとなっています。",
+      "titleEn": "A Lost Castle and Its Enduring Walls",
+      "textEn": "In the Meiji era the castle became an army facility, and many buildings were demolished or lost to fire. The surviving main gate burned in an air raid in 1945, and the turret beside it was rebuilt in 1967. During major repairs to the main enclosure's stone wall in the Heisei era, older walls were discovered inside it, showing that the walls had been rebuilt several times."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "本丸跡に立ったら、まず東側の見晴らしのよい場所から、仙台の市街地を見渡してみてください。眼下には広瀬川が流れ、晴れた日には遠くまで見通すことができます。近くには、伊達政宗の騎馬像が街を見守るように立っています。本丸の北側に回ると、高く積み上げられた石垣を見ることができます。また、本丸跡には大広間の礎石の位置が示されていて、かつての御殿の広さを感じられます。坂を下る途中では、再建された大手門脇櫓の姿にも注目してください。",
+      "titleEn": "What to See on Site",
+      "textEn": "From the eastern edge of the main enclosure, look out over Sendai and the Hirose River below, with the statue of Date Masamune on horseback watching over the city. Walk around to the north side to see the towering stone walls, and look for the marked foundation positions of the great audience hall, which convey its size. On your way down, note the rebuilt turret beside the former main gate.",
+      "localOnly": true
+    },
+    {
+      "title": "独眼竜とよばれた政宗",
+      "text": "せんだいじょうにある伊達政宗の像を見てみましょう。政宗は、小さいころの病気で右の目が見えなくなったといわれ、独眼竜とよばれました。それでも、強くてかしこい戦国大名として、仙台の町をつくりました。いまの仙台が大きな町になったのは、政宗が町づくりをがんばったおかげかもしれませんね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q598621"
+}

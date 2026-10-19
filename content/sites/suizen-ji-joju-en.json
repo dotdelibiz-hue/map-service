@@ -1,0 +1,59 @@
+{
+  "id": "suizen-ji-joju-en",
+  "title": "水前寺成趣園",
+  "titleEn": "Suizenji Jojuen Garden",
+  "kana": "すいぜんじじょうじゅえん",
+  "type": "garden",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "阿蘇の湧き水をたたえた細川家の大名庭園",
+  "description": "水前寺成趣園は、熊本藩主の細川家が江戸時代に造り上げた大名庭園です。1636年ごろ、初代藩主の細川忠利がこの地に茶屋を設けたのが始まりで、近くに建てられた寺の名から水前寺と呼ばれるようになりました。その後の藩主によって整えられ、池のまわりを歩いて景色を楽しむ回遊式の庭園となりました。池には阿蘇の伏流水が湧き出し、澄んだ水面に築山や松の緑が映ります。富士山を思わせる形の築山は、庭園を代表する景色です。国の名勝と史跡に指定されており、園内には細川家の歴代藩主をまつる出水神社や、京都から移された古今伝授の間もあります。",
+  "descriptionEn": "Suizenji Jojuen is a daimyo garden created by the Hosokawa lords of Kumamoto in the Edo period, beginning around 1636 when Hosokawa Tadatoshi built a teahouse here. Later lords developed it into a stroll garden around a pond fed by spring water from Mount Aso's underground streams, where a hill shaped like Mount Fuji is reflected in the clear water. Designated a Place of Scenic Beauty and Historic Site, it also contains Izumi Shrine, dedicated to the Hosokawa lords, and the Kokin Denju no Ma, a building moved here from Kyoto.",
+  "kidsDescription": "すいぜんじじょうじゅえんは、くまもとのとのさま、ほそかわけが作ったにわです。池には、あそ山からの水が、地めんの下を通ってわき出しています。水はとてもすきとおっていて、池のまわりには富士山のような形の小さな山もあります。",
+  "highlights": [
+    "富士山を思わせる築山",
+    "湧き水をたたえた池",
+    "古今伝授の間"
+  ],
+  "prefecture": "熊本県",
+  "city": "中央区",
+  "lat": 32.7911,
+  "lng": 130.735,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kumamoto_Suizenji-jojuen01n4272.jpg/960px-Kumamoto_Suizenji-jojuen01n4272.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kumamoto_Suizenji-jojuen01n4272.jpg/330px-Kumamoto_Suizenji-jojuen01n4272.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumamoto_Suizenji-jojuen01n4272.jpg"
+  },
+  "chapters": [
+    {
+      "title": "細川家の庭園のはじまり",
+      "text": "水前寺成趣園の始まりは、1636年ごろ、熊本藩の初代藩主となった細川忠利が、この地に休息のための茶屋を設けたことにさかのぼります。近くには寺も建てられ、その寺が水前寺と呼ばれたことから、この一帯の名前として今も残っています。その後、歴代の藩主によって庭が整えられ、3代藩主の細川綱利のころに、ほぼ現在のような姿になったと伝えられます。成趣園という名前は、中国の詩人陶淵明の詩文の一節に由来するといわれています。藩主たちは、この庭で客をもてなし、四季の景色を楽しみました。",
+      "titleEn": "The Beginnings of the Hosokawa Garden",
+      "textEn": "The garden began around 1636, when Hosokawa Tadatoshi, the first Hosokawa lord of Kumamoto, built a teahouse here for rest. A temple called Suizenji was also built nearby, and its name remains in the area today. Later lords developed the garden, which reportedly took on nearly its present form under the third lord, Hosokawa Tsunatoshi, and the name Jojuen is said to come from a poem by the Chinese poet Tao Yuanming."
+    },
+    {
+      "title": "湧き水と古今伝授の間",
+      "text": "この庭の命ともいえるのが、池に湧き出す清らかな水です。阿蘇の山々に降った雨が、長い時間をかけて地下を流れ、ここで湧き出していると考えられています。水がとても澄んでいるため、池の底や泳ぐ魚の姿まで見ることができます。また園内には、古今伝授の間と呼ばれる建物があります。古今伝授とは、古今和歌集の解釈を師から弟子へ秘かに伝えることで、安土桃山時代の終わりごろ、細川家の祖である細川幽斎が、この建物で皇族の八条宮に伝授を行ったとされています。もとは京都にあった建物で、大正時代の初めにここへ移されました。",
+      "titleEn": "Spring Water and the Kokin Denju Hall",
+      "textEn": "The garden's heart is the clear spring water, thought to be rain that fell on the Aso mountains and flowed underground for a long time before welling up here, so clear that you can see the pond bottom and swimming fish. The garden also has the Kokin Denju no Ma, where Hosokawa Yusai, founder of the Hosokawa line, is said to have passed on the secret teachings of the Kokinshu poetry anthology to Prince Hachijo-no-miya around 1600. Originally in Kyoto, the building was moved here in the early Taisho era."
+    },
+    {
+      "title": "池をめぐって歩く",
+      "text": "成趣園に入ったら、池のまわりをゆっくり一周してみましょう。まず目を引くのが、なだらかな曲線を描く築山です。富士山を思わせるその姿は、見る場所によって表情を変えます。池の水面に映る築山や松の景色も、この庭ならではの美しさです。池のほとりでは、湧き水が静かに流れ出す様子を探してみてください。水の透明さに驚くはずです。園内の出水神社には、細川家の歴代藩主がまつられています。古今伝授の間の前からは、庭全体を落ち着いて眺めることができます。",
+      "titleEn": "A Walk Around the Pond",
+      "textEn": "Take a slow walk around the pond, starting with the gently curving hill that recalls Mount Fuji and changes its look depending on where you stand. Look for the reflections of the hill and pines on the water, and for spots where spring water quietly wells up, astonishingly clear. Izumi Shrine honors the Hosokawa lords, and the Kokin Denju no Ma offers a calm view across the whole garden.",
+      "localOnly": true
+    },
+    {
+      "title": "あそ山からとどく水",
+      "text": "このにわの池の水は、あそ山にふった雨が、地めんの下で長い時間をかけて流れてきたものだと考えられています。だから、とてもすきとおっていて、池のそこまで見えるほどです。山にふった雨が、どうやってここまでやってくるのでしょう。池の水をのぞきこみながら、水の長いたびをそうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1090968"
+}

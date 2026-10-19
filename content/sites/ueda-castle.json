@@ -1,0 +1,61 @@
+{
+  "id": "ueda-castle",
+  "title": "上田城跡",
+  "titleEn": "Ueda Castle Ruins",
+  "kana": "うえだじょう",
+  "type": "castle",
+  "eras": [
+    "戦国時代",
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "徳川の大軍を二度退けた真田の城",
+  "description": "上田城は、1583年に真田昌幸が築いた城です。1585年と1600年の二度にわたって徳川の大軍を退けたことで知られ、真田氏の名を天下に広めました。関ヶ原の戦いの後には徳川方によって壊されましたが、江戸時代の初めに仙石忠政によって再建され、その後は松平氏が城主を務めました。現在は上田城跡公園として整備され、江戸時代から残る南櫓、北櫓、西櫓や、復元された東虎口櫓門、真田石と呼ばれる大きな石などを見ることができます。春には堀や土塁に沿って桜が咲き誇ります。",
+  "descriptionEn": "Ueda Castle was built in 1583 by Sanada Masayuki and became famous for twice repelling large Tokugawa armies, in 1585 and 1600. Dismantled after the Battle of Sekigahara, it was rebuilt early in the Edo period by Sengoku Tadamasa and later ruled by the Matsudaira family. Today Ueda Castle Park preserves three original Edo-period turrets, the reconstructed East Gate turret and the great Sanada Stone, with cherry blossoms along the moats in spring.",
+  "kidsDescription": "うえだじょうは、さなだまさゆきというぶしょうがつくったおしろです。とくがわのおおぜいのへいたいを、2かいもおいかえしたことでゆうめいです。いまもむかしのやぐらがのこっていて、はるにはさくらがとてもきれいです。",
+  "highlights": [
+    "江戸時代から残る3つの櫓",
+    "東虎口櫓門と真田石",
+    "本丸跡の眞田神社"
+  ],
+  "prefecture": "長野県",
+  "city": "上田市",
+  "lat": 36.4041,
+  "lng": 138.244,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ueda_Castle.JPG/960px-Ueda_Castle.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ueda_Castle.JPG/330px-Ueda_Castle.JPG",
+    "author": "Tomorobi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ueda_Castle.JPG"
+  },
+  "chapters": [
+    {
+      "title": "真田昌幸の城",
+      "text": "上田城は、1583年に真田昌幸が千曲川の流れを望む高台に築いた城です。南側は川の流れが削った崖になっていて、自然の地形を巧みに生かした守りの堅い城でした。1585年、徳川家康の軍勢がこの城に攻め寄せましたが、昌幸は少ない兵で巧みに戦い、徳川軍を退けました。この勝利によって、小さな勢力だった真田氏の名は広く知られるようになります。昌幸は、大きな大名の間で生き残るために、知恵を尽くして戦った武将でした。",
+      "titleEn": "Sanada Masayuki's Castle",
+      "textEn": "Sanada Masayuki built Ueda Castle in 1583 on high ground above the Chikuma River, using a river-carved cliff on its south side for defense. In 1585, Tokugawa Ieyasu's army attacked, but Masayuki skillfully defeated it with a much smaller force. The victory made the small Sanada clan famous as clever survivors among powerful daimyo."
+    },
+    {
+      "title": "二度目の上田合戦",
+      "text": "1600年、天下分け目の関ヶ原の戦いの直前、真田昌幸と次男の信繁は西軍に味方し、上田城にこもりました。中山道を進んできた徳川秀忠の大軍がこの城を攻めましたが、真田勢は再びこれを食い止めます。秀忠はここで足止めされ、関ヶ原の本戦に間に合いませんでした。一方、長男の信之は東軍に味方しており、真田家は親子兄弟が敵味方に分かれて家の存続を図ったのです。戦いの後、上田城は徳川方によって壊されました。",
+      "titleEn": "The Second Battle of Ueda",
+      "textEn": "In 1600, just before Sekigahara, Masayuki and his second son Nobushige sided with the Western Army and held Ueda Castle. Tokugawa Hidetada's large army, marching along the Nakasendo, attacked but was stopped again and arrived too late for the decisive battle. Masayuki's eldest son Nobuyuki had joined the Eastern side, so the family split to ensure its survival, and the castle was later dismantled."
+    },
+    {
+      "title": "城跡公園を歩く",
+      "text": "今いる上田城跡では、まず復元された東虎口櫓門と、その両側に立つ南櫓と北櫓を見てみましょう。この二つの櫓は江戸時代の建物で、明治時代に城の外へ移されましたが、のちに市民の力で買い戻され、元の場所に戻されました。門の石垣には、真田石と呼ばれるひときわ大きな石が組み込まれています。本丸跡には真田氏などをまつる眞田神社があり、西の端には西櫓が当時の場所に残っています。堀の跡や土塁の高さにも注目してみてください。",
+      "titleEn": "Walking the Castle Park",
+      "textEn": "Start with the reconstructed East Gate turret and the South and North Turrets beside it, Edo-period buildings that were moved away in the Meiji era and later bought back by citizens. Set into the gate's stone wall is the huge Sanada Stone. Sanada Shrine stands in the main enclosure, and the West Turret remains in its original spot at the western edge.",
+      "localOnly": true
+    },
+    {
+      "title": "おおきなさなだいし",
+      "text": "うえだじょうのもんのいしがきには、さなだいしとよばれる、とてもおおきないしがあります。たかさはおとなのせよりもずっとたかいんです。むかしのひとは、きかいもないのに、どうやってこんなにおおきないしをはこんだのでしょう。いしのまえにたって、おおきさをくらべてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q2968344"
+}

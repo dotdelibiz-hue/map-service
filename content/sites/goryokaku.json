@@ -1,0 +1,60 @@
+{
+  "id": "goryokaku",
+  "title": "五稜郭",
+  "titleEn": "Goryokaku",
+  "kana": "ごりょうかく",
+  "type": "castle",
+  "eras": [
+    "江戸時代",
+    "明治時代"
+  ],
+  "summary": "幕末に築かれた星形の西洋式城郭",
+  "description": "五稜郭は、江戸幕府が幕末に箱館の守りを固め、箱館奉行所を移すために築いた、星の形をした西洋式の城郭です。ヨーロッパの要塞の考え方を取り入れて設計され、1864年ごろに完成しました。明治のはじめには旧幕府軍が拠点とし、新政府軍との箱館戦争の舞台となりました。国の特別史跡に指定され、現在は公園として整備されています。五つの角を持つ土塁や石垣、水をたたえた堀、そして復元された箱館奉行所を見ることができ、春には桜の名所としても親しまれています。",
+  "descriptionEn": "Goryokaku is a star-shaped Western-style fort built by the Tokugawa shogunate in the final years of the Edo period to defend Hakodate and house the Hakodate Magistrate's Office. Completed around 1864, it became the stronghold of former shogunate forces during the Battle of Hakodate in 1868 and 1869. Today it is a Special Historic Site and park where you can walk along the earthen ramparts, stone walls and moats, and visit the reconstructed Magistrate's Office.",
+  "kidsDescription": "ごりょうかくは、星のかたちをした、めずらしいお城です。江戸時代のおわりごろに、ヨーロッパのお城のつくり方をお手本にしてつくられました。いまは公園になっていて、まわりのお堀や土のかべにそって歩くことができます。春にはさくらもきれいです。",
+  "highlights": [
+    "星形の土塁と水堀",
+    "復元された箱館奉行所",
+    "タワーから見る星形の全景"
+  ],
+  "prefecture": "北海道",
+  "city": "函館市",
+  "lat": 41.796944,
+  "lng": 140.756944,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hakodate_Goryokaku_Panorama_1.JPG/960px-Hakodate_Goryokaku_Panorama_1.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hakodate_Goryokaku_Panorama_1.JPG/330px-Hakodate_Goryokaku_Panorama_1.JPG",
+    "author": "Keihin nike",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hakodate_Goryokaku_Panorama_1.JPG"
+  },
+  "chapters": [
+    {
+      "title": "星形の城が生まれたわけ",
+      "text": "江戸時代の終わり、箱館の港が外国に開かれると、外国の船が行き交うようになりました。幕府は北の守りを固めるため、海に近い場所にあった箱館奉行所を内陸へ移し、そのまわりを西洋式の城郭で囲むことにしました。設計にあたったのは、蘭学を学んだ武田斐三郎です。星のように角を突き出した形は、大砲の時代に死角をなくすための工夫で、ヨーロッパの要塞を参考にしています。工事はおよそ7年をかけて進められ、1864年ごろに完成しました。",
+      "titleEn": "Why a Star-Shaped Fort",
+      "textEn": "When the port of Hakodate opened to foreign ships at the end of the Edo period, the shogunate decided to move its magistrate's office inland, away from the reach of naval guns, and surround it with a Western-style fort. The design was entrusted to Takeda Ayasaburo, a scholar of Western learning. The pointed star shape, modeled on European fortresses, eliminated blind spots in the age of cannon, and the fort was completed around 1864 after about seven years of work."
+    },
+    {
+      "title": "箱館戦争の舞台",
+      "text": "1868年、江戸幕府に代わって新政府が生まれ、時代は明治へと移ります。新政府に従わなかった榎本武揚らの旧幕府軍は、艦隊を率いて北海道に渡り、五稜郭を拠点としました。新選組の副長だった土方歳三も、この戦いに加わった一人です。しかし翌年、新政府軍の攻撃が強まり、土方は箱館での戦いの中で命を落とし、五稜郭の旧幕府軍もついに降伏しました。こうして一年半近く続いた戊辰戦争は終わりを迎えました。五稜郭は、日本の近代の始まりを見届けた場所でもあるのです。",
+      "titleEn": "Stage of the Battle of Hakodate",
+      "textEn": "In 1868, as the new Meiji government replaced the shogunate, former shogunate forces led by Enomoto Takeaki sailed north and made Goryokaku their base. Hijikata Toshizo, vice-commander of the Shinsengumi, was among them. The following year, government forces pressed their attack, Hijikata was killed in the fighting at Hakodate, and the defenders of Goryokaku surrendered, bringing the Boshin War to an end."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "五稜郭公園では、まず堀に沿って歩き、星の角が突き出した形を体で感じてみてください。正面の入口の前にある、三角形の島のような土塁は、半月堡と呼ばれる守りのための出城です。中に入ると、2010年に復元された箱館奉行所が見えてきます。古い図面や写真、発掘調査の成果をもとに建てられたものです。奉行所の近くには、当時から残る兵糧庫も建っています。星形の全体の姿を見たいときは、近くの五稜郭タワーから見下ろすと、その形がよくわかります。",
+      "titleEn": "What to See on Site",
+      "textEn": "Start by walking along the moat to feel how the star's points project outward, and look for the triangular earthwork in front of the main entrance, an outwork called a ravelin. Inside stands the Magistrate's Office, reconstructed in 2010 from old plans, photographs and excavation results, along with an original storehouse from the period. For a view of the full star shape, look down from the nearby Goryokaku Tower.",
+      "localOnly": true
+    },
+    {
+      "title": "星のかたちのひみつ",
+      "text": "ごりょうかくは、どうして星のかたちをしているのでしょう。角がとがっていると、どの方向から敵が来ても、べつの角から見はることができるからです。ヨーロッパのお城をお手本にしたつくりです。近くの高いタワーにのぼると、ほんとうに星のかたちに見えますよ。春にはさくらが咲いて、星がピンク色にそまります。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1196357"
+}

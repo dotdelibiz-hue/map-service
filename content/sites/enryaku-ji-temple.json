@@ -1,0 +1,60 @@
+{
+  "id": "enryaku-ji-temple",
+  "title": "比叡山延暦寺",
+  "titleEn": "Enryaku-ji (Mount Hiei)",
+  "kana": "ひえいざんえんりゃくじ",
+  "type": "temple",
+  "eras": [
+    "平安時代",
+    "戦国時代"
+  ],
+  "summary": "最澄が開いた天台宗の総本山、日本仏教の母山",
+  "description": "比叡山延暦寺は、滋賀県と京都府の境にそびえる比叡山に広がる天台宗の総本山です。788年に最澄が山中に小さなお堂を建てたことに始まり、最澄の死後、朝廷から延暦寺の名が与えられました。法然、親鸞、栄西、道元、日蓮など、のちに新しい宗派を開く僧たちが若い頃にここで学んだことから、日本仏教の母山とも呼ばれます。1571年には織田信長の焼き討ちで大きな被害を受けましたが、のちに再興されました。現在は東塔、西塔、横川の三つの地域に堂塔が点在し、国宝の根本中堂などを巡ることができます。古都京都の文化財として世界遺産にも登録されています。",
+  "descriptionEn": "Enryaku-ji is the head temple of the Tendai school of Buddhism, spread across Mount Hiei on the border of Shiga and Kyoto. It began in 788 when the monk Saicho built a small hall on the mountain, and many monks who later founded new schools, such as Honen, Shinran, Eisai, Dogen and Nichiren, studied here in their youth. Burned by Oda Nobunaga in 1571, it was later rebuilt, and today its halls are scattered across three areas, Todo, Saito and Yokawa. It is part of the Historic Monuments of Ancient Kyoto World Heritage Site.",
+  "kidsDescription": "ひえいざんえんりゃくじは、しがけんときょうとふのさかいにある山の上の、大きなお寺です。いまから1200年いじょうまえに、さいちょうというおぼうさんがひらきました。むかしからたくさんのおぼうさんがここでべんきょうしたので、日本のぶっきょうのおかあさんのようなお寺といわれています。",
+  "highlights": [
+    "根本中堂と不滅の法灯",
+    "山内最古とされる西塔の釈迦堂",
+    "東塔・西塔・横川の三塔巡り"
+  ],
+  "prefecture": "滋賀県",
+  "city": "坂本本町",
+  "lat": 35.070556,
+  "lng": 135.841111,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Enryakuji_Konponchudo02s5s3200.jpg/960px-Enryakuji_Konponchudo02s5s3200.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Enryakuji_Konponchudo02s5s3200.jpg/330px-Enryakuji_Konponchudo02s5s3200.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enryakuji_Konponchudo02s5s3200.jpg"
+  },
+  "chapters": [
+    {
+      "title": "最澄と比叡山のはじまり",
+      "text": "788年、若い僧の最澄は、比叡山に小さなお堂を建てました。これが延暦寺のはじまりです。最澄はのちに中国の唐に渡って天台の教えを学び、帰国して天台宗を開きました。最澄が亡くなったあと、朝廷から延暦寺という名前が与えられます。比叡山は都の北東にそびえ、都を守る大切な山とも考えられてきました。山の中では厳しい修行が続けられ、多くの僧がここで学びました。その中から、法然や親鸞、道元、日蓮など、のちに新しい宗派を開く人々が育っていったのです。",
+      "titleEn": "Saicho and the Beginnings",
+      "textEn": "In 788 the young monk Saicho built a small hall on Mount Hiei, the origin of Enryaku-ji. He later traveled to Tang China to study Tendai teachings and founded the Tendai school on his return, and after his death the court granted the temple the name Enryaku-ji. Rising to the northeast of the capital, the mountain was regarded as its guardian, and the monks trained here included Honen, Shinran, Dogen and Nichiren, who went on to found new schools of Buddhism."
+    },
+    {
+      "title": "焼き討ちと再興",
+      "text": "延暦寺は時代とともに大きな力をもつようになり、多くの僧兵を抱えて、ときの権力者とも対立しました。戦国時代の1571年、織田信長は比叡山を攻め、山の上のお堂の多くが焼かれてしまいます。これが比叡山焼き討ちとして知られる出来事です。その後、豊臣秀吉や徳川家の支援によって、少しずつ再建が進められました。現在の根本中堂は、江戸時代の初めに三代将軍徳川家光の命によって建て直されたもので、国宝に指定されています。",
+      "titleEn": "Destruction and Revival",
+      "textEn": "Over the centuries Enryaku-ji grew powerful, keeping armed warrior monks and clashing with those in power. In 1571, during the Warring States period, Oda Nobunaga attacked the mountain and most of its halls were burned. The temple was gradually rebuilt with support from Toyotomi Hideyoshi and the Tokugawa family, and the present Konponchudo, a National Treasure, was rebuilt in the early Edo period on the orders of the third shogun, Tokugawa Iemitsu."
+    },
+    {
+      "title": "山の上で見たいもの",
+      "text": "延暦寺の境内は、東塔、西塔、横川という三つの地域に分かれています。中心となる東塔には根本中堂があり、堂内の奥では、最澄の時代から受け継がれてきたとされる不滅の法灯が静かに灯っています。この灯りは、僧たちが毎日油を注ぎ足して守り続けているといわれます。西塔に足をのばすと、山内でもっとも古い建物とされる釈迦堂が、杉木立の中にたたずんでいます。山の澄んだ空気を感じながら、三つの地域をゆっくり巡ってみてください。",
+      "titleEn": "What to See on the Mountain",
+      "textEn": "The temple grounds are divided into three areas: Todo, Saito and Yokawa. In the central Todo area stands the Konponchudo, where the Eternal Dharma Light, said to have been handed down since Saicho's time, is kept burning by monks who add oil every day. In the Saito area, the Shaka-do hall, considered the oldest building on the mountain, stands quietly among tall cedars.",
+      "localOnly": true
+    },
+    {
+      "title": "きえない火のひみつ",
+      "text": "延暦寺のお堂のおくには、さいちょうのじだいからうけつがれてきたといわれる火がともっています。ふめつのほうとうとよばれ、おぼうさんたちがまいにちあぶらをたして、きえないようにまもっています。とてもながいあいだ、だれかがまいにちおせわをつづけてきたのですね。みんなは、まいにちつづけていることがありますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q917195"
+}

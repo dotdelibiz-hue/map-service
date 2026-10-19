@@ -1,0 +1,60 @@
+{
+  "id": "kofu-castle",
+  "title": "甲府城跡（舞鶴城公園）",
+  "titleEn": "Kofu Castle Ruins (Maizuru Castle Park)",
+  "kana": "こうふじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "見事な石垣が残る、甲斐の国の政治の中心",
+  "description": "甲府城跡は、甲府市の中心部に残る城跡で、舞鶴城公園として親しまれています。武田氏が滅んだ後、豊臣政権のもとで甲斐の国を治める拠点として築かれ、関東の徳川家康を押さえる役割を担ったと考えられています。江戸時代には徳川一門や柳沢氏が城主を務め、その後は幕府の直轄地として甲府勤番が置かれました。最大の見どころは、自然の石を積み上げた野面積みの高い石垣です。発掘では金箔の瓦なども見つかっており、稲荷櫓や山手御門などが復元されています。2019年に国の史跡に指定されました。",
+  "descriptionEn": "The Kofu Castle Ruins, known as Maizuru Castle Park, lie in central Kofu. After the fall of the Takeda clan, the castle was built under the Toyotomi regime as a base for governing Kai Province, and it is thought to have helped keep watch on Tokugawa Ieyasu in Kanto. In the Edo period it was held by Tokugawa relatives and the Yanagisawa family and later governed directly by the shogunate. Its tall walls of natural stones are its greatest highlight, gold-leaf roof tiles have been excavated, and the Inari Turret and other structures have been reconstructed.",
+  "kidsDescription": "甲府城は、甲府の町のまん中にある、お城のあとです。大きな石を、そのまま組みあわせてつんだ、りっぱな石がきがたくさんのこっています。天守の土台の上からは、甲府の町や、まわりの山を見わたせます。天気がよいと、富士山が見えることもあります。",
+  "highlights": [
+    "野面積みの高い石垣",
+    "復元された稲荷櫓",
+    "天守台からの甲府盆地の眺め"
+  ],
+  "prefecture": "山梨県",
+  "city": "丸の内",
+  "lat": 35.665289,
+  "lng": 138.571339,
+  "special": false,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kohu-jo.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kohu-jo.jpg",
+    "author": "Ans~jawiki at Japanese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kohu-jo.jpg"
+  },
+  "chapters": [
+    {
+      "title": "豊臣政権の城",
+      "text": "武田氏が滅んだ後、甲斐の国は、織田信長、そして徳川家康の支配を経て、豊臣秀吉の時代を迎えます。秀吉は、関東に移った家康を押さえるため、甲斐に信頼できる家臣を置いたと考えられています。こうして、一条小山と呼ばれた小高い丘に、本格的な石垣を持つ甲府城が築かれていきました。発掘調査では、豊臣方の城に特徴的な、金箔を貼った瓦が見つかっており、この城が豊臣政権にとって重要な城だったことを物語っています。",
+      "titleEn": "A Castle of the Toyotomi Regime",
+      "textEn": "After the fall of the Takeda clan, Kai Province passed through the hands of Oda Nobunaga and Tokugawa Ieyasu before coming under Toyotomi Hideyoshi. Hideyoshi is thought to have placed trusted retainers here to keep watch on Ieyasu, who had moved to Kanto, and Kofu Castle with its full stone walls was built on a small hill called Ichijo-koyama. Gold-leaf roof tiles typical of Toyotomi-affiliated castles have been excavated, showing the castle's importance to the regime."
+    },
+    {
+      "title": "江戸時代の甲府城",
+      "text": "江戸時代になると、甲府城は江戸を守る西の要として重視されました。城主には徳川将軍家の一門が任じられ、のちに六代将軍となる徳川家宣も、甲府藩主を務めた一人です。その後、五代将軍綱吉に重く用いられた柳沢吉保が甲府藩主となり、城や城下町を整えました。柳沢氏が大和の郡山に移った後は、幕府が直接治める地となり、甲府勤番と呼ばれる役人たちが城を守りました。明治時代になると、城の建物の多くは取り壊されましたが、石垣は今もよく残っています。",
+      "titleEn": "Kofu Castle in the Edo Period",
+      "textEn": "In the Edo period, Kofu Castle was valued as a western stronghold guarding Edo, and its lords included members of the Tokugawa family, among them Tokugawa Ienobu, who later became the sixth shogun. Yanagisawa Yoshiyasu, a favored adviser of the fifth shogun Tsunayoshi, then became lord and developed the castle and town. After the Yanagisawa moved to Koriyama, the shogunate governed Kofu directly through officials called Kofu Kinban, and although most buildings were demolished in the Meiji era, the stone walls remain."
+    },
+    {
+      "title": "石垣をめぐって",
+      "text": "城跡を歩いたら、ぜひ石垣に近づいて、石の積み方を見てください。大きさも形もさまざまな自然の石を、ほとんど加工せずに組み合わせて積んだ、野面積みという方法で造られています。すき間には小さな石が詰められ、長い年月を経ても崩れにくいように工夫されています。復元された稲荷櫓や山手御門なども見どころです。最も高い場所にある天守台に上ると、甲府の町並みと、それを囲む山々が一望でき、天気の良い日には富士山の姿も見えることがあります。",
+      "titleEn": "Exploring the Stone Walls",
+      "textEn": "Walk up close to the stone walls and notice how they are built in the nozura-zumi style, with natural stones of varied sizes and shapes stacked with little shaping and small stones packed into the gaps for strength. The reconstructed Inari Turret and Yamate Gate are also worth seeing. Climb the keep base at the highest point for a panoramic view of Kofu and the surrounding mountains, and on clear days even Mount Fuji.",
+      "localOnly": true
+    },
+    {
+      "title": "石がきのつみかた",
+      "text": "甲府城の石がきは、しぜんの石を、あまりけずらずにつみあげてつくられています。形がばらばらの石を、パズルのように組みあわせているのです。すきまには小さな石をつめて、くずれにくくしています。いちばん大きな石をさがしてみましょう。あなたのせよりも大きい石は、見つかるかな。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q969909"
+}

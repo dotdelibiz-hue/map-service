@@ -1,0 +1,61 @@
+{
+  "id": "nihonmatsu-castle",
+  "title": "二本松城跡（霞ヶ城）",
+  "titleEn": "Nihonmatsu Castle (Kasumigajo)",
+  "kana": "にほんまつじょうあと",
+  "type": "castle",
+  "eras": [
+    "室町時代",
+    "江戸時代",
+    "明治時代"
+  ],
+  "summary": "少年隊の物語が残る山上の城",
+  "description": "二本松城は、福島県二本松市にある城で、霞ヶ城とも呼ばれます。室町時代に、奥州管領の流れをくむ畠山氏が山の上に城を築いたのが始まりとされ、戦国時代には伊達政宗との争いの舞台にもなりました。江戸時代には、1643年に入った丹羽光重から明治維新まで、丹羽氏が藩主として治め、山のふもとに藩の政庁を置きました。戊辰戦争では、少年たちも加わった激しい戦いの末に落城しました。現在は霞ヶ城公園として整備され、山頂の本丸の石垣や、復元された箕輪門が見どころです。",
+  "descriptionEn": "Nihonmatsu Castle, also called Kasumigajo, was founded on a mountaintop in the Muromachi period by the Hatakeyama clan and became a battleground with Date Masamune in the Warring States period. From 1643 until the Meiji Restoration, the Niwa clan ruled the domain from here, with their administrative offices at the foot of the mountain. The castle fell in the Boshin War of 1868 after fierce fighting in which teenage boys also took part, and today the site is a park featuring the hilltop stone walls and the reconstructed Minowa Gate.",
+  "kidsDescription": "にほんまつじょうは、福島県二本松市の山の上にあったお城です。春にはさくらがたくさん咲いて、きれいな公園になっています。むかしのたたかいでは、みんなより少し年上の少年たちも、ふるさとをまもろうとたたかいました。",
+  "highlights": [
+    "復元された箕輪門と二重櫓",
+    "山頂の本丸石垣",
+    "本丸跡からの安達太良山"
+  ],
+  "prefecture": "福島県",
+  "city": "二本松市",
+  "lat": 37.599642,
+  "lng": 140.427986,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Nihonmatsu_Castle_Minowa_Gate_20100625-01.jpg/960px-Nihonmatsu_Castle_Minowa_Gate_20100625-01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Nihonmatsu_Castle_Minowa_Gate_20100625-01.jpg/330px-Nihonmatsu_Castle_Minowa_Gate_20100625-01.jpg",
+    "author": "baku13",
+    "license": "CC BY-SA 2.1 jp",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nihonmatsu_Castle_Minowa_Gate_20100625-01.jpg"
+  },
+  "chapters": [
+    {
+      "title": "畠山氏の城から丹羽氏の城へ",
+      "text": "二本松城は、室町時代に畠山氏が白旗が峰と呼ばれる山の上に築いたのが始まりとされています。戦国時代、二本松の畠山氏は、勢力を広げる伊達氏と争うことになり、1586年、伊達政宗によって城は攻め落とされました。その後、城主はたびたび替わりましたが、江戸時代の1643年に丹羽光重が藩主となってからは、明治維新まで丹羽氏が治めました。光重は、山の上の城とともに、ふもとに藩の政庁を整え、城下町を発展させました。こうして二本松は、奥州街道の城下町として栄えました。",
+      "titleEn": "From the Hatakeyama to the Niwa",
+      "textEn": "Nihonmatsu Castle is said to have been built in the Muromachi period by the Hatakeyama clan on a peak called Shirahatagamine. In the Warring States period the Hatakeyama clashed with the expanding Date clan, and in 1586 Date Masamune captured the castle. After several changes of lord, Niwa Mitsushige took over in 1643, and the Niwa ruled until the Meiji Restoration, building administrative offices at the foot of the mountain and developing a thriving castle town on the Oshu Kaido highway."
+    },
+    {
+      "title": "二本松少年隊",
+      "text": "1868年の戊辰戦争で、二本松藩は奥羽越列藩同盟に加わり、新政府軍と戦いました。藩の主力が他の戦場に出ていたため、城の守りには、まだ十代の少年たちも加わりました。のちに二本松少年隊と呼ばれる彼らは、大人の兵士とともに懸命に戦いましたが、多くの若い命が失われ、城はついに落城しました。この出来事は、会津の白虎隊とともに、戊辰戦争の悲劇として今も語り継がれています。公園には少年たちをしのぶ像も建てられ、訪れる人々が静かに手を合わせています。",
+      "titleEn": "The Boys' Corps of Nihonmatsu",
+      "textEn": "In the Boshin War of 1868, Nihonmatsu joined the northern alliance against the new government. With its main forces fighting elsewhere, boys still in their teens joined the defense of the castle. Remembered as the Nihonmatsu Boys' Corps, they fought bravely alongside adult soldiers, but many young lives were lost and the castle fell; together with Aizu's Byakkotai, their story is still told as one of the war's great tragedies, and a memorial statue stands in the park."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "霞ヶ城公園の入口では、まず白い壁の箕輪門と二重櫓を見てください。1982年に復元されたもので、二本松城の顔ともいえる姿です。門をくぐって坂道を上っていくと、やがて山頂の本丸跡にたどり着きます。本丸の石垣は、発掘調査の成果をもとに修復されたもので、積み方の違いから、城が時代とともに改修されてきたことがうかがえます。本丸跡からは、安達太良山や二本松の市街地を見渡す景色が広がります。春には、園内をたくさんの桜が彩り、霞ヶ城の名にふさわしい美しさを見せてくれます。",
+      "titleEn": "What to See on Site",
+      "textEn": "At the park entrance, admire the white-walled Minowa Gate and its two-story turret, reconstructed in 1982 as the symbol of the castle. Climb the slope to the summit, where the main enclosure's stone walls were restored based on excavations, their differing styles reflecting repeated rebuilding. From the top you can see Mount Adatara and the town of Nihonmatsu, and in spring the park is filled with cherry blossoms.",
+      "localOnly": true
+    },
+    {
+      "title": "少年たちの思い",
+      "text": "二本松少年隊の少年たちは、いまの中学生や高校生くらいの年でした。ふるさとや家族をまもりたいと思って、こわい気もちをがまんしてたたかったのでしょう。いまは、へいわな公園になったこの場所で、むかしの少年たちのことを思いうかべてみてください。へいわのたいせつさを、いっしょに考えてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q593054"
+}

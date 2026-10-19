@@ -1,0 +1,59 @@
+{
+  "id": "edo-castle",
+  "title": "江戸城跡（皇居東御苑）",
+  "titleEn": "Edo Castle Ruins (East Gardens of the Imperial Palace)",
+  "kana": "えどじょう",
+  "type": "castle",
+  "eras": [
+    "室町時代",
+    "江戸時代"
+  ],
+  "summary": "徳川将軍家の居城だった日本最大級の城跡",
+  "description": "江戸城は、室町時代の1457年に太田道灌が築いたことに始まる城で、1590年に徳川家康が入ってからは、徳川将軍家の居城として大規模に拡張されました。内堀と外堀をめぐらせた城は日本最大級の規模を誇り、江戸の町の中心となりました。天守は1657年の明暦の大火で焼失し、その後は再建されませんでした。1868年に新政府に明け渡された後は皇居となり、現在、本丸や二の丸の一帯は皇居東御苑として公開されています。天守台や富士見櫓、百人番所、大手門などが残り、国の特別史跡に指定されています。",
+  "descriptionEn": "Edo Castle began as a fortress built by Ota Dokan in 1457 and was greatly expanded after Tokugawa Ieyasu entered it in 1590, becoming the residence of the Tokugawa shoguns and one of the largest castles in Japan. Its main keep burned in the Great Fire of Meireki in 1657 and was never rebuilt. After it was handed over to the new government in 1868, it became the Imperial Palace. Today the former main and second enclosures are open to the public as the East Gardens, where the keep base, Fujimi Turret, guardhouses and Otemon Gate remain.",
+  "kidsDescription": "江戸城は、江戸じだいに、徳川の将軍がすんでいた、とても大きなお城です。いまは天皇がおすまいになる皇居になっていて、一部は公園として、だれでも入ることができます。大きな石がきや、天守がたっていた土台を見ることができます。",
+  "highlights": [
+    "巨大な石垣が残る天守台",
+    "本丸を守った富士見櫓",
+    "警備の拠点だった百人番所"
+  ],
+  "prefecture": "東京都",
+  "city": "豊島郡",
+  "lat": 35.688322,
+  "lng": 139.754389,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Tokyo_Imperial_Palace_Aerial_photograph_2019.jpg/960px-Tokyo_Imperial_Palace_Aerial_photograph_2019.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Tokyo_Imperial_Palace_Aerial_photograph_2019.jpg/330px-Tokyo_Imperial_Palace_Aerial_photograph_2019.jpg",
+    "author": "Institute of Land & Geographic (国土地理院)",
+    "license": "Attribution",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Imperial_Palace_Aerial_photograph_2019.jpg"
+  },
+  "chapters": [
+    {
+      "title": "道灌の城から将軍の城へ",
+      "text": "江戸城の歴史は、室町時代の1457年に、武将の太田道灌がこの地に城を築いたことに始まります。その後、1590年に徳川家康が関東に移ってこの城に入り、1603年に江戸幕府を開くと、江戸城は将軍の住まいであり、幕府の政治の中心となりました。家康から家光までの三代の将軍の時代には、全国の大名を動員して、石垣や堀、門などの大規模な工事が繰り返され、日本最大級の城が完成しました。城の周りには武家屋敷や町人の町が広がり、江戸は世界でも有数の大都市に成長していきました。",
+      "titleEn": "From Dokan to the Shoguns",
+      "textEn": "The history of Edo Castle began in 1457, when the warrior Ota Dokan built a fortress here. Tokugawa Ieyasu entered it in 1590, and after he founded the shogunate in 1603 it became the shogun's residence and the center of government. Under the first three shoguns, daimyo from across Japan were mobilized to build its stone walls, moats and gates, creating one of the largest castles in Japan, while Edo grew into one of the world's great cities."
+    },
+    {
+      "title": "消えた天守と無血開城",
+      "text": "江戸城には、かつて高い天守がそびえていました。天守は家康、秀忠、家光の三代の将軍の時代にそれぞれ建てられ、家光の時代には5重の大きな天守が完成しました。しかし、1657年の明暦の大火で、天守は焼け落ちてしまいます。土台となる天守台は再び築かれましたが、町の復興を優先するという判断から、天守そのものが再建されることはありませんでした。時は流れて1868年、勝海舟と西郷隆盛の話し合いなどを経て、江戸城は戦うことなく新しい政府に明け渡されました。これにより、江戸の町は大きな戦火を免れたのです。",
+      "titleEn": "The Lost Keep and the Peaceful Handover",
+      "textEn": "Edo Castle once had a towering keep, built anew under each of the first three shoguns, with the five-story keep of Iemitsu's era the grandest. It burned in the Great Fire of Meireki in 1657, and although its stone base was rebuilt, the keep itself was not, because rebuilding the city was given priority. In 1868, after talks between Katsu Kaishu and Saigo Takamori, the castle was handed over to the new government without a battle, sparing the city from war."
+    },
+    {
+      "title": "東御苑で見たいもの",
+      "text": "大手門から東御苑に入ると、まず巨大な石垣と、門の守りの厳しさに目を奪われることでしょう。進んでいくと、百人番所という長い建物があります。ここには鉄砲を持った武士たちが交代で詰め、本丸への入り口を守っていました。本丸の南側には、天守を失った後、天守の代わりの役割も果たしたといわれる富士見櫓が建っています。広い芝生の奥には大きな天守台が残っており、上に登って本丸全体を見渡すことができます。石垣の石の大きさや、きれいに積まれた角の部分にも注目してください。",
+      "titleEn": "What to See in the East Gardens",
+      "textEn": "Entering the East Gardens through the Otemon Gate, you will be struck by the massive stone walls and tightly guarded gates. Look for the long Hyakunin Bansho guardhouse, where musket-bearing samurai took turns protecting the way to the main enclosure, and the Fujimi Turret, said to have served in place of the lost keep. Beyond the wide lawn stands the great keep base, which you can climb for a view, noticing the size of the stones and the precisely stacked corners.",
+      "localOnly": true
+    },
+    {
+      "title": "天守がたてられなかったわけ",
+      "text": "江戸城の天守は、大きな火事でもえてしまいました。土台の石がきはもういちどつくられましたが、天守はたてられませんでした。そのころ、江戸の町も火事で大きなひがいをうけていました。そこで、天守よりも、こまっている人たちの町をなおすことをさきにしたといわれています。あなたなら、どちらをさきにしますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q865913"
+}

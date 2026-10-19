@@ -1,0 +1,60 @@
+{
+  "id": "komine-castle",
+  "title": "白河小峰城",
+  "titleEn": "Shirakawa Komine Castle",
+  "kana": "しらかわこみねじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代",
+    "明治時代"
+  ],
+  "summary": "みちのくの入口を守った石垣の名城",
+  "description": "白河小峰城は、福島県白河市にある城で、南北朝時代に結城氏が築いたのが始まりとされます。江戸時代の初め、1627年に白河に入った丹羽長重が大規模な改修を行い、石垣を多く用いた近世の城郭へと生まれ変わりました。奥州の入口にあたる白河は重要な地とされ、多くの大名が藩主を務めました。幕末の戊辰戦争では激しい戦いの舞台となり、城の大部分が焼失しました。1991年に三重櫓が木造で復元され、続いて前御門も復元されています。東日本大震災で崩れた石垣も修復されました。",
+  "descriptionEn": "Shirakawa Komine Castle in Fukushima Prefecture traces its origins to the Yuki clan in the 14th century. After Niwa Nagashige became lord in 1627, he rebuilt it as an early modern castle with extensive stone walls, guarding the gateway to the northern Oshu region. Much of the castle burned in the Boshin War of 1868, but its three-story turret was faithfully reconstructed in wood in 1991, followed by the front gate, and the stone walls damaged in the 2011 earthquake have been restored.",
+  "kidsDescription": "しらかわこみねじょうは、福島県白河市にあるお城です。東北地方の入り口をまもる、だいじなお城でした。大きな石がきがみごとで、木でつくりなおされた三重のやぐらがあります。地しんでくずれた石がきも、みんなの力でなおされました。",
+  "highlights": [
+    "木造で復元された三重櫓",
+    "復元された前御門",
+    "丹羽長重が築いた石垣"
+  ],
+  "prefecture": "福島県",
+  "city": "白河市",
+  "lat": 37.132624,
+  "lng": 140.213583,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shirakawa_Komine_Castle_20100625-01.jpg/960px-Shirakawa_Komine_Castle_20100625-01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shirakawa_Komine_Castle_20100625-01.jpg/330px-Shirakawa_Komine_Castle_20100625-01.jpg",
+    "author": "baku13",
+    "license": "CC BY-SA 2.1 jp",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shirakawa_Komine_Castle_20100625-01.jpg"
+  },
+  "chapters": [
+    {
+      "title": "みちのくの入口の城",
+      "text": "白河は、古くから白河の関が置かれた、みちのくへの入口として知られる土地です。白河小峰城は、南北朝時代に結城親朝が小峰ヶ岡に城を築いたのが始まりとされています。江戸時代の初め、1627年に白河藩主となった丹羽長重は、幕府の命を受けて城の大改修を行い、数年をかけて、石垣を多く用いた堂々とした城を完成させました。長重は築城の名手として知られた人物です。奥州への備えとして重要な白河には、その後も徳川家に近い大名などが次々と入り、城を守り継ぎました。",
+      "titleEn": "Castle at the Gateway to the North",
+      "textEn": "Shirakawa has long been known as the gateway to the northern Michinoku region, home to the ancient Shirakawa barrier. The castle began when Yuki Chikatomo built a fortress on Komine hill in the 14th century. In 1627 Niwa Nagashige, a skilled castle builder, became lord and, at the shogunate's order, spent several years rebuilding it with extensive stone walls. Because of its strategic position, many lords close to the Tokugawa family held the castle afterward."
+    },
+    {
+      "title": "松平定信と戊辰戦争",
+      "text": "江戸時代の白河藩主の中でもよく知られているのが、松平定信です。定信は天明の飢饉の際に領民を救う政策に力を尽くし、のちに幕府の老中として寛政の改革を進めました。また、身分を問わず人々がいこえる場所として、南湖という公園をつくったことでも知られています。時代が下り、1868年の戊辰戦争では、白河は奥州への入口として、新政府軍と奥羽越列藩同盟軍が激しく争う戦場となりました。この戦いで城はほとんど焼け落ち、明治の世を迎えることになりました。",
+      "titleEn": "Matsudaira Sadanobu and the Boshin War",
+      "textEn": "Among Shirakawa's lords, the best known is Matsudaira Sadanobu, who worked to protect his people during the Tenmei famine and later led the Kansei Reforms as a senior shogunate official. He also created Nanko, a park where people of all classes could relax. In the Boshin War of 1868, Shirakawa became a fierce battleground between the new government's army and the northern alliance, and the castle was almost entirely burned."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "城跡に立ったら、まず三重櫓を見上げてください。1991年に、江戸時代の絵図をもとに、伝統的な木造の工法で復元されたものです。材料には、戊辰戦争の激戦地となった稲荷山の杉も使われ、木材の中には当時の弾の跡が残るものもあるといわれています。三重櫓へと続く前御門も、同じく木造で復元されました。また、本丸を囲む高い石垣にも注目してください。東日本大震災で大きく崩れましたが、元の石を一つひとつ確かめながら積み直す丁寧な修理が行われ、よみがえりました。",
+      "titleEn": "What to See on Site",
+      "textEn": "Look up at the three-story turret, reconstructed in 1991 with traditional wooden techniques based on Edo-period drawings. Its timber includes cedar from Inariyama, a fierce Boshin War battlefield, and some pieces are said to bear bullet marks from that fighting. The front gate leading to it was also rebuilt in wood, and the high stone walls, badly damaged in the 2011 earthquake, were carefully restored by checking and resetting the original stones one by one.",
+      "localOnly": true
+    },
+    {
+      "title": "木でつくりなおしたやぐら",
+      "text": "しらかわこみねじょうの三重のやぐらは、むかしの絵図をもとに、木をつかって、むかしと同じつくり方でたてなおされました。つかわれた木の中には、むかしのたたかいのときの、てっぽうのたまのあとがのこっているものもあるそうです。やぐらを見学するときは、さがしてみてくださいね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q522630"
+}

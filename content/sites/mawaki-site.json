@@ -1,0 +1,59 @@
+{
+  "id": "mawaki-site",
+  "title": "真脇遺跡",
+  "titleEn": "Mawaki Site",
+  "kana": "まわきいせき",
+  "type": "ruins",
+  "eras": [
+    "縄文時代"
+  ],
+  "summary": "4000年続いた縄文のムラとイルカ漁の跡",
+  "description": "真脇遺跡は、能登半島の富山湾に面した小さな入り江にある縄文時代の集落遺跡です。縄文時代の前期から晩期まで、およそ4000年もの長い間、人々が暮らし続けた場所として知られています。地層からは大量のイルカの骨が見つかり、この地でイルカ漁が盛んに行われていたことがわかりました。また、クリの巨木を半分に割った柱を円形に並べた環状木柱列の跡や、模様を刻んだ木の柱なども発見されています。多くの出土品が国の重要文化財に指定され、遺跡のそばには真脇遺跡縄文館があります。",
+  "descriptionEn": "The Mawaki Site is a Jomon village in a small cove of the Noto Peninsula facing Toyama Bay, where people lived continuously for about 4,000 years, from the Early to the Final Jomon period. Huge numbers of dolphin bones show that dolphin hunting thrived here. Excavators also found a ring of massive split chestnut posts and a carved wooden pillar, and many finds are Important Cultural Properties displayed at the nearby Mawaki Jomon Museum.",
+  "kidsDescription": "まわきいせきは、じょうもんじだいのひとが、なんと4000ねんものあいだくらしつづけたむらのあとです。うみのちかくにあって、イルカのほねがたくさんみつかりました。おおきなきのはしらを、まるくならべたあともあって、なににつかったのか、いまもなぞです。",
+  "highlights": [
+    "環状木柱列",
+    "入り江の風景",
+    "真脇遺跡縄文館の出土品"
+  ],
+  "prefecture": "石川県",
+  "city": "能登町",
+  "lat": 37.305389,
+  "lng": 137.207444,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mawaki_Site.jpg/960px-Mawaki_Site.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mawaki_Site.jpg/330px-Mawaki_Site.jpg",
+    "author": "MChew",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mawaki_Site.jpg"
+  },
+  "chapters": [
+    {
+      "title": "4000年続いたムラ",
+      "text": "真脇遺跡は、能登半島の内浦と呼ばれる穏やかな海に面した入り江にあります。ここでは、縄文時代の前期から晩期まで、およそ4000年という長い期間にわたって人々が暮らし続けました。これほど長く一つの場所に暮らしが続いた遺跡は珍しく、海の幸と山の幸に恵まれた住みやすい土地だったと考えられています。低い湿った土地にあったため、木で作られた道具や柱なども腐らずに残り、縄文時代の暮らしを知る貴重な手がかりとなっています。",
+      "titleEn": "A Village That Lasted 4,000 Years",
+      "textEn": "The Mawaki Site lies in a cove on the calm inner coast of the Noto Peninsula, where people lived for some 4,000 years from the Early to the Final Jomon period. Such a long, continuous settlement is rare and suggests a place rich in food from both sea and mountains. Because the ground was low and damp, wooden tools and posts survived, offering precious clues to Jomon life."
+    },
+    {
+      "title": "イルカの骨と巨大な柱",
+      "text": "真脇遺跡を有名にしたのは、地層から見つかった大量のイルカの骨です。入り江に入ってきたイルカをとらえる漁が盛んに行われていたと考えられ、その骨は、縄文時代の人々の食生活を物語っています。もう一つの大きな発見が、環状木柱列です。クリの巨木を半分に割った太い柱が、円を描くように並べて立てられていました。何のための施設だったのかははっきりしていませんが、祭りや儀式の場だったのではないかと考えられています。",
+      "titleEn": "Dolphin Bones and Giant Posts",
+      "textEn": "Mawaki is famous for the vast number of dolphin bones found in its layers, evidence of dolphins being caught as they entered the cove. Another major discovery is a ring of thick posts made from split chestnut trunks. Its purpose is still uncertain, but it is thought to have been a place for festivals or rituals."
+    },
+    {
+      "title": "入り江の遺跡に立って",
+      "text": "今いる真脇遺跡の周りを見渡してみてください。目の前には穏やかな入り江が広がり、背後には緑の山が迫っています。縄文時代の人々も、この海と山の恵みに支えられて暮らしていました。遺跡の公園では、環状木柱列の姿が再現されていて、巨大な柱の太さを実感することができます。そばにある真脇遺跡縄文館では、土器や木の道具、イルカの骨など、ここで見つかった出土品を紹介しています。4000年の暮らしに思いをはせてみましょう。",
+      "titleEn": "Standing in the Cove",
+      "textEn": "Look around: a calm cove lies before you and green hills rise behind, the same blessings of sea and mountain that sustained Jomon people. In the site park the post circle has been recreated, so you can feel how massive the posts were. The nearby Mawaki Jomon Museum introduces the pottery, wooden tools and dolphin bones found here.",
+      "localOnly": true
+    },
+    {
+      "title": "まるくならんだはしら",
+      "text": "まわきいせきでは、ふといきのはしらが、まるくならんでたっていたあとがみつかりました。じょうもんじだいのひとたちは、なにのためにこんなおおきなはしらをたてたのでしょう。おまつりのため、それともほしをみるため。みんなもすきなこたえをかんがえてみてください。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11583492"
+}

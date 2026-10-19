@@ -1,0 +1,61 @@
+{
+  "id": "sado-mine",
+  "title": "佐渡金山（佐渡金銀山遺跡）",
+  "titleEn": "Sado Gold Mine (Sado Gold and Silver Mine Site)",
+  "kana": "さどきんざん",
+  "type": "ruins",
+  "eras": [
+    "江戸時代",
+    "明治時代",
+    "昭和時代"
+  ],
+  "summary": "江戸幕府を支えた日本最大級の金銀山の跡",
+  "description": "佐渡金銀山遺跡は、佐渡島に残る日本最大級の金銀山の跡です。江戸時代の初めに相川で大規模な金銀の鉱脈が見つかると、江戸幕府の直轄地として開発が進められ、産出された金銀は幕府の財政を支えました。手作業で掘り進めた坑道や、山が二つに割れたように見える道遊の割戸などに、当時の採掘のすさまじさがうかがえます。明治時代以降は近代的な技術が導入され、1989年まで採掘が続けられました。2024年には「佐渡島の金山」として世界遺産に登録されています。",
+  "descriptionEn": "The Sado Gold and Silver Mine Site on Sado Island preserves one of Japan's largest precious-metal mines. After rich veins were found at Aikawa in the early Edo period, the shogunate placed the area under direct control, and its gold and silver supported the shogunate's finances. Hand-dug tunnels and Doyu-no-Wareto, a mountain that appears split in two by mining, show the scale of the work, and modern technology introduced from the Meiji era kept the mine running until 1989. In 2024 it was inscribed as a World Heritage site as the Sado Island Gold Mines.",
+  "kidsDescription": "佐渡金山は、佐渡島にある、金や銀をほり出した山のあとです。江戸じだいには、ここでとれた金で、たくさんの小判がつくられました。人の手でほったトンネルや、山がまっぷたつにわれたような場所があります。せかいいさんにもなっています。",
+  "highlights": [
+    "山が割れたような道遊の割戸",
+    "江戸時代の手掘りの坑道",
+    "北沢浮遊選鉱場の遺構"
+  ],
+  "prefecture": "新潟県",
+  "city": "佐渡市",
+  "lat": 38.0416,
+  "lng": 138.256,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Dohyu_no_Warito_ac_%283%29.jpg/960px-Dohyu_no_Warito_ac_%283%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Dohyu_no_Warito_ac_%283%29.jpg/330px-Dohyu_no_Warito_ac_%283%29.jpg",
+    "author": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dohyu_no_Warito_ac_(3).jpg"
+  },
+  "chapters": [
+    {
+      "title": "幕府を支えた金と銀",
+      "text": "佐渡島では、江戸時代より前から金や銀の採掘が行われていましたが、江戸時代の初めに、相川で大きな金銀の鉱脈が見つかったことで、一気に開発が進みました。江戸幕府は佐渡を直轄地とし、奉行所を置いて金銀山の経営にあたりました。佐渡でとれた金や銀は、小判などの貨幣の材料にもなり、幕府の財政を大きく支えました。鉱山の発展とともに、相川には各地から多くの人々が集まり、山あいに大きな町が生まれました。",
+      "titleEn": "Gold and Silver for the Shogunate",
+      "textEn": "Mining on Sado began before the Edo period, but development surged when large gold and silver veins were discovered at Aikawa in the early 1600s. The shogunate made Sado its direct territory and set up a magistrate's office to run the mines, and the gold and silver became material for coins such as koban, greatly supporting its finances. As the mines grew, many people gathered and a large town arose in the mountains of Aikawa."
+    },
+    {
+      "title": "鉱山で働いた人々",
+      "text": "江戸時代の採掘は、ほとんどが人の手によるものでした。坑夫たちは、のみとつちで岩を砕きながら、地中深くへと坑道を掘り進めました。深くなるほど湧き出す水に悩まされ、その水をくみ出す作業には多くの人手が必要でした。この厳しい作業には、江戸などから送られてきた無宿人と呼ばれる人々も従事しました。明治時代になると、西洋の技術を取り入れた近代的な鉱山へと生まれ変わり、昭和の終わりまで操業が続きました。戦時中には朝鮮半島出身の人々も働いており、こうした歴史も含めて伝えていくことが大切にされています。",
+      "titleEn": "People of the Mine",
+      "textEn": "In the Edo period, mining was almost entirely done by hand, as miners chipped through rock with chisels and hammers. The deeper they dug, the more groundwater flooded the tunnels, and draining it required many workers, including homeless people sent from Edo. From the Meiji era the mine was modernized with Western technology and operated until the end of the Showa era; people from the Korean Peninsula also worked here during the war, a history that is also being passed on today."
+    },
+    {
+      "title": "鉱山跡で見たいもの",
+      "text": "相川の鉱山跡に立ったら、まず、どうゆうのわりとを見上げてみてください。山の頂上から真っ二つに割れたような巨大な切れ込みは、金の鉱脈を求めて、人の手で掘り進めた跡です。見学用に公開されている坑道では、江戸時代の採掘の様子を人形で再現した展示や、明治以降の近代的な坑道を見ることができます。また、少し下った北沢地区には、鉱石から金や銀を取り出すための浮遊選鉱場の巨大な遺構が残り、近代の産業遺産としての迫力を感じられます。",
+      "titleEn": "What to See at the Mine",
+      "textEn": "At the Aikawa mine site, first look up at Doyu-no-Wareto, a huge V-shaped cleft splitting the mountaintop, carved by hand in search of gold veins. In the tunnels open to visitors you can see figures recreating Edo-period mining as well as modern tunnels from the Meiji era onward. Down in the Kitazawa area, the massive remains of a flotation plant used to extract gold and silver from ore convey the power of Japan's industrial heritage.",
+      "localOnly": true
+    },
+    {
+      "title": "山がわれたひみつ",
+      "text": "佐渡金山には、山のてっぺんが、まるでおのでわったように、まっぷたつになっている場所があります。これは、山の中の金をさがして、人がほりすすめたあとなのです。大きなきかいもない時代に、人の手でここまでほったと思うと、びっくりしますね。どれくらいの人が、どれくらいの時間をかけてほったのか、そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11248197"
+}

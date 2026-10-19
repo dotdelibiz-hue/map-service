@@ -1,0 +1,59 @@
+{
+  "id": "sanuki-kokubun-ji-temple",
+  "title": "讃岐国分寺跡",
+  "titleEn": "Sanuki Kokubun-ji Temple Site",
+  "kana": "さぬきこくぶんじあと",
+  "type": "ruins",
+  "eras": [
+    "奈良時代"
+  ],
+  "summary": "奈良時代の伽藍の姿をよく伝える国分寺跡",
+  "description": "讃岐国分寺跡は、奈良時代に聖武天皇の命によって讃岐の国に建てられた国分寺の跡で、国の特別史跡に指定されています。現在も、四国八十八箇所霊場の第八十番札所である国分寺がその歴史を受け継ぎ、境内には創建当時の金堂や七重塔の礎石が残っています。発掘調査によって寺の範囲や建物の配置が詳しく分かり、僧たちが暮らした僧坊の跡なども確認されました。隣接する資料館では、出土品や模型などを通して、奈良時代の国分寺の姿を思い描くことができます。",
+  "descriptionEn": "The Sanuki Kokubun-ji Temple Site is the remains of the provincial temple built in Sanuki Province by order of Emperor Shomu in the Nara period, and is designated a Special Historic Site. Kokubun-ji, Temple 80 of the Shikoku Pilgrimage, carries on its history today, and foundation stones of the original main hall and seven-story pagoda remain in its grounds. Excavations have clarified the temple's layout, including the monks' living quarters, and an adjacent museum uses excavated items and models to show what the temple looked like.",
+  "kidsDescription": "さぬきこくぶんじあとは、1200年いじょうまえの、ならじだいにつくられた大きなおてらのあとです。おてらのたてものをささえていた大きないしずえが、いまもじめんにならんでいます。そのいしの上には、むかし、たかいとうがたっていたんですよ。",
+  "highlights": [
+    "七重塔跡の礎石",
+    "金堂跡の礎石",
+    "整備された僧坊の跡"
+  ],
+  "prefecture": "香川県",
+  "city": "端岡村",
+  "lat": 34.303056,
+  "lng": 133.944167,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Sanuki_Kokubunji_06.JPG/960px-Sanuki_Kokubunji_06.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Sanuki_Kokubunji_06.JPG/330px-Sanuki_Kokubunji_06.JPG",
+    "author": "Reggaeman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanuki_Kokubunji_06.JPG"
+  },
+  "chapters": [
+    {
+      "title": "讃岐の国の国分寺",
+      "text": "奈良時代の741年、聖武天皇は国の平和と人々の幸せを願い、全国の国ごとに国分寺を建てるよう命じました。讃岐国分寺は、その命を受けて讃岐の国に建てられた寺です。寺の周りは塀で四角く区切られ、その中に金堂や講堂、七重塔、僧が暮らす僧坊などが整然と配置されていました。発掘調査によって、こうした伽藍の配置が詳しく分かったことから、国分寺の姿を知るうえで大切な遺跡として、特別史跡に指定されています。",
+      "titleEn": "The Provincial Temple of Sanuki",
+      "textEn": "In 741, Emperor Shomu, hoping for peace and the well-being of the people, ordered every province to build a provincial temple. Sanuki Kokubun-ji was built in response, with a rectangular precinct enclosed by walls and an orderly arrangement of the main hall, lecture hall, seven-story pagoda and monks' quarters. Excavations clarified this layout in detail, making the site important for understanding provincial temples and earning it designation as a Special Historic Site."
+    },
+    {
+      "title": "受け継がれる祈り",
+      "text": "讃岐国分寺の創建当時の建物は、時代とともに失われていきましたが、寺そのものは途絶えることなく受け継がれてきました。現在の国分寺は、四国八十八箇所霊場の第八十番札所として、今も多くのお遍路さんが訪れます。本堂は、かつての講堂があった場所に建てられた鎌倉時代の建物で、国の重要文化財に指定されています。奈良時代に始まった国分寺の祈りが、形を変えながら今も続いていることを感じられる場所です。",
+      "titleEn": "Prayers Carried On",
+      "textEn": "Although its original buildings were lost over time, the temple itself has continued without interruption. Today's Kokubun-ji is Temple 80 of the Shikoku Pilgrimage and welcomes many pilgrims, and its Main Hall, a Kamakura-period building and Important Cultural Property, stands where the lecture hall once was. Here the prayers begun in the Nara period continue in a new form."
+    },
+    {
+      "title": "礎石の前に立って",
+      "text": "境内に入ったら、地面に並ぶ大きな礎石に注目してください。これは創建当時の金堂を支えていた礎石で、建物の大きさを足元から感じ取ることができます。また、七重塔の跡にも礎石が残っています。中心の礎石を囲むように石が並んでおり、ここに高い塔がそびえていた様子を想像してみてください。史跡の一角では僧坊の跡が整備されていて、隣接する資料館とあわせて見学すると、奈良時代の寺の姿がよく分かります。",
+      "titleEn": "Standing Before the Foundation Stones",
+      "textEn": "In the temple grounds, look for the large foundation stones that once supported the original main hall, letting you sense its size from your feet. The foundation stones of the seven-story pagoda also remain, arranged around a central stone, so imagine the tall tower that once rose here. In another part of the site the monks' quarters have been laid out for display, and together with the adjacent museum they bring the Nara-period temple to life.",
+      "localOnly": true
+    },
+    {
+      "title": "いしずえからそうぞうしよう",
+      "text": "こくぶんじあとには、大きな石がならんでいます。これはいしずえといって、たてもののはしらをのせていた石です。ななじゅうのとうは、とてもたかいたてものだったと考えられています。いしずえのならびかたを見て、どれくらい大きなたてものだったか、そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1101226"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "mount-komaki",
+  "title": "小牧山（小牧山城跡）",
+  "titleEn": "Mount Komaki (Komakiyama Castle Ruins)",
+  "kana": "こまきやま",
+  "type": "castle",
+  "eras": [
+    "戦国時代",
+    "安土桃山時代"
+  ],
+  "summary": "信長が城を築き家康が陣を構えた山",
+  "description": "小牧山は、濃尾平野にぽつんとそびえる標高86メートルほどの小さな山です。1563年に織田信長が清洲から本拠を移して城を築き、美濃攻めの拠点としました。信長が岐阜へ移ると城は使われなくなりましたが、1584年の小牧・長久手の戦いでは徳川家康が陣を構え、堀や土塁を築き直して羽柴秀吉の軍と向かい合いました。近年の発掘調査では、信長の時代の石垣が見つかり、本格的な石垣をもつ城の先駆けとして注目されています。山全体が史跡公園として整備され、山頂には小牧市歴史館が建っています。",
+  "descriptionEn": "Mount Komaki is a small hill about 86 meters high rising alone from the Nobi Plain. Oda Nobunaga moved his base here from Kiyosu in 1563 and built a castle for his campaign against Mino, and in 1584 Tokugawa Ieyasu rebuilt its moats and ramparts as his camp against Hashiba Hideyoshi in the Battle of Komaki and Nagakute. Recent excavations have uncovered stone walls from Nobunaga's time, marking it as a forerunner of stone-walled castles. The whole hill is a historic park, with the Komaki City History Museum on the summit.",
+  "kidsDescription": "こまきやまは、たいらなところにぽつんとある、ちいさなやまです。おだのぶながが、ここにおしろをつくりました。そのあと、とくがわいえやすも、ここにじんちをつくってたたかいました。ふたりのゆうめいなぶしょうに、ゆかりのあるやまです。",
+  "highlights": [
+    "信長時代の石垣",
+    "家康が築いた土塁と堀",
+    "山頂からの濃尾平野の眺め"
+  ],
+  "prefecture": "愛知県",
+  "city": "堀の内",
+  "lat": 35.2925,
+  "lng": 136.913611,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Komakiyama_castle1.jpg/960px-Komakiyama_castle1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Komakiyama_castle1.jpg/330px-Komakiyama_castle1.jpg",
+    "author": "Bariston",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komakiyama_castle1.jpg"
+  },
+  "chapters": [
+    {
+      "title": "信長が築いた城",
+      "text": "小牧山は、広い濃尾平野の中にぽつんとそびえる小さな山です。1563年、織田信長は、それまでの本拠だった清洲から小牧山に移り、ここに城を築きました。北に広がる美濃の国を攻めるための拠点だったと考えられています。信長は、山のふもとに計画的な城下町もつくりました。しかし1567年に美濃を手に入れると、信長は岐阜へと本拠を移し、小牧山城はわずか4年ほどでその役目を終えました。",
+      "titleEn": "Nobunaga's Castle",
+      "textEn": "Mount Komaki is a small hill rising alone from the wide Nobi Plain. In 1563 Oda Nobunaga moved his base here from Kiyosu and built a castle, apparently to prepare for his campaign against Mino to the north, along with a planned castle town at its foot. When he conquered Mino in 1567 he moved to Gifu, and the castle's role ended after only about four years."
+    },
+    {
+      "title": "小牧・長久手の戦いと家康",
+      "text": "信長が本能寺の変で亡くなった後、天下の行方をめぐって羽柴秀吉と、織田信雄と手を結んだ徳川家康が対立しました。1584年の小牧長久手の戦いです。家康は小牧山に本陣を置き、かつての信長の城跡に堀や土塁を築き直して、守りを固めました。秀吉の大軍とにらみ合いが続くなか、長久手での戦いでは家康の軍が勝利を収めます。最後には和睦となりましたが、この戦いで家康の名はさらに高まりました。",
+      "titleEn": "Ieyasu and the Battle of Komaki and Nagakute",
+      "textEn": "After Nobunaga's death at Honno-ji, Hashiba Hideyoshi clashed with Tokugawa Ieyasu, allied with Oda Nobukatsu, in the 1584 Battle of Komaki and Nagakute. Ieyasu made his headquarters on Mount Komaki, rebuilding moats and ramparts on Nobunaga's old castle site. During the long standoff his forces won the fighting at Nagakute, and although the war ended in a settlement, Ieyasu's reputation grew greatly."
+    },
+    {
+      "title": "山を登って石垣を探す",
+      "text": "今いる小牧山では、山道を登りながら、信長の時代の城の跡を探してみましょう。山頂に近い場所では、発掘調査で見つかった石垣が整備されていて、大きな石を積み上げた様子を見ることができます。こうした本格的な石垣は、信長がのちに築く安土城へとつながる先駆けと考えられています。山のふもと近くでは、家康が築いた土塁や堀の跡も確かめられます。山頂の歴史館の近くからは、濃尾平野が見渡せ、この山が見張りに適した場所だったことがよくわかります。",
+      "titleEn": "Climbing the Hill to Find Stone Walls",
+      "textEn": "As you climb, look for traces of Nobunaga's castle: near the summit, stone walls uncovered by excavation show large stones stacked in place, seen as forerunners of those at his later Azuchi Castle. Lower down you can trace the earthworks and moats built by Ieyasu. From near the summit museum the Nobi Plain spreads out, showing why this hill made such a good lookout.",
+      "localOnly": true
+    },
+    {
+      "title": "ふたりのぶしょうのやま",
+      "text": "こまきやまには、おだのぶながと、とくがわいえやすという、ふたりのゆうめいなぶしょうがやってきました。のぶながはおしろをつくり、いえやすはたたかいのためのじんちをつくりました。もしあなたがぶしょうなら、このやまのどこにじんちをつくりますか。やまのうえからまわりをみて、かんがえてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q2969495"
+}

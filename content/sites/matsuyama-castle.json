@@ -1,0 +1,59 @@
+{
+  "id": "matsuyama-castle",
+  "title": "松山城",
+  "titleEn": "Matsuyama Castle",
+  "kana": "まつやまじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "勝山の頂にそびえる現存天守の名城",
+  "description": "松山城は、1602年に加藤嘉明が勝山の山頂に築き始めた城で、愛媛県松山市の中心にそびえています。江戸時代には松平氏が城主となり、明治時代まで松山藩の中心でした。現在の天守は、落雷による焼失の後、江戸時代の終わりに再建されたもので、江戸時代から残る現存天守の一つです。天守のほかにも多くの櫓や門が残り、国の重要文化財に指定されています。山の斜面を守る登り石垣も見どころで、山頂からは松山の町並みや瀬戸内海を一望できます。",
+  "descriptionEn": "Matsuyama Castle, begun in 1602 by Kato Yoshiaki atop Mt. Katsuyama, rises in the heart of Matsuyama City. Later ruled by the Matsudaira family until the Meiji era, its present keep was rebuilt at the end of the Edo period after being destroyed by lightning, and it is one of Japan's original surviving keeps. Many turrets and gates also survive as Important Cultural Properties, and the castle is known for its climbing stone walls running down the slopes and for sweeping views of the city and the Seto Inland Sea.",
+  "kidsDescription": "まつやまじょうは、まちのまん中にある山の上にたつおしろです。てんしゅは、えどじだいからのこっている、ほんもののてんしゅです。てんしゅのいちばん上からは、まつやまのまちや、とおくのうみまで見わたせますよ。",
+  "highlights": [
+    "連立式の現存天守",
+    "山腹をのぼる登り石垣",
+    "本丸からの瀬戸内の眺め"
+  ],
+  "prefecture": "愛媛県",
+  "city": "松山市",
+  "lat": 33.845539,
+  "lng": 132.765722,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Marunouchi%2C_Matsuyama%2C_Ehime_Prefecture_790-0008%2C_Japan_-_panoramio_%2880%29.jpg/960px-Marunouchi%2C_Matsuyama%2C_Ehime_Prefecture_790-0008%2C_Japan_-_panoramio_%2880%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Marunouchi%2C_Matsuyama%2C_Ehime_Prefecture_790-0008%2C_Japan_-_panoramio_%2880%29.jpg/330px-Marunouchi%2C_Matsuyama%2C_Ehime_Prefecture_790-0008%2C_Japan_-_panoramio_%2880%29.jpg",
+    "author": "Masoud Akbari",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi,_Matsuyama,_Ehime_Prefecture_790-0008,_Japan_-_panoramio_(80).jpg"
+  },
+  "chapters": [
+    {
+      "title": "加藤嘉明の築城",
+      "text": "松山城を築いたのは、豊臣秀吉に仕え、賤ヶ岳の七本槍の一人として知られる加藤嘉明です。関ヶ原の戦いの後、20万石の大名となった嘉明は、1602年に勝山で城づくりを始めました。工事は長く続き、嘉明が会津へ移った後、蒲生氏を経て、1635年に松平定行が城主となりました。以後、松平氏が明治時代まで松山藩を治めました。山の上の本丸と、ふもとの二之丸、三之丸が一体となった、大きな平山城です。",
+      "titleEn": "Kato Yoshiaki Builds a Castle",
+      "textEn": "Matsuyama Castle was built by Kato Yoshiaki, a retainer of Toyotomi Hideyoshi famed as one of the Seven Spears of Shizugatake. Made lord of a 200,000-koku domain after Sekigahara, he began work on Mt. Katsuyama in 1602. After he moved to Aizu and the Gamo family briefly ruled, Matsudaira Sadayuki became lord in 1635, and the Matsudaira governed until the Meiji era."
+    },
+    {
+      "title": "よみがえった天守",
+      "text": "松山城の天守は、江戸時代の中ごろの1784年、落雷によって焼失してしまいました。その後、再建には長い年月がかかり、現在の天守が完成したのは江戸時代の終わり、1854年のことです。そのため、現存する12の天守の中で、最も新しく建てられたものといわれています。大天守と小天守、櫓を渡り廊下でつないだ連立式と呼ばれる形で、守りの固い天守群をつくり上げています。再建された天守には、江戸時代の城づくりの技が受け継がれています。",
+      "titleEn": "The Keep Reborn",
+      "textEn": "Matsuyama Castle's keep was destroyed by lightning in 1784. Rebuilding took many years, and the present keep was finally completed in 1854, at the end of the Edo period, making it said to be the newest of Japan's twelve surviving original keeps. Its main keep, smaller keep and turrets are linked by corridors in a renritsu layout, forming a tightly defended group."
+    },
+    {
+      "title": "本丸で見てほしいもの",
+      "text": "本丸に着いたら、まず天守群の姿を眺めてください。大天守と小天守、櫓が渡り廊下でつながり、中庭を囲むように建つ様子は、守りを固めた城の工夫そのものです。門をくぐるたびに道が折れ曲がり、敵が一気に攻め込めないようになっていることにも気づくでしょう。天守の最上階からは、松山の町並みと瀬戸内海、遠くの山々まで見渡せます。帰り道には、山の斜面を上り下りする登り石垣の姿も探してみてください。",
+      "titleEn": "What to See in the Main Bailey",
+      "textEn": "In the main bailey, take in the keep complex: the main keep, smaller keep and turrets joined by corridors around an inner courtyard, a clear example of defensive design. Notice how the path bends at each gate so attackers could not rush straight in. From the top of the keep you can see the city, the Seto Inland Sea and distant mountains, and on the way down look for the climbing stone walls running along the slopes.",
+      "localOnly": true
+    },
+    {
+      "title": "かみなりとてんしゅ",
+      "text": "まつやまじょうのてんしゅは、むかし、かみなりがおちてやけてしまいました。それから70年ほどたって、ようやくもういちどたてなおされたんです。いま見ているてんしゅは、そのときのものです。ながいじかんをかけてたてなおしたおしろを、これからもだいじにしていきたいですね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q981357"
+}

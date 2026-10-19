@@ -1,0 +1,234 @@
+.wrapper {
+  padding: 48px 24px 56px;
+}
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: var(--color-primary);
+}
+.titleDark {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+.lead {
+  margin-top: 12px;
+  font-size: 15px;
+  line-height: 1.7;
+  text-align: center;
+  color: var(--text-medium);
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 40px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-medium);
+}
+.note {
+  margin-top: 2px;
+  font-size: 12px;
+  color: var(--text-light);
+}
+.inputWrap {
+  position: relative;
+  margin-top: 8px;
+}
+.input {
+  width: 100%;
+  height: 54px;
+  padding: 0 48px 0 52px;
+  border: 1px solid #c8c8cc;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--text-dark);
+  outline: none;
+  transition: border-color 0.15s;
+}
+.input:focus {
+  border-color: var(--color-primary);
+}
+.inputPlain {
+  padding-left: 16px;
+}
+.inputError {
+  border-color: var(--color-red);
+}
+.inputIcon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--gray);
+  pointer-events: none;
+}
+.eye {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: none;
+  background: none;
+  color: var(--gray);
+}
+.error {
+  margin-top: 6px;
+  font-size: 13px;
+  color: var(--color-red);
+}
+.formError {
+  padding: 12px;
+  border-radius: 8px;
+  background: #fdecee;
+  color: var(--color-red);
+  font-size: 14px;
+  line-height: 1.6;
+}
+.success {
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  font-size: 14px;
+  line-height: 1.6;
+}
+.forgot {
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+  color: var(--text-medium);
+}
+.forgot a {
+  color: var(--color-primary);
+  font-weight: 700;
+  text-decoration: none;
+}
+.or {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 36px 0 20px;
+  font-size: 13px;
+  color: var(--text-light);
+}
+.or::before,
+.or::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.sub {
+  margin-bottom: 12px;
+  font-size: 14px;
+  text-align: center;
+  color: var(--text-medium);
+}
+.radioGroup {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+.radioItem {
+  flex: 1;
+  position: relative;
+}
+.radioItem input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.radioItem span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  border: 1px solid #c8c8cc;
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.radioItem input:checked + span {
+  border-color: var(--color-primary);
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+}
+.radioItem input:focus-visible + span {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+.selectRow {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+.select {
+  flex: 1;
+  height: 48px;
+  padding: 0 8px;
+  border: 1px solid #c8c8cc;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--text-dark);
+}
+.consent {
+  font-size: 13px;
+  line-height: 1.8;
+  text-align: center;
+  color: var(--text-medium);
+}
+.consent a {
+  color: var(--color-primary);
+}
+.demoNote {
+  margin-top: 20px;
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: #fff8e0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--text-dark);
+}
+.verifyIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  font-size: 30px;
+  font-weight: 700;
+}
+.email {
+  margin-top: 16px;
+  font-weight: 700;
+  text-align: center;
+  word-break: break-all;
+}
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 28px;
+}

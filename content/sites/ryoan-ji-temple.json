@@ -1,0 +1,59 @@
+{
+  "id": "ryoan-ji-temple",
+  "title": "龍安寺",
+  "titleEn": "Ryoan-ji",
+  "kana": "りょうあんじ",
+  "type": "temple",
+  "eras": [
+    "室町時代"
+  ],
+  "summary": "15の石が語りかける、謎に満ちた枯山水の石庭",
+  "description": "龍安寺は、京都市右京区にある臨済宗妙心寺派の寺院です。室町時代の1450年、幕府の重臣だった細川勝元が、貴族の徳大寺家の山荘を譲り受けて創建しました。応仁の乱で焼けたのち、勝元の子の細川政元によって再興されました。広く知られているのが方丈の前にある石庭で、白砂の上に大小15の石が配されています。いつ誰が作ったのか、何を表しているのかははっきりせず、見る人がそれぞれに意味を考える庭として親しまれています。方丈庭園は国の史跡と特別名勝に指定され、古都京都の文化財として世界遺産にも登録されています。",
+  "descriptionEn": "Ryoan-ji is a temple of the Myoshin-ji branch of Rinzai Zen in northwestern Kyoto, founded in 1450 by the powerful official Hosokawa Katsumoto on the site of an aristocratic villa. Burned during the Onin War, it was rebuilt by his son Masamoto. Its famous rock garden in front of the abbot's quarters arranges fifteen stones on white gravel, and since its creator, date and meaning are uncertain, each visitor is free to interpret it. The garden is a Historic Site and Special Place of Scenic Beauty, and the temple is part of a World Heritage Site.",
+  "kidsDescription": "りょうあんじは、京都にあるお寺です。白いすなの上に、15この石がならべられたにわがゆうめいです。木や花はほとんどなく、石とすなとこけだけでできたふしぎなにわです。えんがわにすわって、なにに見えるかかんがえてみましょう。",
+  "highlights": [
+    "白砂に15の石を配した石庭",
+    "油を混ぜたと伝わる土塀",
+    "季節ごとに美しい鏡容池"
+  ],
+  "prefecture": "京都府",
+  "city": "右京区",
+  "lat": 35.034444,
+  "lng": 135.718333,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/250201_Ryoan-ji_Kyoto_Japan06s3.jpg/960px-250201_Ryoan-ji_Kyoto_Japan06s3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/250201_Ryoan-ji_Kyoto_Japan06s3.jpg/330px-250201_Ryoan-ji_Kyoto_Japan06s3.jpg",
+    "author": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:250201_Ryoan-ji_Kyoto_Japan06s3.jpg"
+  },
+  "chapters": [
+    {
+      "title": "細川勝元と寺のはじまり",
+      "text": "龍安寺のある場所には、もともと貴族の徳大寺家の山荘がありました。室町時代の1450年、幕府で重い役目をつとめた細川勝元がこの地を譲り受け、禅寺を開きました。しかし、勝元が東軍の大将として戦った応仁の乱で、寺は焼けてしまいます。その後、勝元の子の政元によって再興されました。寺の南側に広がる鏡容池は、徳大寺家の時代の名残を伝えるといわれ、春の桜や秋の紅葉など、季節ごとに美しい姿を見せてくれます。",
+      "titleEn": "The Founding by Hosokawa Katsumoto",
+      "textEn": "The site was once a villa of the aristocratic Tokudaiji family. In 1450 Hosokawa Katsumoto, a leading official of the Muromachi shogunate, acquired it and founded a Zen temple, but the temple burned in the Onin War, in which Katsumoto led the Eastern Army. It was rebuilt by his son Masamoto, and Kyoyochi Pond to the south, said to survive from the Tokudaiji era, is beautiful in every season."
+    },
+    {
+      "title": "謎の石庭",
+      "text": "方丈の前にある石庭は、白砂を敷きつめた長方形の庭に、大小15の石を五つのまとまりに分けて配したものです。木や草花をほとんど使わず、石と砂で自然を表す、枯山水と呼ばれる庭です。この庭は、海に浮かぶ島々を表しているとも、虎の親子が川を渡る姿だともいわれますが、作られた時代や作者ははっきりしていません。また、縁側のどこから見ても、15の石すべてを一度に見ることはできないともいわれています。答えが決まっていないからこそ、多くの人を引きつけてきたのかもしれません。",
+      "titleEn": "The Mysterious Rock Garden",
+      "textEn": "The rock garden is a rectangle of white gravel with fifteen stones of different sizes set in five groups, a dry landscape garden that expresses nature with stone and sand alone. Some say it shows islands in the sea, others a tiger leading her cubs across a river, but its date and creator are unknown. It is also said that from no spot on the veranda can all fifteen stones be seen at once."
+    },
+    {
+      "title": "方丈の縁側に座って",
+      "text": "方丈に上がったら、縁側に腰を下ろして石庭を眺めてみましょう。石の数を数えながら、座る場所を少しずつ変えてみると、見える石の組み合わせが変わっていくのが分かります。庭を囲む土塀は、油を混ぜた土で造られたと伝えられ、長い年月の間に浮き出た模様が、落ち着いた色合いを生んでいます。方丈の裏手には、真ん中の四角い穴を口の字に見立て、われただたるをしる、と読ませる文字を刻んだつくばいがあります。帰り道には、鏡容池のまわりもゆっくり歩いてみてください。",
+      "titleEn": "Sitting on the Veranda",
+      "textEn": "Sit on the veranda of the abbot's quarters and try counting the stones as you shift your position; the combinations you can see keep changing. The surrounding earthen wall is said to have been made with oil mixed into the clay, and the patterns that have emerged over the years give it a mellow color. Behind the building is a stone water basin whose carved characters, sharing the square hole at its center, read 'I know only contentment.'",
+      "localOnly": true
+    },
+    {
+      "title": "石はぜんぶでいくつ",
+      "text": "りょうあんじのにわには、石が15こあります。でも、えんがわにすわってかぞえてみると、どこから見ても、どれかの石がほかの石にかくれて見えないといわれています。ほんとうかどうか、すわるばしょをかえて、じぶんの目でたしかめてみましょう。きみには、いくつの石が見えたかな。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q587371"
+}

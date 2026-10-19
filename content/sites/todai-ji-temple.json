@@ -1,0 +1,60 @@
+{
+  "id": "todai-ji-temple",
+  "title": "東大寺",
+  "titleEn": "Todai-ji",
+  "kana": "とうだいじ",
+  "type": "temple",
+  "eras": [
+    "奈良時代",
+    "鎌倉時代"
+  ],
+  "summary": "奈良の大仏さまで知られる聖武天皇の大寺院",
+  "description": "東大寺は、奈良時代に聖武天皇の願いによって建てられた寺院で、奈良の大仏さまとして親しまれる盧舎那仏を本尊としています。大仏は752年に開眼供養が行われ、東大寺は全国の国分寺の中心とされました。平安時代の終わりと戦国時代に戦火で大きな被害を受けましたが、そのたびに再建されました。現在の大仏殿は江戸時代に再建されたもので、世界最大級の木造建築です。南大門の金剛力士像や二月堂、法華堂など見どころが多く、境内は国の史跡に指定され、古都奈良の文化財として世界遺産にも登録されています。",
+  "descriptionEn": "Todai-ji was built in the Nara period at the wish of Emperor Shomu, and its principal image is the Great Buddha, the Rushana Buddha, which was consecrated in 752. The temple served as the head of the provincial temples throughout Japan, and although it was badly damaged by war in the late 12th and 16th centuries, it was rebuilt each time. The present Great Buddha Hall, rebuilt in the Edo period, is one of the largest wooden buildings in the world, and the temple is part of the Historic Monuments of Ancient Nara World Heritage Site.",
+  "kidsDescription": "とうだいじは、ならの大ぶつさまがいるお寺です。大ぶつさまは、すわったすがたで、高さが15メートルちかくもあります。むかしの天皇、しょうむてんのうが、くにが平和になるようにねがってつくりました。お寺のまわりには、シカもたくさんいます。",
+  "highlights": [
+    "大仏殿と奈良の大仏さま",
+    "南大門の金剛力士像",
+    "二月堂の舞台からの眺め"
+  ],
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "lat": 34.689167,
+  "lng": 135.839722,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg/960px-Daibutsu-den_in_Todaiji_Nara02bs3200.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg/330px-Daibutsu-den_in_Todaiji_Nara02bs3200.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daibutsu-den_in_Todaiji_Nara02bs3200.jpg"
+  },
+  "chapters": [
+    {
+      "title": "聖武天皇と大仏づくり",
+      "text": "奈良時代、都では病気の流行や災害、争いが続いていました。聖武天皇は、仏の力で国を安らかにしたいと願い、743年に大仏を造ることを命じました。大仏づくりには、ばく大な量の銅と、多くの人の力が必要でした。民衆に慕われていた僧の行基も協力し、多くの人々が工事に加わったといわれます。そして752年、インドから来た僧、菩提僊那を導師として、盛大な開眼供養が行われました。東大寺は、全国に置かれた国分寺の中心となる寺とされました。",
+      "titleEn": "Emperor Shomu and the Great Buddha",
+      "textEn": "In the Nara period the capital suffered epidemics, disasters and conflict, and in 743 Emperor Shomu ordered a Great Buddha to be made, hoping Buddhism would bring peace to the land. The project required vast amounts of copper and labor, and the popular monk Gyoki helped rally people to the work. In 752 a grand eye-opening ceremony was led by the Indian monk Bodhisena, and Todai-ji became the head of the provincial temples across Japan."
+    },
+    {
+      "title": "焼失と再建の歴史",
+      "text": "東大寺は、二度にわたって大きな戦火に見舞われました。一度目は平安時代の終わり、1180年の平氏による焼き討ちです。このとき、僧の重源が中心となって全国から寄付を集め、再建を進めました。南大門と、運慶や快慶らが造った金剛力士像は、この鎌倉時代の再建を伝えるものです。二度目は戦国時代の1567年の戦いで、大仏殿が再び焼けてしまいました。現在の大仏殿は江戸時代に再建されたもので、元の建物よりも横幅は小さくなりましたが、今も世界最大級の木造建築です。",
+      "titleEn": "Destruction and Rebuilding",
+      "textEn": "Todai-ji was twice devastated by war: first in 1180, when the Taira clan burned it at the end of the Heian period, after which the monk Chogen gathered donations nationwide to rebuild it. The Great South Gate and its guardian statues by Unkei, Kaikei and others remain from that Kamakura-period rebuilding. The Great Buddha Hall burned again in a battle in 1567, and the present hall, rebuilt in the Edo period, is narrower than the original but still one of the largest wooden buildings in the world."
+    },
+    {
+      "title": "境内を歩いて",
+      "text": "南大門をくぐるときは、左右に立つ大きな金剛力士像を見上げてみてください。口を開いた阿形と、口を閉じた吽形が、向かい合うように立っています。大仏殿に入ると、大仏さまの大きさに圧倒されるでしょう。大仏殿の中には、大仏さまの鼻の穴と同じ大きさといわれる穴が開いた柱もあります。時間があれば、東の山の斜面に建つ二月堂まで歩いてみましょう。舞台からは、大仏殿の大きな屋根や奈良の町並みを見渡すことができます。",
+      "titleEn": "Walking the Temple Grounds",
+      "textEn": "As you pass through the Great South Gate, look up at the giant guardian statues, one with mouth open and one with mouth closed, standing so that they face each other. Inside the Great Buddha Hall, the sheer size of the Buddha is overwhelming, and one pillar has a hole said to be the same size as the Buddha's nostril. If you have time, walk up to Nigatsu-do on the hillside to the east, whose veranda overlooks the hall's great roof and the city of Nara.",
+      "localOnly": true
+    },
+    {
+      "title": "大ぶつさまの大きさくらべ",
+      "text": "大ぶつさまは、すわっているのに、高さが15メートルちかくもあります。ビルの5かいくらいの高さです。大ぶつでんの中には、大ぶつさまのはなのあなとおなじ大きさといわれるあなが、あいたはしらもあります。子どもがとおれるくらいの大きさです。大ぶつさまがどれくらい大きいか、そうぞうできるかな。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q460367"
+}

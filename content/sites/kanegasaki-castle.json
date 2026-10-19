@@ -1,0 +1,60 @@
+{
+  "id": "kanegasaki-castle",
+  "title": "金ヶ崎城跡",
+  "titleEn": "Kanegasaki Castle Ruins",
+  "kana": "かねがさきじょう",
+  "type": "castle",
+  "eras": [
+    "南北朝時代",
+    "戦国時代"
+  ],
+  "summary": "南北朝と戦国の歴史が交わる海辺の城",
+  "description": "金ヶ崎城は、敦賀湾に突き出た小高い山に築かれた城です。南北朝時代の1336年、新田義貞が後醍醐天皇の皇子である恒良親王と尊良親王を奉じてこの城に入り、足利方の大軍と戦いました。翌年に城は落ち、尊良親王らが命を落としました。戦国時代の1570年には、朝倉氏を攻めた織田信長が浅井長政の離反で窮地に立たされ、急いで撤退した金ヶ崎の退き口の舞台にもなりました。現在、ふもとには両親王をまつる金崎宮があり、城跡からは敦賀湾を一望できます。",
+  "descriptionEn": "Kanegasaki Castle stood on a small hill jutting into Tsuruga Bay. In 1336, Nitta Yoshisada brought two sons of Emperor Go-Daigo here and fought Ashikaga forces, but the castle fell the next year and Prince Takanaga lost his life. In 1570 it was also the scene of Oda Nobunaga's hurried retreat after Azai Nagamasa turned against him. Kanegasaki Shrine, dedicated to the two princes, stands at the foot of the hill, and the ruins overlook Tsuruga Bay.",
+  "kidsDescription": "かねがさきじょうは、つるがのうみにつきでた、ちいさなやまにあったおしろです。むかし、ここでは2かいもおおきなたたかいがありました。おだのぶながが、あぶないところでにげかえったばしょとしても、ゆうめいです。やまのうえからは、うみがきれいにみえます。",
+  "highlights": [
+    "金崎宮",
+    "敦賀湾を望む月見御殿跡",
+    "尊良親王ゆかりの城跡"
+  ],
+  "prefecture": "福井県",
+  "city": "敦賀市",
+  "lat": 35.666083,
+  "lng": 136.074167,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanegasaki_Castle_Site_View_from_Tezutsu-yama.jpg/960px-Kanegasaki_Castle_Site_View_from_Tezutsu-yama.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanegasaki_Castle_Site_View_from_Tezutsu-yama.jpg/330px-Kanegasaki_Castle_Site_View_from_Tezutsu-yama.jpg",
+    "author": "立花左近",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanegasaki_Castle_Site_View_from_Tezutsu-yama.jpg"
+  },
+  "chapters": [
+    {
+      "title": "南北朝の悲劇",
+      "text": "金ヶ崎城は、敦賀湾に面した海辺の小高い山に築かれた城です。南北朝時代の1336年、後醍醐天皇に味方した新田義貞は、天皇の皇子である恒良親王と尊良親王を奉じて北陸へ向かい、この城に入りました。城は足利方の大軍に囲まれ、食料が尽きる厳しい戦いが続きます。そして翌年、ついに城は落ち、尊良親王や新田義貞の息子の義顕らが命を落としました。城のふもとにある金崎宮は、この二人の親王をまつる神社です。",
+      "titleEn": "A Tragedy of the Northern and Southern Courts",
+      "textEn": "Kanegasaki Castle was built on a seaside hill facing Tsuruga Bay. In 1336, Nitta Yoshisada, loyal to Emperor Go-Daigo, entered the castle with the emperor's sons, Prince Tsuneyoshi and Prince Takanaga. Besieged by Ashikaga forces and running out of food, the castle fell the following year, and Prince Takanaga and Yoshisada's son Yoshiaki died. Kanegasaki Shrine at the foot of the hill honors the two princes."
+    },
+    {
+      "title": "信長の金ヶ崎の退き口",
+      "text": "それからおよそ230年後の1570年、金ヶ崎城は再び歴史の舞台となります。越前の朝倉氏を攻めた織田信長は、この城を攻め落として進もうとしていました。ところが、妹のお市が嫁いでいた近江の浅井長政が朝倉方につき、信長は前後から挟み撃ちにされる危機に陥ります。信長は急いで京都へ引き返し、このとき城に残って追っ手を防ぐ役目を担ったのが、のちの豊臣秀吉だったと伝えられています。この撤退は金ヶ崎の退き口と呼ばれています。",
+      "titleEn": "Nobunaga's Retreat from Kanegasaki",
+      "textEn": "About 230 years later, in 1570, Oda Nobunaga took the castle while attacking the Asakura of Echizen. When Azai Nagamasa, husband of Nobunaga's sister Oichi, sided with the Asakura, Nobunaga faced attack from both sides and hurried back to Kyoto. The rear guard is said to have been led by the future Toyotomi Hideyoshi, and the episode is known as the Kanegasaki retreat."
+    },
+    {
+      "title": "城跡からの眺め",
+      "text": "今いる金ヶ崎城跡では、まずふもとの金崎宮にお参りしてから、山道を登ってみましょう。木々の間を抜けて進むと、月見御殿と呼ばれる城の最も高い場所の跡にたどり着きます。ここからは敦賀湾が目の前に広がり、この城が海に守られた要害だったことがよくわかります。戦いの舞台となった城ですが、金崎宮は桜の名所としても親しまれています。静かな海を眺めながら、ここで起きた二つの時代の出来事に思いをはせてみてください。",
+      "titleEn": "The View from the Ruins",
+      "textEn": "Visit Kanegasaki Shrine at the foot of the hill, then climb the wooded path to the site called Tsukimi Goten, the castle's highest point. Tsuruga Bay spreads out before you, showing how the sea protected this stronghold. The shrine is also loved for its cherry blossoms, so take a moment to reflect on the two eras of history that unfolded here.",
+      "localOnly": true
+    },
+    {
+      "title": "しんがりってなあに",
+      "text": "たたかいでにげるとき、いちばんうしろにのこって、おってをふせぐやくめを、しんがりといいます。とてもあぶないやくめです。かねがさきのたたかいで、のぶながをにがすために、しんがりをつとめたのは、のちのとよとみひでよしだといわれています。あなたなら、このやくめをひきうけますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11646283"
+}

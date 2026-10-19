@@ -1,0 +1,60 @@
+{
+  "id": "moyoro-shell-midden",
+  "title": "モヨロ貝塚",
+  "titleEn": "Moyoro Shell Midden",
+  "kana": "もよろかいづか",
+  "type": "ruins",
+  "eras": [
+    "古墳時代",
+    "飛鳥時代",
+    "奈良時代"
+  ],
+  "summary": "海の民オホーツク文化を伝える遺跡",
+  "description": "モヨロ貝塚は、網走川の河口近くにある、オホーツク文化を代表する遺跡です。オホーツク文化は、およそ5世紀から9世紀ごろにかけて、オホーツク海の沿岸で海獣の狩りや漁を中心に暮らした人々の文化で、北方系の独自の特色を持っています。1913年に米村喜男衛によって発見され、1936年に国の史跡に指定されました。貝塚のほか、竪穴住居の跡や墓が見つかっており、頭に土器をかぶせて葬る独特の埋葬も知られています。現地では住居跡などが見学でき、モヨロ貝塚館で出土品を見ることができます。",
+  "descriptionEn": "The Moyoro Shell Midden, near the mouth of the Abashiri River, is the representative site of the Okhotsk culture, a northern maritime people who lived along the Sea of Okhotsk coast from around the 5th to the 9th century, hunting sea mammals and fishing. Discovered in 1913 by Yonemura Kioe and designated a National Historic Site in 1936, it has yielded shell middens, pit dwellings and graves, including distinctive burials with a pot placed over the head. Artifacts are displayed at the Moyoro Shell Midden Museum on the site.",
+  "kidsDescription": "モヨロかいづかは、あばしりの海の近くにある、むかしのむらのあとです。オホーツク海で魚をとったり、アザラシなどの海のどうぶつをつかまえたりしてくらした人たちがのこしました。食べたあとの貝がらや、家のあとが見つかっています。",
+  "highlights": [
+    "六角形に近い竪穴住居の跡",
+    "土器をかぶせた独特の墓",
+    "モヨロ貝塚館の出土品"
+  ],
+  "prefecture": "北海道",
+  "city": "網走市",
+  "lat": 44.025,
+  "lng": 144.267694,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Moyoro_Shell_Midden.jpg/960px-Moyoro_Shell_Midden.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Moyoro_Shell_Midden.jpg/330px-Moyoro_Shell_Midden.jpg",
+    "author": "Ozizo",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moyoro_Shell_Midden.jpg"
+  },
+  "chapters": [
+    {
+      "title": "海の民、オホーツク文化",
+      "text": "オホーツク文化は、およそ5世紀から9世紀ごろにかけて、サハリンから北海道のオホーツク海沿岸、千島列島にかけて広がった文化です。人々はアザラシやトドなどの海獣を狩り、魚をとって暮らしていました。大陸とのつながりを示す金属器なども見つかっており、北の海を舞台に広い交流があったと考えられています。モヨロ貝塚は、網走川の河口近くの砂丘に営まれた大きな集落の跡で、この文化の姿を知るうえで欠かせない遺跡とされています。",
+      "titleEn": "The Seafaring Okhotsk Culture",
+      "textEn": "The Okhotsk culture flourished from around the 5th to the 9th century, spreading from Sakhalin along the Okhotsk coast of Hokkaido and into the Kuril Islands. Its people hunted seals and sea lions and fished, and metal objects linked to the continent show they took part in wide-ranging exchange across the northern seas. Moyoro, a large settlement on the dunes near the mouth of the Abashiri River, is essential to understanding this culture."
+    },
+    {
+      "title": "一人の情熱が見つけた遺跡",
+      "text": "この遺跡を見つけたのは、米村喜男衛という人です。考古学に強い関心を持っていた米村は、1913年に網走を訪れ、この地に貝塚があることに気づきました。その後、網走に住んで理髪店を営みながら、遺跡の調査と保護に力を尽くし、その重要性を広く知らせました。やがて本格的な発掘調査が行われ、それまでよく知られていなかったオホーツク文化の姿が明らかになっていきます。米村はのちに網走の郷土博物館の初代館長も務め、北の歴史を伝えることに生涯をささげました。",
+      "titleEn": "Discovered Through One Man's Passion",
+      "textEn": "The site was discovered in 1913 by Yonemura Kioe, an amateur archaeologist who settled in Abashiri and ran a barbershop while devoting himself to studying and protecting the midden. His efforts led to full-scale excavations that brought the little-known Okhotsk culture to light. He later became the first director of Abashiri's local history museum."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "いま立っているこのあたりは、網走川が海に注ぐ河口に近い場所です。オホーツク文化の人々も、この川と海の恵みを頼りに暮らしていました。遺跡では、六角形に近い形をした大きな竪穴住居の跡や、墓の跡を見ることができます。オホーツク文化の住居では、奥の壁ぎわに、クマなどの動物の骨を積み上げた骨塚が設けられていたことも知られています。モヨロ貝塚館では、土器を頭にかぶせて葬った墓の様子や、骨や牙で作った道具、動物をかたどった小さな像などの出土品をくわしく見ることができます。",
+      "titleEn": "What to See on Site",
+      "textEn": "You are standing near where the Abashiri River meets the sea, the source of life for the Okhotsk people. Here you can see the outlines of large, roughly hexagonal pit dwellings and graves; such houses often had piles of bear and other animal bones arranged against the back wall. The Moyoro Shell Midden Museum displays the unique pot-covered burials, tools made of bone and tusk, and small animal figurines.",
+      "localOnly": true
+    },
+    {
+      "title": "土器のぼうし？",
+      "text": "モヨロかいづかのお墓からは、なくなった人の頭に土器をかぶせて、うめたあとが見つかりました。まるで土器のぼうしをかぶっているみたいですね。どうしてこんなふうにしたのか、くわしいことはまだわかっていません。きみなら、どんなりゆうがあったと思いますか。考えてみると楽しいですよ。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q11344562"
+}

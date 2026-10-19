@@ -1,0 +1,60 @@
+{
+  "id": "matsumoto-castle",
+  "title": "松本城",
+  "titleEn": "Matsumoto Castle",
+  "kana": "まつもとじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "北アルプスを背に建つ黒い国宝天守",
+  "description": "松本城は、戦国時代の深志城を前身とし、安土桃山時代の終わりごろに石川数正と康長の父子が今の姿の基礎を築いた城です。五重六階の天守は、現存する五重天守の中で最も古いものとされ、天守を含む5棟が国宝に指定されています。黒く塗られた板張りの外観が特徴で、北アルプスを背景に堀の水面に映る姿は信州を代表する風景となっています。明治時代には天守が売りに出されましたが、地元の人々の働きかけによって守られ、今日まで受け継がれてきました。",
+  "descriptionEn": "Matsumoto Castle grew from the Sengoku-period Fukashi Castle and took its present form under Ishikawa Kazumasa and his son Yasunaga at the end of the sixteenth century. Its five-tiered, six-story keep is considered the oldest surviving five-tiered keep in Japan, and five of its buildings are National Treasures. The black-paneled keep reflected in the moat against the Northern Alps is an iconic scene of Nagano, and it survives today thanks to local people who saved it when it was put up for sale in the Meiji era.",
+  "kidsDescription": "まつもとじょうは、くろいいろがかっこいい、こくほうのおしろです。400ねんいじょうまえにたてられた、たいせつなてんしゅがいまものこっています。なかにはいると、とてもきゅうなかいだんがあって、むかしのおしろのつくりをたいけんできます。",
+  "highlights": [
+    "国宝の五重六階天守",
+    "朱塗りの月見櫓",
+    "堀に映る天守と北アルプス"
+  ],
+  "prefecture": "長野県",
+  "city": "丸の内",
+  "lat": 36.238889,
+  "lng": 137.969167,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Matsumoto_Castle05s5s4592.jpg/960px-Matsumoto_Castle05s5s4592.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Matsumoto_Castle05s5s4592.jpg/330px-Matsumoto_Castle05s5s4592.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matsumoto_Castle05s5s4592.jpg"
+  },
+  "chapters": [
+    {
+      "title": "黒い天守の誕生",
+      "text": "松本城のはじまりは、戦国時代にこの地に築かれた深志城です。豊臣秀吉の時代になると、石川数正と息子の康長がこの地を治め、天守をはじめとする城の整備を進めました。こうして、五重六階の大天守を中心とする今の姿の基礎ができあがりました。外壁の上部は白い漆喰ですが、下の部分には黒く塗られた板が張られていて、引き締まった黒い姿が特徴です。江戸時代になると、松平直政によって月見櫓などが加えられたといわれています。",
+      "titleEn": "The Birth of the Black Keep",
+      "textEn": "Matsumoto Castle began as Fukashi Castle in the Sengoku period. Under Toyotomi Hideyoshi, Ishikawa Kazumasa and his son Yasunaga ruled the area and built the keep and other structures, creating the basis of today's castle. The upper walls are white plaster, but the lower parts are covered in black-painted boards, giving the castle its striking dark look, and the moon-viewing turret was added in the Edo period."
+    },
+    {
+      "title": "天守を守った人々",
+      "text": "明治時代のはじめ、多くの城が取り壊されるなか、松本城の天守も売りに出され、取り壊される危機を迎えました。このとき、地元の市川量造らが中心となって博覧会を開き、その収益などで天守を買い戻したと伝えられています。さらに明治の終わりごろには、傾いてしまった天守を救うため、中学校の校長だった小林有也らが募金を集め、大規模な修理が行われました。今の松本城があるのは、城を大切に思った地元の人々のおかげなのです。",
+      "titleEn": "The People Who Saved the Keep",
+      "textEn": "In the early Meiji era, when many castles were torn down, Matsumoto's keep was sold and faced demolition. Local leader Ichikawa Ryozo and others held exhibitions and used the proceeds to buy it back. Later, when the keep began to lean, school principal Kobayashi Uya and others raised funds for major repairs, so the castle survives thanks to the people of Matsumoto."
+    },
+    {
+      "title": "天守を見上げ、中を歩く",
+      "text": "今いる場所から、まず堀越しに天守を眺めてみてください。大天守の横には乾小天守、渡櫓、辰巳附櫓、月見櫓が連なり、この5棟がすべて国宝です。朱色の欄干がある月見櫓は、戦いの備えが必要なくなった時代の、ゆとりを感じさせる建物です。天守の中に入ると、太い柱や梁、鉄砲を撃つための狭間、石を落とすための仕掛けを見ることができます。階段はとても急なので、手すりにつかまってゆっくり上りましょう。",
+      "titleEn": "Viewing and Exploring the Keep",
+      "textEn": "First view the keep across the moat: beside the main keep stand the Inui small keep, the connecting turret, the Tatsumi turret and the moon-viewing turret, all five National Treasures. The red-railed moon-viewing turret reflects a more peaceful age. Inside, look for massive pillars and beams, gun ports and stone-dropping openings, and hold the rail on the very steep stairs.",
+      "localOnly": true
+    },
+    {
+      "title": "おつきみのためのへや",
+      "text": "まつもとじょうには、おつきみをするためのつきみやぐらというへやがあります。たたかいのためのおしろなのに、おつきさまをながめるへやがあるなんて、ふしぎですね。たたかいがなくなって、へいわなじだいになったからこそ、つくられたといわれています。あなたなら、ここからなにをながめたいですか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q739612"
+}

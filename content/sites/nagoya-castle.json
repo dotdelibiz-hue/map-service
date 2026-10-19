@@ -1,0 +1,59 @@
+{
+  "id": "nagoya-castle",
+  "title": "名古屋城",
+  "titleEn": "Nagoya Castle",
+  "kana": "なごやじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "金のしゃちほこで名高い尾張徳川家の城",
+  "description": "名古屋城は、徳川家康が九男の義直のために、1610年から西国の大名たちに命じて築かせた城です。尾張徳川家の居城として江戸時代を通じて栄え、天守の屋根に輝く金のしゃちほこは城の象徴として知られています。天守と本丸御殿は1945年の空襲で焼失しましたが、天守は1959年に鉄筋コンクリートで再建されました。本丸御殿は残された記録や写真をもとに復元が進められ、2018年に完成しています。江戸時代から残る隅櫓や門は重要文化財に指定され、城跡全体が特別史跡となっています。",
+  "descriptionEn": "Nagoya Castle was built from 1610 on the orders of Tokugawa Ieyasu, who had western daimyo construct it for his ninth son, Yoshinao. It was the seat of the Owari Tokugawa family throughout the Edo period, and the golden shachihoko on its keep became its symbol. The keep and Honmaru Palace burned in the 1945 air raids; the keep was rebuilt in concrete in 1959, and the palace was faithfully reconstructed from records and photographs, with work completed in 2018. Surviving corner turrets and gates are Important Cultural Properties, and the whole site is a Special Historic Site.",
+  "kidsDescription": "なごやじょうは、きんのしゃちほこでゆうめいなおしろです。とくがわいえやすが、むすこのためにつくらせました。せんそうでもえてしまいましたが、てんしゅはさいけんされ、きらきらのほんまるごてんもふっかつしました。",
+  "highlights": [
+    "復元された本丸御殿",
+    "金のしゃちほこと天守",
+    "江戸時代から残る隅櫓"
+  ],
+  "prefecture": "愛知県",
+  "city": "中区",
+  "lat": 35.185556,
+  "lng": 136.898611,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Nagoya_Castle%28Larger%29.jpg/960px-Nagoya_Castle%28Larger%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Nagoya_Castle%28Larger%29.jpg/330px-Nagoya_Castle%28Larger%29.jpg",
+    "author": "Base64",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg"
+  },
+  "chapters": [
+    {
+      "title": "天下普請で築かれた城",
+      "text": "名古屋城は、関ヶ原の戦いの後、徳川家康が西の大名たちへの備えとして築いた城です。家康は、九男の義直をこの城の主とし、1610年から、加藤清正や福島正則など西国の大名たちに命じて工事を進めさせました。このように、幕府の命令で多くの大名に造らせた工事を天下普請といいます。完成した城は、尾張徳川家の居城として江戸時代を通じて栄え、城の周りには名古屋の城下町が大きく発展していきました。",
+      "titleEn": "A Castle Built by Many Lords",
+      "textEn": "After Sekigahara, Tokugawa Ieyasu built Nagoya Castle as a check on western lords, making his ninth son Yoshinao its master. From 1610 he ordered daimyo such as Kato Kiyomasa and Fukushima Masanori to carry out the work, a system called tenka-bushin. The castle remained the seat of the Owari Tokugawa throughout the Edo period, and the city of Nagoya grew up around it."
+    },
+    {
+      "title": "焼失と復元への歩み",
+      "text": "名古屋城の天守と本丸御殿は、昭和の初めに城郭として初めて国宝に指定されるほど貴重な建物でした。しかし1945年、空襲によってそのほとんどが焼けてしまいます。戦後、多くの市民の願いを受けて、1959年に天守が鉄筋コンクリートで再建されました。さらに本丸御殿は、戦前に撮影された写真や詳しい実測図をもとに、伝統的な技法で復元が進められ、2018年に完成しました。焼失を免れた隅櫓や門、ふすま絵の多くも今に伝えられています。",
+      "titleEn": "Loss and Restoration",
+      "textEn": "The keep and Honmaru Palace were so valued that they were among the first castle buildings designated National Treasures, but most were destroyed in the 1945 air raids. Answering citizens' wishes, the keep was rebuilt in concrete in 1959, and the palace was reconstructed with traditional techniques using prewar photographs and detailed measured drawings, completed in 2018. Surviving turrets, gates and many sliding-door paintings carry the castle's legacy."
+    },
+    {
+      "title": "本丸をめぐって",
+      "text": "今いる名古屋城では、まず復元された本丸御殿を訪ねてみましょう。檜の香りが漂う建物の中には、金色に輝くふすま絵や細かな彫刻が施された欄間があり、将軍を迎えるための豪華な部屋も再現されています。天守の石垣にも注目してください。大きな石を組み上げた見事な石垣で、加藤清正が担当したことで知られています。本丸の周りには、江戸時代から残る西南隅櫓や東南隅櫓が建ち、城の当時の姿を今に伝えています。",
+      "titleEn": "Touring the Main Enclosure",
+      "textEn": "Start at the restored Honmaru Palace, fragrant with cypress, where gold-leaf sliding-door paintings, carved transoms and lavish rooms prepared for the shogun's visits have been recreated. Look closely at the stone base of the keep, famously built under Kato Kiyomasa. Around the main enclosure, the southwest and southeast corner turrets survive from the Edo period.",
+      "localOnly": true
+    },
+    {
+      "title": "きんのしゃちほこ",
+      "text": "なごやじょうのてんしゅのやねには、きんのしゃちほこがかざられています。しゃちほこは、あたまがとら、からだがさかなのそうぞうのいきもので、かじからおしろをまもるといわれてきました。おすとめすの2ひきがいるので、かたちのちがいをさがしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q648629"
+}

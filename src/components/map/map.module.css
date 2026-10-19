@@ -1,0 +1,146 @@
+.mapWrap {
+  position: relative;
+  width: 100%;
+  height: calc(100dvh - var(--header-h));
+  overflow: hidden;
+}
+
+.filterGroup {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 500;
+  display: flex;
+  gap: 8px;
+}
+.filterTag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 100px;
+  border: 1px solid transparent;
+  color: var(--text-dark);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  line-height: 100%;
+  box-shadow: 0 1px 4px rgba(26, 26, 28, 0.12);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.filterTagActive {
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.filterCheckbox {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  margin: 0;
+  pointer-events: none;
+}
+
+.mapControl {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  z-index: 500;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+}
+.controlWrap {
+  position: relative;
+}
+.controlButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: none;
+  border-radius: 100px;
+  background: #ffffffcc;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  color: var(--text-dark);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+.layerMenu {
+  position: absolute;
+  top: 0;
+  right: 52px;
+  display: flex;
+  flex-direction: column;
+  min-width: 120px;
+  padding: 6px;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+.layerItem {
+  padding: 10px 12px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-dark);
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+}
+.layerItemActive {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+}
+
+.status {
+  position: absolute;
+  left: 50%;
+  bottom: 28px;
+  z-index: 500;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100% - 32px);
+  padding: 10px 16px;
+  background: var(--glass);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 100px;
+  box-shadow: 0 2px 8px rgba(26, 26, 28, 0.15);
+  color: var(--color-primary);
+}
+.statusMessage {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0.03em;
+  color: var(--text-dark);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.statusError {
+  color: var(--color-red);
+}
+.retry {
+  flex-shrink: 0;
+  padding: 6px 12px;
+  border: 1px solid var(--color-primary);
+  border-radius: 100px;
+  background: transparent;
+  color: var(--color-primary);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 100%;
+}

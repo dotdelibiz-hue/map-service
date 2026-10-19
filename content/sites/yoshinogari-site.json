@@ -1,0 +1,59 @@
+{
+  "id": "yoshinogari-site",
+  "title": "吉野ヶ里遺跡",
+  "titleEn": "Yoshinogari Site",
+  "kana": "よしのがりいせき",
+  "type": "ruins",
+  "eras": [
+    "弥生時代"
+  ],
+  "summary": "弥生時代のクニの姿を伝える巨大な環濠集落",
+  "description": "吉野ヶ里遺跡は、佐賀県の神埼市と吉野ヶ里町にまたがる、弥生時代を代表する遺跡です。弥生時代を通じて営まれた集落で、まわりを深い堀で囲んだ環濠集落としては国内最大級の規模を誇ります。工業団地の造成に伴う発掘調査で見つかり、物見やぐらの跡や、たくさんの甕棺墓、王の墓とも考えられる墳丘墓などが明らかになりました。弥生時代のクニの姿を知るうえで欠かせない遺跡として、国の特別史跡に指定されています。現在は歴史公園として整備され、復元された建物や堀の中を歩きながら、当時の暮らしを体感できます。",
+  "descriptionEn": "Yoshinogari, spanning Kanzaki City and Yoshinogari Town in Saga Prefecture, is one of Japan's largest moated settlements of the Yayoi period. Discovered during excavations for an industrial park, it revealed watchtower sites, many jar burials and a large burial mound thought to be a tomb of rulers. Designated a Special Historic Site, it is now a historical park where reconstructed buildings and moats let visitors experience life in a Yayoi-period community.",
+  "kidsDescription": "よしのがりいせきは、やよい時代の人たちがくらした大きなムラのあとです。ムラのまわりはふかいほりでかこまれていて、高い見はりのやぐらもありました。いまは、むかしの家やたてものがふくげんされていて、中を見学することができます。",
+  "highlights": [
+    "復元された物見やぐら",
+    "北内郭の主祭殿",
+    "甕棺が並ぶ墓の列"
+  ],
+  "prefecture": "佐賀県",
+  "city": "吉野ヶ里町",
+  "lat": 33.325,
+  "lng": 130.384,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/960px-Yoshinogari-iseki_zenkei.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/330px-Yoshinogari-iseki_zenkei.JPG",
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yoshinogari-iseki_zenkei.JPG"
+  },
+  "chapters": [
+    {
+      "title": "よみがえった弥生のクニ",
+      "text": "吉野ヶ里遺跡は、工業団地をつくる計画に伴って行われた発掘調査で、その大きさが明らかになりました。調査が進むと、弥生時代の初めから終わりまで営まれた、大規模な集落の跡であることがわかりました。集落は時代とともに大きくなり、やがて二重の堀で囲まれ、内側には特別な人々が暮らしたと考えられる区画が設けられました。こうした姿は、中国の歴史書に描かれた倭の国々の様子を思わせるとして、全国の注目を集めました。その価値が認められ、遺跡は国の特別史跡に指定されています。",
+      "titleEn": "A Yayoi Community Brought Back to Light",
+      "textEn": "The scale of Yoshinogari became clear through excavations carried out for an industrial park project. It proved to be a large settlement occupied from the beginning to the end of the Yayoi period, eventually surrounded by double moats with special inner enclosures. Because it resembled descriptions of the land of Wa in Chinese histories, it drew nationwide attention and was designated a Special Historic Site."
+    },
+    {
+      "title": "守りと祈りのムラ",
+      "text": "吉野ヶ里の人々は、深い堀や木の柵を巡らせ、物見やぐらから周囲を見張っていました。発掘では、矢じりが刺さった人骨や、首のない人骨も見つかっており、ムラどうしの争いがあった時代だったことがうかがえます。また、大きな素焼きのかめに亡くなった人を納める甕棺墓が、長い列をつくって並んでいました。集落の北には、土を盛り上げた大きな墳丘墓が築かれ、中からは銅剣やガラスの管玉などが見つかっています。ここには、ムラを率いた王たちが眠っていたと考えられています。",
+      "titleEn": "A Village of Defense and Ritual",
+      "textEn": "The people of Yoshinogari protected themselves with deep moats, wooden fences and watchtowers. Excavations found skeletons with arrowheads embedded and even headless remains, signs of an era of conflict between communities. Long rows of jar burials were laid out, and a large mound to the north held bronze swords and glass beads, believed to be the graves of the community's leaders."
+    },
+    {
+      "title": "弥生の風景を歩く",
+      "text": "公園の中に入ると、復元された堀や柵、高床の倉庫や竪穴住居が広がり、弥生時代の風景の中を歩いているような気分になります。南内郭では、物見やぐらや人々の暮らした住まいを見ることができます。北内郭には、大きな主祭殿が復元されていて、ムラの大切なまつりごとがここで行われたと考えられています。北墳丘墓では、甕棺が埋められていた様子を展示で間近に見ることができます。堀の深さや柵の高さを自分の目で確かめながら、ここに暮らした人々の気持ちを想像してみてください。",
+      "titleEn": "Walking Through a Yayoi Landscape",
+      "textEn": "Inside the park, reconstructed moats, fences, raised storehouses and pit dwellings make you feel as if you have stepped into the Yayoi period. The southern inner enclosure has watchtowers and homes, while the northern enclosure features a large reconstructed main ritual hall. At the northern burial mound, you can see displays showing how jar coffins were buried, so take time to imagine the lives of the people who lived here.",
+      "localOnly": true
+    },
+    {
+      "title": "ほりにかこまれたムラ",
+      "text": "よしのがりのムラは、ふかいほりと木のさくで、ぐるりとかこまれていました。高いやぐらの上からは、見はりの人があたりを見まわしていたと考えられています。どうしてそこまでしてムラをまもる必要があったのでしょう。ほかのムラとのあらそいがあったからかもしれません。やぐらを見上げながら、考えてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1049645"
+}

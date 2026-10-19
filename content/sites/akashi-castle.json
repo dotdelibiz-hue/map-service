@@ -1,0 +1,59 @@
+{
+  "id": "akashi-castle",
+  "title": "明石城",
+  "titleEn": "Akashi Castle",
+  "kana": "あかしじょう",
+  "type": "castle",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "二つの三重櫓が並び立つ、明石公園の城跡",
+  "description": "明石城は、江戸時代の初め、1619年に小笠原忠真によって築城が始められた城です。西国の大名ににらみをきかせるため、江戸幕府の意向を受けて築かれたとされます。本丸には大きな天守台が築かれましたが、天守は建てられませんでした。本丸の南側の高い石垣の上には、江戸時代から残る巽櫓と坤櫓という二つの三重櫓が並び、どちらも国の重要文化財に指定されています。1995年の阪神・淡路大震災では石垣や櫓が被害を受けましたが、修復されました。城跡は兵庫県立明石公園として親しまれ、国の史跡に指定されています。",
+  "descriptionEn": "Akashi Castle was begun in 1619 by Ogasawara Tadazane at the wish of the Tokugawa shogunate, as a stronghold to watch over the powerful lords of western Japan. A base for a main keep was built, but no keep was ever raised on it. Two original three-story turrets, Tatsumi and Hitsujisaru, stand on the stone walls of the inner bailey and are Important Cultural Properties, and they were repaired after damage in the 1995 Great Hanshin earthquake. The site, now Akashi Park, is a National Historic Site.",
+  "kidsDescription": "あかしじょうは、えどじだいのはじめにつくられたお城です。てんしゅをのせる土台はありますが、てんしゅはいちどもたてられませんでした。そのかわり、石がきの上に三かいだてのやぐらが二つならんでいて、いまもむかしのすがたを見せてくれます。",
+  "highlights": [
+    "並び立つ巽櫓と坤櫓",
+    "天守のない大きな天守台",
+    "公園に広がる堀と高石垣"
+  ],
+  "prefecture": "兵庫県",
+  "city": "明石市",
+  "lat": 34.6525,
+  "lng": 134.991667,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Akashi_Castle_20200623.jpg/960px-Akashi_Castle_20200623.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Akashi_Castle_20200623.jpg/330px-Akashi_Castle_20200623.jpg",
+    "author": "KishujiRapid",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akashi_Castle_20200623.jpg"
+  },
+  "chapters": [
+    {
+      "title": "西国を見守る城",
+      "text": "明石城は、江戸時代の初め、1619年に築城が始まりました。築いたのは、信濃の松本から明石に移ってきた小笠原忠真です。明石は海と陸の交通の要所で、西国の大名たちの動きを見張るための大切な場所でした。そのため、城づくりには幕府も深く関わったとされています。城は、近くにあった古い城に代わって新しく築かれ、ほかの城の建物の材料も使われたと伝えられています。その後、明石藩の城として、江戸時代の終わりまで使われました。",
+      "titleEn": "A Castle Watching Over the West",
+      "textEn": "Construction of Akashi Castle began in 1619 under Ogasawara Tadazane, who had been moved here from Matsumoto in Shinano. Akashi was a key point for land and sea routes and an important place to watch the lords of western Japan, so the shogunate is said to have been closely involved in its construction. It replaced an older castle nearby, materials from other castles are said to have been reused, and it served as the seat of the Akashi domain until the end of the Edo period."
+    },
+    {
+      "title": "建てられなかった天守",
+      "text": "明石城の本丸には、大きな天守台が築かれています。ところが、その上に天守が建てられることは、江戸時代を通じて一度もありませんでした。その代わりに、本丸の四隅には三重の櫓が置かれ、天守の役割を補っていたと考えられています。そのうち、南東の巽櫓と南西の坤櫓の二つが今も残っています。二つの三重櫓が並び立つ姿は全国的にも珍しく、明石城を象徴する景色となっています。その後、城跡は公園として整えられ、多くの人々に親しまれてきました。",
+      "titleEn": "The Keep That Was Never Built",
+      "textEn": "A large keep base was built in the inner bailey, but no keep was ever raised on it during the Edo period. Instead, three-story turrets stood at the four corners of the inner bailey and are thought to have filled the role of a keep. Two of them, the southeast Tatsumi Turret and the southwest Hitsujisaru Turret, still stand side by side, a rare sight that has become the symbol of Akashi Castle."
+    },
+    {
+      "title": "櫓を見上げて",
+      "text": "公園の広場から北を見ると、高い石垣の上に、白い二つの三重櫓が並んでいるのが見えます。右手が巽櫓、左手が坤櫓で、その間は土塀で結ばれています。江戸時代から残る櫓と、堀や石垣が一体となった眺めは、明石城ならではの景色です。坂道を登って本丸に上がると、天守台の大きさを間近に感じることができます。天守台の上からは、明石の町や海の方角を見渡せます。ここに天守が建っていたら、どんな眺めだったか想像してみてください。",
+      "titleEn": "Looking Up at the Turrets",
+      "textEn": "Looking north from the park's open lawn, you can see the two white three-story turrets on top of the high stone walls, Tatsumi on the right and Hitsujisaru on the left, joined by an earthen wall. Climb the slope to the inner bailey to feel the size of the keep base up close, and look out from it toward the town and the sea. Imagine what the view would have been like had a keep actually stood here.",
+      "localOnly": true
+    },
+    {
+      "title": "てんしゅがないお城",
+      "text": "明石城には、てんしゅをのせるためのりっぱな土台があります。でも、てんしゅはいちどもたてられませんでした。どうしてたてなかったのか、はっきりとしたりゆうはわかっていません。もしここにてんしゅがあったら、どんなけしきだったでしょう。土台の上に立って、そうぞうしてみましょう。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1151831"
+}

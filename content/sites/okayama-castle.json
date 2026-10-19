@@ -1,0 +1,60 @@
+{
+  "id": "okayama-castle",
+  "title": "岡山城",
+  "titleEn": "Okayama Castle",
+  "kana": "おかやまじょう",
+  "type": "castle",
+  "eras": [
+    "安土桃山時代",
+    "江戸時代"
+  ],
+  "summary": "黒い天守がそびえる烏城",
+  "description": "岡山城は、戦国大名の宇喜多秀家が本格的に築き、1597年ごろに天守が完成したと伝えられる城です。黒い板張りの外観から烏城とも呼ばれています。江戸時代には池田氏が岡山藩主として治め、城は藩の政治の中心でした。天守は1945年の空襲で焼失しましたが、1966年に再建されました。月見櫓と西手櫓は江戸時代から残る建物で、国の重要文化財です。旭川をはさんだ向かいには、藩主の庭として造られた後楽園があり、城と庭をあわせて楽しめます。",
+  "descriptionEn": "Okayama Castle was built in earnest by the warlord Ukita Hideie, and its keep is said to have been completed around 1597; its black wooden exterior gives it the nickname Crow Castle. In the Edo period it was the seat of the Ikeda lords of Okayama Domain. The keep burned in a 1945 air raid and was rebuilt in 1966, while the Tsukimi and Nishite turrets survive from the Edo period as Important Cultural Properties, and Korakuen Garden lies just across the Asahi River.",
+  "kidsDescription": "おかやまじょうは、くろいいろをしたおしろで、からすのようにくろいので、うじょうともよばれています。てんしゅはせんそうでやけてしまいましたが、のちにたてなおされました。かわのむかいには、こうらくえんという、ひろいにわがあります。",
+  "highlights": [
+    "黒い外観の天守",
+    "月見櫓と西手櫓",
+    "旭川越しの後楽園"
+  ],
+  "prefecture": "岡山県",
+  "city": "丸の内",
+  "lat": 34.665278,
+  "lng": 133.936111,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Okayama_Castle_02.jpg/960px-Okayama_Castle_02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Okayama_Castle_02.jpg/330px-Okayama_Castle_02.jpg",
+    "author": "by Reggaeman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okayama_Castle_02.jpg"
+  },
+  "chapters": [
+    {
+      "title": "宇喜多氏と池田氏の城",
+      "text": "岡山城は、戦国時代に備前を治めた宇喜多直家が拠点とした城を、子の宇喜多秀家が大きく造り直したものです。秀家は豊臣秀吉に重く用いられた大名で、城と城下町の整備を進め、1597年ごろに天守が完成したと伝えられています。しかし関ヶ原の戦いで秀家が敗れると、小早川秀秋を経て、江戸時代には池田氏が岡山藩主となりました。池田氏は明治時代まで岡山を治め、城下町は大いに栄えました。",
+      "titleEn": "Castle of the Ukita and the Ikeda",
+      "textEn": "Okayama Castle began as the base of Ukita Naoie, who ruled Bizen in the Sengoku period, and was greatly expanded by his son Ukita Hideie, a favored ally of Toyotomi Hideyoshi; the keep is said to have been completed around 1597. After Hideie's defeat at Sekigahara, the castle passed to Kobayakawa Hideaki and then to the Ikeda family, who ruled Okayama Domain until the Meiji era."
+    },
+    {
+      "title": "焼失と再建",
+      "text": "岡山城の天守は、江戸時代を通じて受け継がれ、明治時代になっても取り壊されずに残りました。昭和の時代には国宝にも指定されていましたが、1945年6月の空襲によって焼失してしまいます。戦後の1966年、鉄筋コンクリート造りで天守が再建され、再び岡山の町を見守るようになりました。一方、月見櫓と西手櫓は戦火をまぬがれ、江戸時代の姿を今に伝えています。城の歴史には、平和の大切さも刻まれているのです。",
+      "titleEn": "Destruction and Rebuilding",
+      "textEn": "Okayama Castle's keep survived the Edo period and the Meiji-era demolitions and was even designated a National Treasure, but it was destroyed in an air raid in June 1945. In 1966 the keep was rebuilt in reinforced concrete. The Tsukimi and Nishite turrets escaped the fire and still show their Edo-period appearance."
+    },
+    {
+      "title": "城跡で見たいもの",
+      "text": "城跡を訪れたら、まず天守の土台となる石垣の形に注目してください。天守台は四角ではなく、ゆがんだ五角形をしていて、もとの地形に合わせて築かれた古い時代の特徴を感じられます。本丸の周りには、時代ごとに積み方の違う石垣が残っています。月見櫓では、城の外側と内側とで異なる表情を見比べてみてください。そして旭川の対岸に目をやれば、後楽園の緑が広がり、城と庭が一体となった景色を楽しめます。",
+      "titleEn": "What to See at the Castle",
+      "textEn": "Look first at the stone base of the keep: it is not square but an irregular pentagon, fitted to the original terrain in an older style of construction. Around the main bailey, stone walls built in different periods show different stacking techniques. Compare the outer and inner faces of the Tsukimi Turret, then look across the Asahi River to the greenery of Korakuen Garden.",
+      "localOnly": true
+    },
+    {
+      "title": "からすのおしろ",
+      "text": "おかやまじょうは、かべがくろいので、からすのおしろ、うじょうとよばれています。ひめじじょうは、しろいので、しらさぎじょうとよばれていますね。くろいおしろとしろいおしろ、きみはどちらがかっこいいとおもいますか。しゃしんでくらべてみるとおもしろいですよ。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q1013448"
+}

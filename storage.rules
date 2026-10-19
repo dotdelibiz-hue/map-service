@@ -1,0 +1,24 @@
+rules_version = '2';
+
+// 画像は誰でも閲覧でき、アップロードは本人のみ（5MB 以下の画像）
+service firebase.storage {
+  match /b/{bucket}/o {
+    function isImage() {
+      return request.resource.size < 5 * 1024 * 1024
+        && request.resource.contentType.matches('image/.*');
+    }
+
+    match /users/{uid}/profile/{fileName} {
+      allow read: if true;
+      allow create, update: if request.auth != null && request.auth.uid == uid && isImage();
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+
+    match /moments/{uid}/{momentId}/{fileName} {
+      allow read: if true;
+      allow create, update: if request.auth != null && request.auth.uid == uid
+        && request.auth.token.email_verified == true && isImage();
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

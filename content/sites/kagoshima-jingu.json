@@ -1,0 +1,60 @@
+{
+  "id": "kagoshima-jingu",
+  "title": "鹿児島神宮",
+  "titleEn": "Kagoshima Jingu Shrine",
+  "kana": "かごしまじんぐう",
+  "type": "shrine",
+  "eras": [
+    "平安時代",
+    "江戸時代"
+  ],
+  "summary": "山幸彦をまつる大隅国の一宮",
+  "description": "鹿児島神宮は、霧島市隼人町にある大隅国の一宮です。神話に登場する山幸彦として知られる天津日高彦火火出見尊と、その妃の豊玉比売命を主な神としてまつっています。平安時代にまとめられた延喜式にも大社として名が記された由緒ある神社で、八幡の神もあわせてまつることから、大隅正八幡宮とも呼ばれてきました。現在の本殿は、江戸時代の中ごろに島津家の寄進によって建てられたもので、拝殿などとともに国の重要文化財に指定されています。境内と社家の跡は国の史跡です。春先の初午祭では、飾りをつけた馬が踊りながら参拝する姿が見られます。",
+  "descriptionEn": "Kagoshima Jingu in Hayato, Kirishima City, is the chief shrine of the ancient Osumi Province, enshrining Hikohohodemi no Mikoto, known in myth as Yamasachihiko, and his consort Toyotamahime. Listed as a major shrine in the Heian-period Engishiki and also called Osumi Sho-Hachimangu because Hachiman is worshiped here too, its present main hall was built in the mid-Edo period with support from the Shimazu family and is an Important Cultural Property. The grounds and priests' residence sites are a National Historic Site, and at the Hatsuuma Festival decorated horses dance as they come to worship.",
+  "kidsDescription": "かごしまじんぐうは、きりしま市にある古いじんじゃです。しんわに出てくる山さちひこという神さまと、そのおくさんの神さまがまつられています。毎年の初午祭では、きれいにかざった馬が、おどるようにしておまいりします。",
+  "highlights": [
+    "島津家が建てた本殿",
+    "古い社家の跡",
+    "鈴かけ馬の初午祭"
+  ],
+  "prefecture": "鹿児島県",
+  "city": "桑原郡",
+  "lat": 31.753712,
+  "lng": 130.737873,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Kagoshimajingu_Chokushiden.JPG/960px-Kagoshimajingu_Chokushiden.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Kagoshimajingu_Chokushiden.JPG/330px-Kagoshimajingu_Chokushiden.JPG",
+    "author": "ChiefHira",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kagoshimajingu_Chokushiden.JPG"
+  },
+  "chapters": [
+    {
+      "title": "大隅国の一宮",
+      "text": "鹿児島神宮は、古くから大隅の国で最も格式の高い神社、一宮として敬われてきました。平安時代にまとめられた延喜式という書物にも、大社として名前が記されています。また八幡の神もあわせてまつられていることから、大隅正八幡宮とも呼ばれ、八幡信仰の中でも重要な神社の一つとされてきました。江戸時代には薩摩藩の島津家が深く崇敬し、現在の本殿は、江戸時代の中ごろに島津家の寄進によって建てられたものです。本殿や拝殿などは国の重要文化財に、境内と社家の跡は国の史跡に指定されています。",
+      "titleEn": "The Chief Shrine of Osumi",
+      "textEn": "Kagoshima Jingu has long been honored as the ichinomiya, the highest-ranking shrine of Osumi Province, and it is listed as a major shrine in the Heian-period Engishiki. Because Hachiman is also worshiped here, it has been called Osumi Sho-Hachimangu and regarded as an important Hachiman shrine. The Shimazu family deeply revered it, and the present main hall, built in the mid-Edo period with their support, is an Important Cultural Property, while the grounds and priests' residence sites are a National Historic Site."
+    },
+    {
+      "title": "山幸彦の神話と初午祭",
+      "text": "鹿児島神宮の主な神である山幸彦は、日本の神話に登場する神様です。兄の海幸彦から借りた釣り針をなくした山幸彦は、それを探して海の神の宮殿を訪ね、そこで海の神の娘である豊玉姫と結ばれたと語られています。鹿児島神宮には、この二柱の神がまつられています。また、この神社の初午祭は、鈴などで華やかに飾られた馬が、にぎやかなお囃子に合わせて踊るように参拝する、にぎやかなお祭りとして知られています。春の訪れを感じさせるこの祭りには、毎年多くの人々が集まります。",
+      "titleEn": "The Myth of Yamasachihiko and the Hatsuuma Festival",
+      "textEn": "The main deity, Yamasachihiko, appears in Japanese myth: after losing a fishhook borrowed from his brother Umisachihiko, he searched for it at the palace of the sea god, where he married the sea god's daughter Toyotamahime, and both are enshrined here. The shrine's Hatsuuma Festival is famous for horses adorned with bells that dance to lively festival music as they come to worship, drawing many people each year as a sign of spring."
+    },
+    {
+      "title": "本殿の前に立って",
+      "text": "鹿児島神宮の境内に入ったら、参道の先にある社殿を落ち着いて眺めてみましょう。現在の本殿は、江戸時代の中ごろに建てられたもので、堂々とした姿をしています。近づくと、建物に施された色鮮やかな装飾が目に入ります。南九州の神社建築のすぐれた例として、高く評価されている建物です。境内のまわりには、かつて神社に仕えた人々が暮らした社家の跡も残り、神社を中心とした暮らしの広がりを感じられます。木々に囲まれた静かな境内で、長い歴史に思いを寄せてみてください。",
+      "titleEn": "Standing Before the Main Hall",
+      "textEn": "Take a calm look at the shrine buildings at the end of the approach. The stately main hall dates from the mid-Edo period, and up close you can see its colorful decorations, a fine example of shrine architecture in southern Kyushu. Around the grounds remain sites of the residences of families who served the shrine, so enjoy the quiet, wooded precinct and its long history.",
+      "localOnly": true
+    },
+    {
+      "title": "なくした釣りばりのお話",
+      "text": "山さちひこは、おにいさんの海さちひこからかりた釣りばりを、海でなくしてしまいました。こまって海の中をさがしにいくと、海の神さまの、ごてんにたどりつきました。そこで出会ったのが、とよたまひめです。かごしまじんぐうには、この二人の神さまがまつられています。あなたなら、なくしたものをどうやってさがしますか。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q704695"
+}

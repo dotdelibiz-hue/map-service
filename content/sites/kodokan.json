@@ -1,0 +1,58 @@
+{
+  "id": "kodokan",
+  "title": "弘道館",
+  "titleEn": "Kodokan (Mito Domain School)",
+  "kana": "こうどうかん",
+  "type": "school",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "全国最大級の規模を誇った水戸藩の藩校",
+  "description": "弘道館は、水戸藩九代藩主の徳川斉昭が1841年に開いた藩校で、旧弘道館として国の特別史跡に指定されています。儒学や武芸に加え、医学や天文学なども学べる総合的な学校で、全国の藩校の中でも最大級の規模を誇りました。正門、正庁、至善堂が江戸時代の建物のまま残り、国の重要文化財となっています。江戸幕府最後の将軍徳川慶喜も幼いころここで学び、江戸城の明け渡しの後には至善堂で謹慎の日々を送りました。敷地内には梅の木が多く植えられ、早春には梅の名所としてもにぎわいます。",
+  "descriptionEn": "Kodokan is the domain school opened in 1841 by Tokugawa Nariaki, ninth lord of Mito, and is now a Special Historic Site. Offering medicine and astronomy as well as Confucian studies and martial arts, it was one of the largest domain schools in Japan. Its main gate, main hall and Shizendo building survive from the Edo period as Important Cultural Properties, and Tokugawa Yoshinobu, the last shogun, studied here as a boy and later spent a period of confinement in the Shizendo after Edo Castle was surrendered.",
+  "kidsDescription": "こうどうかんは、茨城県水戸市にある、江戸時代のさむらいの学校です。本を読む勉強だけでなく、けんじゅつや、くすりやほしのことも学べる、とても大きな学校でした。さいごの将軍、徳川慶喜も、子どものころここで勉強しました。",
+  "highlights": [
+    "重要文化財の正門と正庁",
+    "慶喜が謹慎した至善堂",
+    "早春に咲く梅"
+  ],
+  "prefecture": "茨城県",
+  "city": "水戸市",
+  "lat": 36.375145,
+  "lng": 140.477631,
+  "special": true,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Koudoukan.JPG/960px-Koudoukan.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Koudoukan.JPG/330px-Koudoukan.JPG",
+    "author": "Tonatsu",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koudoukan.JPG"
+  },
+  "chapters": [
+    {
+      "title": "斉昭がめざした学校",
+      "text": "弘道館は、水戸藩の九代藩主、徳川斉昭が1841年に開いた藩校です。斉昭は、藩の改革を進めるうえで、人材を育てることが欠かせないと考えました。弘道館では、儒学などの学問と、剣術や槍術などの武芸を、どちらも大切にする文武両道の教育が行われました。さらに、医学や天文学なども学べる、総合大学のような学校でした。学問の方針は、斉昭の名で示された弘道館記という文章にまとめられています。1857年には本格的な開館を迎え、多くの藩士がここで学びました。",
+      "titleEn": "Nariaki's Vision of a School",
+      "textEn": "Tokugawa Nariaki founded Kodokan in 1841, believing that training capable people was essential to reforming his domain. It balanced scholarship such as Confucian studies with martial arts like swordsmanship and spearmanship, and also taught medicine and astronomy, much like a comprehensive university. Its guiding principles were set out in the Kodokanki issued in Nariaki's name, and after its formal opening in 1857 many domain samurai studied here."
+    },
+    {
+      "title": "最後の将軍と至善堂",
+      "text": "弘道館は、江戸幕府最後の将軍、徳川慶喜とゆかりの深い場所です。斉昭の子として生まれた慶喜は、幼いころを水戸で過ごし、弘道館で学問や武芸に励みました。やがて一橋家を継ぎ、十五代将軍となった慶喜は、1867年に政権を朝廷に返す大政奉還を行います。翌年、新政府軍との戦いの後に江戸城が明け渡されると、慶喜は故郷の水戸に戻り、弘道館の至善堂で謹慎の日々を過ごしました。若き日に学んだ場所で、慶喜はどんな思いで時代の移り変わりを見つめていたのでしょうか。",
+      "titleEn": "The Last Shogun and the Shizendo",
+      "textEn": "Kodokan is closely tied to Tokugawa Yoshinobu, the last shogun. Born a son of Nariaki, he spent his childhood in Mito and studied scholarship and martial arts here. After becoming the fifteenth shogun, he returned political power to the imperial court in 1867, and the following year, after Edo Castle was surrendered, he came back to Mito and lived in confinement in the Shizendo, the very school where he had studied as a boy."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "弘道館の正門は、藩主が来るときなどにしか開かれなかった格式の高い門です。門には、幕末の争いの際についた弾の跡が残っているといわれています。正庁に入ると、文武の試験などが行われた広い部屋があり、床の間には尊攘と大きく書かれた掛け軸が掲げられています。その奥にある至善堂が、慶喜が謹慎した建物です。建物の外では、梅の木々も見どころです。弘道館は、足利学校などとともに、近世の教育の歴史を伝える日本遺産にも認定されています。",
+      "titleEn": "What to See on Site",
+      "textEn": "The main gate, opened only on formal occasions such as the lord's visits, is said to bear bullet marks from fighting at the end of the shogunate. Inside the main hall are wide rooms where examinations in letters and martial arts were held, with a large scroll bearing the slogan Sonjo hanging in the alcove, and beyond it is the Shizendo, where Yoshinobu was confined. Outside, enjoy the plum trees; together with schools such as Ashikaga Gakko, Kodokan is recognized as Japan Heritage.",
+      "localOnly": true
+    },
+    {
+      "title": "さいごの将軍が学んだ学校",
+      "text": "こうどうかんは、江戸時代のさむらいの学校でした。ここで学んだ子どもの一人が、のちに江戸幕府さいごの将軍になった徳川慶喜です。勉強だけでなく、けんじゅつなどでからだをきたえることも大事にしていました。きみは、勉強と運動、どちらがすきですか。どちらも大切にするのが、こうどうかんの考え方でした。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q3081773"
+}

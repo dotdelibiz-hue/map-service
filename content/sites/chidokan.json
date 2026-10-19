@@ -1,0 +1,59 @@
+{
+  "id": "chidokan",
+  "title": "致道館",
+  "titleEn": "Chidokan (Shonai Domain School)",
+  "kana": "ちどうかん",
+  "type": "school",
+  "eras": [
+    "江戸時代"
+  ],
+  "summary": "東北で唯一建物が残る庄内藩の藩校",
+  "description": "致道館は、庄内藩主の酒井忠徳が1805年に開いた藩校で、1816年に現在の鶴岡市の地に移されました。儒学者の荻生徂徠の学問を重んじ、生徒一人ひとりの持ち味を伸ばすことや、自分で考えて学ぶことを大切にした教育で知られています。表御門、聖廟、講堂、御入間などの建物が残り、旧致道館として国の史跡に指定されています。現存する藩校の建物としては東北地方で唯一のものとされ、江戸時代の武士の子どもたちが学んだ場の雰囲気を今に伝えています。",
+  "descriptionEn": "Chidokan is a domain school founded in 1805 by Sakai Tadaari, lord of the Shonai domain, and moved to its present site in Tsuruoka in 1816. Based on the teachings of the Confucian scholar Ogyu Sorai, it was known for an education that valued each student's individual strengths and independent study. Its surviving buildings, including the front gate, the Confucian shrine, the lecture hall and the lord's rooms, are a National Historic Site and are said to be the only remaining domain school buildings in the Tohoku region.",
+  "kidsDescription": "ちどうかんは、山形県鶴岡市にある、江戸時代のさむらいの子どもたちの学校です。ひとりひとりのよいところをのばす勉強のしかたを大切にしていました。いまも、むかしの門や教室のたてものがのこっていて、見学することができます。",
+  "highlights": [
+    "表御門と聖廟",
+    "広々とした講堂",
+    "藩主が使った御入間"
+  ],
+  "prefecture": "山形県",
+  "city": "鶴岡市",
+  "lat": 38.726222,
+  "lng": 139.826444,
+  "special": false,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Babacho%2C_Tsuruoka%2C_Yamagata_Prefecture_997-0035%2C_Japan_-_panoramio_%282%29.jpg/960px-Babacho%2C_Tsuruoka%2C_Yamagata_Prefecture_997-0035%2C_Japan_-_panoramio_%282%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Babacho%2C_Tsuruoka%2C_Yamagata_Prefecture_997-0035%2C_Japan_-_panoramio_%282%29.jpg/330px-Babacho%2C_Tsuruoka%2C_Yamagata_Prefecture_997-0035%2C_Japan_-_panoramio_%282%29.jpg",
+    "author": "kiwa dokokano",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Babacho,_Tsuruoka,_Yamagata_Prefecture_997-0035,_Japan_-_panoramio_(2).jpg"
+  },
+  "chapters": [
+    {
+      "title": "庄内藩の学校",
+      "text": "致道館は、江戸時代の1805年、庄内藩主の酒井忠徳によって開かれた藩校です。当時の庄内藩では、武士の気風がゆるみ、藩の財政も苦しくなっていたといわれます。忠徳は、藩を立て直すためには人を育てることが大切だと考え、学校を開きました。最初は別の場所にありましたが、1816年に、藩主の居城である鶴ヶ岡城のそばの現在の地に移され、本格的な学びの場となりました。明治時代の初めに藩校としての役目を終えるまで、多くの藩士の子どもたちがここで学びました。",
+      "titleEn": "The Shonai Domain's School",
+      "textEn": "Chidokan was founded in 1805 by Sakai Tadaari, lord of Shonai, at a time when samurai discipline was said to be slipping and the domain's finances were strained; he believed that educating people was the key to reform. First located elsewhere, it moved in 1816 to its present site near Tsurugaoka Castle. Many sons of domain samurai studied here until it closed in the early Meiji era."
+    },
+    {
+      "title": "個性を伸ばす教え",
+      "text": "致道館の教育の柱となったのは、江戸時代の儒学者、荻生徂徠の学問でした。徂徠は、人にはそれぞれ生まれ持った持ち味があり、それを伸ばすことが大切だと説きました。致道館でもこの考えを受け継ぎ、先生が一方的に教え込むのではなく、生徒が自分で考え、自分で学ぶことを重んじました。学力に応じて段階を進んでいく仕組みもあったといわれます。一人ひとりの才能を大切にするこうした教えは、今の教育にも通じるものとして注目されています。",
+      "titleEn": "Teaching That Nurtured Individuality",
+      "textEn": "The school's education was based on the teachings of Ogyu Sorai, a Confucian scholar who held that each person has innate qualities that should be developed. Chidokan therefore emphasized independent thought and self-directed study rather than rote instruction, and students are said to have advanced in stages according to their ability. This respect for individual talent is still seen as relevant to education today."
+    },
+    {
+      "title": "現地での見どころ",
+      "text": "致道館を訪ねたら、まず表御門をくぐってみてください。藩主が訪れる際などに使われた、格式の高い門です。その奥には、儒学の祖である孔子をまつる聖廟があり、学びの場の心のよりどころでした。講堂は、藩主が臨席して講義などが行われた大きな建物で、広々とした室内に当時の学びの雰囲気が感じられます。御入間は、藩主が訪れた際に使った部屋です。戊辰戦争の後、庄内藩が新政府軍に降伏した際の場とも伝えられています。資料の展示もあわせてご覧ください。",
+      "titleEn": "What to See on Site",
+      "textEn": "Pass through the front gate, used on formal occasions such as the lord's visits, to reach the shrine to Confucius, the spiritual heart of the school. The spacious lecture hall, where lectures were held in the lord's presence, still conveys the atmosphere of learning. The lord's rooms are also said to be where the Shonai domain surrendered to the new government after the Boshin War, and exhibits help explain the school's history.",
+      "localOnly": true
+    },
+    {
+      "title": "じぶんで考える学校",
+      "text": "ちどうかんでは、先生の話をきくだけでなく、じぶんで考えて勉強することを大切にしていました。人にはそれぞれ、ちがうよいところがあるから、それをのばそうという考え方です。きみのよいところは、どんなところでしょう。江戸時代の子どもたちも、ここで同じようなことを考えていたかもしれませんね。",
+      "forKids": true
+    }
+  ],
+  "wikidataId": "Q2963434"
+}
