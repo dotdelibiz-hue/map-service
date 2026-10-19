@@ -56,7 +56,9 @@ npm run dev
 
 ## GitHub Pages でデモを公開する
 
-`main` ブランチに push すると、`.github/workflows/pages.yml` がデモモードのサイトを公開します。初回だけ、リポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** にしてください。公開先は `https://<ユーザー名>.github.io/<リポジトリ名>/` です。
+`main` ブランチに push すると、`.github/workflows/pages.yml` がデモモードのサイトをビルドして `gh-pages` ブランチに置き、GitHub Pages で公開します。公開先は `https://<ユーザー名>.github.io/<リポジトリ名>/` です（このリポジトリは https://dotdelibiz-hue.github.io/map-service/ ）。
+
+表示されない場合は、リポジトリの **Settings → Pages → Build and deployment** で Source が **Deploy from a branch**、Branch が **gh-pages / (root)** になっているか確認してください。
 
 ## 史跡データの追加・編集
 
