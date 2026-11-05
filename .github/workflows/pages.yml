@@ -1,5 +1,5 @@
-# main ブランチの内容を「デモモード」で GitHub Pages に公開します。
-# 初回だけ、リポジトリの Settings → Pages → Build and deployment → Source を「GitHub Actions」にしてください。
+# main ブランチの内容を「デモモード」でビルドし、gh-pages ブランチに置いて GitHub Pages で公開します。
+# gh-pages ブランチが作られると GitHub Pages は自動で有効になります（Settings → Pages → Source: Deploy from a branch / gh-pages）。
 name: Deploy demo to GitHub Pages
 
 on:
@@ -8,16 +8,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,19 +27,15 @@ jobs:
       - run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/
-      # どの URL を直接開いてもアプリが表示されるように
-      - run: cp dist/index.html dist/404.html
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      # どの URL を直接開いてもアプリが表示されるように。.nojekyll は Jekyll の変換を止めるため
+      - run: cp dist/index.html dist/404.html && touch dist/.nojekyll
+      - name: Push to gh-pages
+        working-directory: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "Deploy ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
